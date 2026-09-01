@@ -1,0 +1,3201 @@
+id_pagamento,id_pedido,metodo_pagamento,valor_pago,status_pagamento
+1,1,Cartão de Crédito,9879.52,Pendente
+2,2,Cartão de Crédito,12736.38,Aprovado
+3,3,Boleto,4876.7,Aprovado
+4,4,Cartão de Crédito,2554.31,Aprovado
+5,5,Pix,2637.75,Aprovado
+6,6,Cartão de Débito,8364.42,Aprovado
+7,7,Pix,9466.3,Aprovado
+8,8,Pix,2894.22,Aprovado
+9,9,Pix,755.63,Aprovado
+10,10,Cartão de Crédito,2800.86,Aprovado
+11,11,Pix,5296.41,Aprovado
+12,12,Pix,5982.54,Aprovado
+13,13,Cartão de Crédito,6509.91,Aprovado
+14,14,Pix,8143.41,Aprovado
+15,15,Pix,9095.86,Aprovado
+16,16,Cartão de Crédito,3062.09,Aprovado
+17,17,Cartão de Crédito,5958.33,Aprovado
+18,18,Pix,1727.17,Aprovado
+19,19,Cartão de Crédito,3429.66,Aprovado
+20,20,Cartão de Crédito,4256.09,Pendente
+21,21,Boleto,6079.39,Aprovado
+22,22,Cartão de Crédito,12936.46,Aprovado
+23,23,Pix,0.0,Aprovado
+24,24,Cartão de Crédito,3103.76,Pendente
+25,25,Pix,3711.44,Aprovado
+26,26,Pix,2101.09,Aprovado
+27,27,Pix,7264.42,Aprovado
+28,28,Pix,6458.99,Aprovado
+29,29,Pix,3197.61,Aprovado
+30,30,Boleto,16413.49,Aprovado
+31,31,Cartão de Crédito,2849.69,Aprovado
+32,32,Cartão de Crédito,3932.87,Aprovado
+33,33,Pix,3321.81,Aprovado
+34,34,Cartão de Crédito,6381.62,Aprovado
+35,35,Pix,15750.42,Aprovado
+36,36,Cartão de Débito,9864.99,Aprovado
+37,37,Cartão de Crédito,2649.42,Aprovado
+38,38,Cartão de Crédito,2920.0,Aprovado
+39,39,Pix,14032.66,Aprovado
+40,40,Cartão de Crédito,6013.0,Pendente
+41,41,Pix,1138.08,Aprovado
+42,42,Cartão de Crédito,13397.84,Aprovado
+43,43,Boleto,4413.71,Aprovado
+44,44,Cartão de Débito,206.76,Aprovado
+45,45,Cartão de Crédito,2696.04,Aprovado
+46,46,Boleto,6766.7,Recusado
+47,47,Boleto,1522.73,Aprovado
+48,48,Pix,12491.23,Aprovado
+49,49,Cartão de Crédito,2970.48,Aprovado
+50,50,Cartão de Crédito,18671.56,Recusado
+51,51,Boleto,2919.92,Aprovado
+52,52,Cartão de Débito,1759.41,Aprovado
+53,53,Cartão de Crédito,3553.69,Aprovado
+54,54,Cartão de Crédito,5808.48,Aprovado
+55,55,Boleto,11153.89,Aprovado
+56,56,Cartão de Crédito,3059.16,Aprovado
+57,57,Cartão de Crédito,2637.75,Aprovado
+58,58,Cartão de Crédito,14372.71,Aprovado
+59,59,Boleto,26175.41,Aprovado
+60,60,Cartão de Crédito,4147.5,Aprovado
+61,61,Cartão de Crédito,12416.59,Aprovado
+62,62,Cartão de Crédito,3240.94,Aprovado
+63,63,Cartão de Crédito,21833.68,Aprovado
+64,64,Boleto,7499.89,Aprovado
+65,65,Boleto,5499.06,Aprovado
+66,66,Cartão de Crédito,1943.3,Pendente
+67,67,Cartão de Crédito,3103.76,Aprovado
+68,68,Pix,9547.3,Aprovado
+69,69,Pix,8561.78,Aprovado
+70,70,Pix,5051.29,Aprovado
+71,71,Cartão de Crédito,17407.12,Aprovado
+72,72,Pix,52.79,Aprovado
+73,73,Cartão de Crédito,3139.81,Aprovado
+74,74,Cartão de Crédito,1851.97,Aprovado
+75,75,Pix,1340.86,Aprovado
+76,76,Pix,4595.88,Aprovado
+77,77,Pix,9043.71,Aprovado
+78,78,Pix,805.88,Aprovado
+79,79,Boleto,10265.42,Aprovado
+80,80,Cartão de Crédito,4518.46,Aprovado
+81,81,Boleto,15647.6,Aprovado
+82,82,Cartão de Crédito,2696.04,Aprovado
+83,83,Cartão de Crédito,9110.42,Aprovado
+84,84,Pix,7309.48,Aprovado
+85,85,Cartão de Crédito,6077.33,Aprovado
+86,86,Boleto,7800.85,Aprovado
+87,87,Cartão de Crédito,19304.99,Aprovado
+88,88,Pix,556.59,Aprovado
+89,89,Pix,1862.27,Aprovado
+90,90,Pix,5316.04,Aprovado
+91,91,Boleto,14086.27,Aprovado
+92,92,Cartão de Crédito,8737.2,Aprovado
+93,93,Cartão de Débito,10040.77,Pendente
+94,94,Pix,2786.41,Pendente
+95,95,Pix,3607.89,Aprovado
+96,96,Boleto,8118.32,Aprovado
+97,97,Cartão de Débito,18848.74,Aprovado
+98,98,Cartão de Crédito,10754.25,Aprovado
+99,99,Pix,2649.42,Aprovado
+100,100,Pix,4092.31,Aprovado
+101,101,Pix,4282.1,Aprovado
+102,102,Cartão de Crédito,3790.24,Aprovado
+103,103,Cartão de Crédito,2750.62,Aprovado
+104,104,Boleto,2951.96,Aprovado
+105,105,Pix,15796.43,Aprovado
+106,106,Cartão de Crédito,4525.21,Aprovado
+107,107,Cartão de Débito,6598.23,Aprovado
+108,108,Pix,14727.56,Aprovado
+109,109,Boleto,2441.81,Aprovado
+110,110,Cartão de Débito,5421.84,Aprovado
+111,111,Pix,392.32,Aprovado
+112,112,Cartão de Crédito,6624.9,Aprovado
+113,113,Cartão de Crédito,1943.3,Aprovado
+114,114,Pix,1977.49,Aprovado
+115,115,Pix,9331.57,Aprovado
+116,116,Cartão de Crédito,4250.12,Aprovado
+117,117,Pix,3583.28,Aprovado
+118,118,Pix,18848.0,Aprovado
+119,119,Boleto,123.0,Aprovado
+120,120,Pix,2657.14,Pendente
+121,121,Cartão de Débito,10855.86,Aprovado
+122,122,Cartão de Crédito,2747.52,Aprovado
+123,123,Pix,8325.65,Aprovado
+124,124,Boleto,10072.29,Aprovado
+125,125,Cartão de Crédito,19692.95,Aprovado
+126,126,Cartão de Crédito,12401.57,Pendente
+127,127,Pix,11393.47,Aprovado
+128,128,Boleto,12466.72,Aprovado
+129,129,Boleto,1986.11,Pendente
+130,130,Cartão de Crédito,13982.32,Aprovado
+131,131,Cartão de Crédito,1318.12,Aprovado
+132,132,Pix,5706.41,Aprovado
+133,133,Pix,3147.52,Aprovado
+134,134,Pix,19401.84,Aprovado
+135,135,Cartão de Crédito,5392.08,Aprovado
+136,136,Boleto,11406.82,Aprovado
+137,137,Boleto,18137.13,Aprovado
+138,138,Pix,3333.04,Aprovado
+139,139,Cartão de Crédito,1986.11,Aprovado
+140,140,Pix,12858.09,Aprovado
+141,141,Pix,2586.43,Aprovado
+142,142,Cartão de Crédito,4840.6,Aprovado
+143,143,Cartão de Débito,6030.96,Aprovado
+144,144,Pix,2747.79,Aprovado
+145,145,Cartão de Débito,7828.97,Aprovado
+146,146,Cartão de Crédito,3005.6,Pendente
+147,147,Cartão de Crédito,7188.93,Aprovado
+148,148,Boleto,4158.97,Aprovado
+149,149,Boleto,9909.66,Aprovado
+150,150,Cartão de Crédito,13359.23,Aprovado
+151,151,Cartão de Crédito,915.4,Pendente
+152,152,Pix,2700.88,Aprovado
+153,153,Pix,6390.56,Aprovado
+154,154,Cartão de Crédito,18726.67,Aprovado
+155,155,Pix,1791.64,Aprovado
+156,156,Pix,6170.14,Aprovado
+157,157,Cartão de Crédito,3108.59,Aprovado
+158,158,Pix,2169.97,Aprovado
+159,159,Pix,5181.51,Aprovado
+160,160,Cartão de Crédito,18001.15,Pendente
+161,161,Cartão de Crédito,5940.96,Aprovado
+162,162,Cartão de Débito,6030.96,Aprovado
+163,163,Cartão de Crédito,3006.5,Aprovado
+164,164,Cartão de Débito,15027.89,Aprovado
+165,165,Cartão de Crédito,5331.7,Pendente
+166,166,Cartão de Crédito,8916.24,Aprovado
+167,167,Cartão de Crédito,8881.72,Aprovado
+168,168,Cartão de Crédito,5876.98,Aprovado
+169,169,Cartão de Débito,8841.02,Aprovado
+170,170,Pix,9419.43,Aprovado
+171,171,Pix,1532.57,Aprovado
+172,172,Pix,13996.98,Aprovado
+173,173,Cartão de Crédito,6013.0,Aprovado
+174,174,Cartão de Crédito,379.36,Aprovado
+175,175,Boleto,11134.93,Aprovado
+176,176,Cartão de Crédito,15446.27,Aprovado
+177,177,Pix,8848.88,Aprovado
+178,178,Cartão de Crédito,19267.02,Aprovado
+179,179,Cartão de Crédito,5852.0,Aprovado
+180,180,Cartão de Crédito,3559.7,Aprovado
+181,181,Cartão de Crédito,2649.42,Aprovado
+182,182,Pix,950.19,Aprovado
+183,183,Cartão de Crédito,590.37,Pendente
+184,184,Pix,4966.09,Aprovado
+185,185,Pix,10801.32,Aprovado
+186,186,Pix,14153.34,Pendente
+187,187,Cartão de Crédito,11594.8,Aprovado
+188,188,Pix,5275.5,Aprovado
+189,189,Pix,5323.34,Aprovado
+190,190,Cartão de Crédito,6279.62,Aprovado
+191,191,Cartão de Crédito,8395.92,Aprovado
+192,192,Cartão de Crédito,8258.44,Aprovado
+193,193,Pix,2946.14,Aprovado
+194,194,Cartão de Débito,2857.05,Aprovado
+195,195,Pix,11490.73,Aprovado
+196,196,Cartão de Crédito,527.71,Aprovado
+197,197,Cartão de Crédito,10496.23,Aprovado
+198,198,Pix,2473.95,Aprovado
+199,199,Pix,1896.45,Aprovado
+200,200,Cartão de Crédito,11638.4,Aprovado
+201,201,Cartão de Crédito,3784.15,Aprovado
+202,202,Cartão de Crédito,8865.35,Aprovado
+203,203,Cartão de Débito,3949.82,Aprovado
+204,204,Boleto,1779.85,Aprovado
+205,205,Cartão de Crédito,7195.1,Aprovado
+206,206,Cartão de Crédito,9894.5,Aprovado
+207,207,Cartão de Crédito,3210.71,Aprovado
+208,208,Cartão de Crédito,2016.06,Aprovado
+209,209,Cartão de Crédito,7231.56,Aprovado
+210,210,Cartão de Crédito,13533.81,Aprovado
+211,211,Boleto,10038.16,Recusado
+212,212,Pix,2924.48,Aprovado
+213,213,Boleto,4657.22,Aprovado
+214,214,Cartão de Crédito,5298.84,Aprovado
+215,215,Pix,7013.09,Aprovado
+216,216,Cartão de Crédito,2825.36,Aprovado
+217,217,Cartão de Crédito,1551.88,Aprovado
+218,218,Pix,4820.31,Aprovado
+219,219,Cartão de Crédito,5661.75,Aprovado
+220,220,Boleto,2938.49,Recusado
+221,221,Cartão de Crédito,11455.78,Aprovado
+222,222,Cartão de Crédito,8695.4,Aprovado
+223,223,Pix,7865.26,Recusado
+224,224,Pix,3139.81,Pendente
+225,225,Pix,4760.24,Aprovado
+226,226,Pix,13431.21,Aprovado
+227,227,Cartão de Crédito,3210.71,Aprovado
+228,228,Cartão de Crédito,7024.96,Aprovado
+229,229,Pix,5573.29,Aprovado
+230,230,Pix,1167.83,Aprovado
+231,231,Cartão de Crédito,7315.05,Aprovado
+232,232,Pix,17535.51,Aprovado
+233,233,Cartão de Débito,2000.59,Aprovado
+234,234,Boleto,3559.7,Pendente
+235,235,Cartão de Crédito,8048.05,Aprovado
+236,236,Boleto,4697.78,Aprovado
+237,237,Pix,6651.02,Aprovado
+238,238,Pix,7213.6,Aprovado
+239,239,Boleto,2846.75,Aprovado
+240,240,Cartão de Crédito,6731.62,Aprovado
+241,241,Pix,556.59,Aprovado
+242,242,Pix,3474.1,Aprovado
+243,243,Pix,5298.84,Aprovado
+244,244,Pix,9344.5,Aprovado
+245,245,Pix,7721.0,Aprovado
+246,246,Boleto,4160.9,Aprovado
+247,247,Cartão de Crédito,6011.2,Aprovado
+248,248,Cartão de Crédito,5522.74,Aprovado
+249,249,Cartão de Crédito,2800.86,Aprovado
+250,250,Pix,6504.02,Aprovado
+251,251,Cartão de Crédito,17795.06,Aprovado
+252,252,Cartão de Crédito,9671.36,Aprovado
+253,253,Pix,13344.56,Aprovado
+254,254,Boleto,2657.14,Pendente
+255,255,Cartão de Crédito,4217.91,Aprovado
+256,256,Pix,25454.34,Aprovado
+257,257,Cartão de Crédito,1473.07,Aprovado
+258,258,Pix,6504.02,Aprovado
+259,259,Cartão de Crédito,413.52,Aprovado
+260,260,Cartão de Crédito,4154.16,Aprovado
+261,261,Cartão de Crédito,7371.69,Aprovado
+262,262,Pix,6857.37,Recusado
+263,263,Boleto,20438.7,Pendente
+264,264,Pix,7828.66,Aprovado
+265,265,Cartão de Crédito,2936.7,Aprovado
+266,266,Pix,10341.98,Aprovado
+267,267,Cartão de Crédito,16156.7,Pendente
+268,268,Cartão de Débito,13801.37,Aprovado
+269,269,Boleto,3474.1,Aprovado
+270,270,Pix,7772.41,Aprovado
+271,271,Cartão de Crédito,2825.36,Aprovado
+272,272,Cartão de Crédito,8662.68,Aprovado
+273,273,Cartão de Crédito,1862.27,Aprovado
+274,274,Cartão de Crédito,9482.3,Aprovado
+275,275,Pix,4999.32,Aprovado
+276,276,Cartão de Crédito,1522.73,Aprovado
+277,277,Pix,4816.82,Aprovado
+278,278,Boleto,11475.86,Aprovado
+279,279,Pix,5053.18,Aprovado
+280,280,Pix,4436.36,Pendente
+281,281,Cartão de Débito,1674.88,Aprovado
+282,282,Pix,955.74,Aprovado
+283,283,Pix,895.82,Pendente
+284,284,Cartão de Crédito,7987.66,Aprovado
+285,285,Cartão de Crédito,12965.77,Pendente
+286,286,Cartão de Crédito,14261.59,Pendente
+287,287,Cartão de Crédito,10055.66,Aprovado
+288,288,Pix,1567.58,Recusado
+289,289,Cartão de Crédito,9284.48,Aprovado
+290,290,Pix,5190.13,Aprovado
+291,291,Cartão de Crédito,1405.97,Pendente
+292,292,Cartão de Crédito,9059.04,Aprovado
+293,293,Pix,1093.35,Aprovado
+294,294,Cartão de Crédito,10788.33,Aprovado
+295,295,Boleto,4329.21,Aprovado
+296,296,Cartão de Débito,3234.65,Aprovado
+297,297,Pix,805.88,Pendente
+298,298,Cartão de Crédito,17984.57,Pendente
+299,299,Boleto,12559.24,Aprovado
+300,300,Cartão de Crédito,10732.0,Aprovado
+301,301,Cartão de Crédito,6526.19,Aprovado
+302,302,Cartão de Crédito,17754.34,Aprovado
+303,303,Cartão de Crédito,19793.31,Aprovado
+304,304,Cartão de Crédito,11378.83,Aprovado
+305,305,Cartão de Crédito,6598.94,Aprovado
+306,306,Cartão de Crédito,3086.07,Recusado
+307,307,Pix,2210.67,Aprovado
+308,308,Pix,3922.4,Recusado
+309,309,Pix,8348.79,Aprovado
+310,310,Cartão de Crédito,3309.15,Aprovado
+311,311,Boleto,10591.3,Aprovado
+312,312,Pix,12461.96,Aprovado
+313,313,Pix,13981.74,Aprovado
+314,314,Pix,11697.92,Aprovado
+315,315,Cartão de Crédito,1862.27,Aprovado
+316,316,Boleto,1977.49,Aprovado
+317,317,Pix,1762.66,Aprovado
+318,318,Boleto,3005.6,Aprovado
+319,319,Pix,1258.12,Aprovado
+320,320,Cartão de Crédito,8803.78,Aprovado
+321,321,Cartão de Crédito,379.36,Aprovado
+322,322,Cartão de Crédito,10901.14,Aprovado
+323,323,Pix,7123.79,Aprovado
+324,324,Pix,556.59,Aprovado
+325,325,Cartão de Crédito,137.61,Aprovado
+326,326,Cartão de Crédito,7966.6,Aprovado
+327,327,Cartão de Crédito,7804.3,Pendente
+328,328,Cartão de Crédito,1328.57,Aprovado
+329,329,Cartão de Crédito,7807.0,Aprovado
+330,330,Pix,4121.44,Aprovado
+331,331,Cartão de Crédito,10685.48,Aprovado
+332,332,Pix,2253.4,Aprovado
+333,333,Cartão de Débito,2938.49,Pendente
+334,334,Pix,16992.38,Aprovado
+335,335,Pix,14502.41,Aprovado
+336,336,Cartão de Débito,2749.53,Aprovado
+337,337,Cartão de Crédito,21136.14,Aprovado
+338,338,Cartão de Crédito,2568.26,Aprovado
+339,339,Boleto,4929.45,Recusado
+340,340,Cartão de Crédito,2568.01,Aprovado
+341,341,Cartão de Débito,1309.95,Recusado
+342,342,Pix,0.0,Aprovado
+343,343,Cartão de Débito,8438.92,Aprovado
+344,344,Pix,8082.2,Aprovado
+345,345,Pix,11779.94,Aprovado
+346,346,Cartão de Crédito,950.19,Recusado
+347,347,Cartão de Crédito,21524.87,Aprovado
+348,348,Cartão de Crédito,2637.75,Aprovado
+349,349,Boleto,4509.02,Aprovado
+350,350,Boleto,14426.49,Aprovado
+351,351,Pix,5359.6,Pendente
+352,352,Cartão de Crédito,1309.95,Aprovado
+353,353,Pix,5247.72,Aprovado
+354,354,Boleto,26067.54,Aprovado
+355,355,Cartão de Crédito,15070.99,Aprovado
+356,356,Cartão de Crédito,7279.7,Aprovado
+357,357,Cartão de Débito,10480.61,Aprovado
+358,358,Cartão de Crédito,19120.32,Aprovado
+359,359,Cartão de Crédito,4154.16,Aprovado
+360,360,Pix,1779.85,Aprovado
+361,361,Cartão de Crédito,4803.84,Aprovado
+362,362,Boleto,19078.81,Aprovado
+363,363,Cartão de Crédito,22398.9,Aprovado
+364,364,Cartão de Crédito,1977.49,Aprovado
+365,365,Cartão de Crédito,2010.32,Aprovado
+366,366,Cartão de Crédito,690.56,Aprovado
+367,367,Pix,2686.32,Aprovado
+368,368,Boleto,5535.78,Aprovado
+369,369,Cartão de Crédito,105.58,Aprovado
+370,370,Cartão de Crédito,4901.52,Aprovado
+371,371,Pix,1791.64,Aprovado
+372,372,Cartão de Crédito,4886.66,Aprovado
+373,373,Cartão de Crédito,6803.93,Aprovado
+374,374,Pix,11855.84,Aprovado
+375,375,Boleto,2297.94,Aprovado
+376,376,Pix,1400.43,Aprovado
+377,377,Cartão de Crédito,1943.3,Pendente
+378,378,Cartão de Crédito,9355.61,Aprovado
+379,379,Boleto,15402.9,Aprovado
+380,380,Cartão de Crédito,12892.37,Recusado
+381,381,Pix,3625.35,Aprovado
+382,382,Pix,7100.09,Aprovado
+383,383,Cartão de Crédito,14280.45,Aprovado
+384,384,Boleto,52.79,Aprovado
+385,385,Boleto,13571.53,Aprovado
+386,386,Cartão de Crédito,2679.8,Aprovado
+387,387,Pix,12269.63,Aprovado
+388,388,Pix,7116.73,Pendente
+389,389,Cartão de Débito,8623.15,Aprovado
+390,390,Cartão de Crédito,12202.04,Aprovado
+391,391,Cartão de Crédito,5360.84,Aprovado
+392,392,Cartão de Crédito,12652.09,Aprovado
+393,393,Cartão de Crédito,8693.78,Aprovado
+394,394,Cartão de Crédito,4804.47,Pendente
+395,395,Pix,12925.56,Pendente
+396,396,Cartão de Crédito,5028.11,Pendente
+397,397,Pix,7809.98,Pendente
+398,398,Cartão de Crédito,3474.1,Aprovado
+399,399,Pix,123.0,Aprovado
+400,400,Cartão de Débito,9533.48,Aprovado
+401,401,Pix,2319.04,Aprovado
+402,402,Pix,10534.84,Aprovado
+403,403,Cartão de Crédito,6279.62,Aprovado
+404,404,Pix,2751.56,Aprovado
+405,405,Cartão de Crédito,6634.78,Aprovado
+406,406,Pix,3240.94,Aprovado
+407,407,Pix,8725.41,Aprovado
+408,408,Pix,6545.72,Aprovado
+409,409,Cartão de Crédito,3180.39,Aprovado
+410,410,Pix,11163.16,Aprovado
+411,411,Boleto,7600.11,Aprovado
+412,412,Boleto,2169.97,Aprovado
+413,413,Pix,1567.58,Aprovado
+414,414,Boleto,9915.59,Aprovado
+415,415,Pix,4775.69,Aprovado
+416,416,Pix,690.56,Aprovado
+417,417,Pix,5586.81,Aprovado
+418,418,Cartão de Débito,1862.27,Aprovado
+419,419,Cartão de Crédito,9651.33,Aprovado
+420,420,Cartão de Crédito,9876.51,Aprovado
+421,421,Pix,3387.75,Aprovado
+422,422,Cartão de Crédito,11515.67,Aprovado
+423,423,Pix,6504.02,Aprovado
+424,424,Cartão de Crédito,3321.81,Aprovado
+425,425,Cartão de Crédito,9747.09,Pendente
+426,426,Boleto,5876.98,Pendente
+427,427,Pix,6613.57,Aprovado
+428,428,Pix,8932.89,Aprovado
+429,429,Cartão de Crédito,9359.54,Aprovado
+430,430,Cartão de Crédito,10150.05,Aprovado
+431,431,Cartão de Crédito,4949.8,Aprovado
+432,432,Cartão de Crédito,13329.11,Aprovado
+433,433,Pix,1473.07,Aprovado
+434,434,Cartão de Crédito,2721.67,Aprovado
+435,435,Cartão de Crédito,2653.99,Aprovado
+436,436,Pix,690.56,Recusado
+437,437,Cartão de Crédito,4513.76,Aprovado
+438,438,Pix,2172.68,Aprovado
+439,439,Cartão de Crédito,4113.27,Aprovado
+440,440,Cartão de Crédito,1614.18,Aprovado
+441,441,Cartão de Crédito,3139.81,Pendente
+442,442,Boleto,11257.41,Aprovado
+443,443,Pix,5619.9,Aprovado
+444,444,Cartão de Crédito,1318.12,Aprovado
+445,445,Cartão de Crédito,3116.97,Aprovado
+446,446,Cartão de Crédito,2526.59,Aprovado
+447,447,Pix,5960.24,Aprovado
+448,448,Cartão de Crédito,12961.2,Aprovado
+449,449,Pix,21122.41,Aprovado
+450,450,Pix,4607.6,Aprovado
+451,451,Cartão de Crédito,11162.84,Pendente
+452,452,Pix,1375.78,Aprovado
+453,453,Pix,3584.08,Aprovado
+454,454,Cartão de Débito,4252.25,Aprovado
+455,455,Cartão de Crédito,7994.26,Aprovado
+456,456,Pix,0.0,Aprovado
+457,457,Pix,5087.77,Aprovado
+458,458,Cartão de Crédito,14490.03,Aprovado
+459,459,Cartão de Crédito,2010.32,Aprovado
+460,460,Cartão de Crédito,8830.52,Aprovado
+461,461,Pix,17841.74,Aprovado
+462,462,Cartão de Crédito,2169.97,Aprovado
+463,463,Cartão de Crédito,2619.9,Aprovado
+464,464,Cartão de Crédito,4638.08,Pendente
+465,465,Pix,3525.32,Aprovado
+466,466,Pix,5271.52,Aprovado
+467,467,Boleto,206.76,Aprovado
+468,468,Boleto,7573.96,Aprovado
+469,469,Boleto,1996.09,Aprovado
+470,470,Cartão de Crédito,6330.85,Aprovado
+471,471,Pix,4261.64,Aprovado
+472,472,Pix,13347.3,Aprovado
+473,473,Cartão de Crédito,8412.17,Aprovado
+474,474,Cartão de Crédito,345.28,Aprovado
+475,475,Pix,363.88,Aprovado
+476,476,Pix,4020.64,Aprovado
+477,477,Pix,4932.59,Pendente
+478,478,Cartão de Crédito,11051.15,Aprovado
+479,479,Pix,4993.96,Recusado
+480,480,Pix,9773.2,Aprovado
+481,481,Pix,950.19,Pendente
+482,482,Cartão de Crédito,123.0,Aprovado
+483,483,Pix,8278.16,Aprovado
+484,484,Cartão de Crédito,8322.35,Aprovado
+485,485,Boleto,5286.52,Aprovado
+486,486,Pix,4384.44,Aprovado
+487,487,Cartão de Crédito,1473.07,Aprovado
+488,488,Pix,2657.85,Pendente
+489,489,Cartão de Débito,10278.1,Aprovado
+490,490,Cartão de Crédito,1957.02,Aprovado
+491,491,Cartão de Crédito,4092.31,Aprovado
+492,492,Boleto,4632.34,Aprovado
+493,493,Pix,13414.7,Aprovado
+494,494,Boleto,13332.27,Recusado
+495,495,Pix,6789.68,Aprovado
+496,496,Cartão de Crédito,11695.62,Aprovado
+497,497,Cartão de Crédito,2649.42,Recusado
+498,498,Pix,18963.99,Aprovado
+499,499,Cartão de Crédito,1405.97,Pendente
+500,500,Cartão de Crédito,1113.18,Aprovado
+501,501,Cartão de Crédito,6071.43,Aprovado
+502,502,Cartão de Débito,1328.57,Aprovado
+503,503,Pix,9790.47,Aprovado
+504,504,Cartão de Crédito,6606.49,Aprovado
+505,505,Pix,4903.92,Aprovado
+506,506,Cartão de Crédito,10923.18,Pendente
+507,507,Boleto,11328.64,Aprovado
+508,508,Cartão de Crédito,10267.75,Aprovado
+509,509,Pix,4595.88,Aprovado
+510,510,Pix,5640.36,Aprovado
+511,511,Boleto,7083.33,Aprovado
+512,512,Cartão de Crédito,2165.91,Aprovado
+513,513,Boleto,2783.37,Aprovado
+514,514,Cartão de Crédito,1170.46,Pendente
+515,515,Boleto,585.23,Aprovado
+516,516,Cartão de Crédito,3365.81,Aprovado
+517,517,Pix,5446.05,Aprovado
+518,518,Pix,10097.43,Aprovado
+519,519,Cartão de Crédito,12540.98,Aprovado
+520,520,Cartão de Crédito,10270.01,Aprovado
+521,521,Cartão de Débito,12679.36,Aprovado
+522,522,Cartão de Crédito,27226.98,Aprovado
+523,523,Cartão de Débito,8289.37,Aprovado
+524,524,Pix,6217.18,Aprovado
+525,525,Cartão de Crédito,7146.22,Aprovado
+526,526,Cartão de Crédito,1862.27,Recusado
+527,527,Cartão de Débito,784.64,Aprovado
+528,528,Cartão de Crédito,3309.15,Aprovado
+529,529,Pix,13053.96,Aprovado
+530,530,Pix,13339.01,Aprovado
+531,531,Cartão de Crédito,4876.7,Aprovado
+532,532,Boleto,4267.06,Aprovado
+533,533,Boleto,1977.49,Aprovado
+534,534,Cartão de Crédito,2849.69,Aprovado
+535,535,Pix,20239.11,Aprovado
+536,536,Pix,1309.95,Aprovado
+537,537,Boleto,11272.98,Aprovado
+538,538,Pix,6766.7,Aprovado
+539,539,Cartão de Débito,18356.76,Aprovado
+540,540,Pix,1167.83,Pendente
+541,541,Pix,8517.86,Aprovado
+542,542,Cartão de Crédito,2000.51,Recusado
+543,543,Boleto,2746.2,Aprovado
+544,544,Pix,6705.16,Pendente
+545,545,Pix,9132.66,Aprovado
+546,546,Cartão de Crédito,2526.59,Aprovado
+547,547,Cartão de Crédito,13122.59,Aprovado
+548,548,Boleto,2417.64,Aprovado
+549,549,Cartão de Crédito,3005.6,Pendente
+550,550,Pix,379.36,Aprovado
+551,551,Pix,6101.91,Aprovado
+552,552,Cartão de Crédito,9999.72,Aprovado
+553,553,Pix,14305.37,Aprovado
+554,554,Pix,2524.17,Aprovado
+555,555,Cartão de Crédito,527.71,Pendente
+556,556,Boleto,6425.36,Aprovado
+557,557,Boleto,1551.88,Aprovado
+558,558,Cartão de Crédito,5516.56,Aprovado
+559,559,Cartão de Crédito,2649.42,Aprovado
+560,560,Boleto,4828.55,Recusado
+561,561,Cartão de Crédito,5966.06,Aprovado
+562,562,Cartão de Débito,5902.79,Aprovado
+563,563,Cartão de Crédito,5844.36,Aprovado
+564,564,Cartão de Crédito,4160.87,Aprovado
+565,565,Cartão de Crédito,2860.39,Aprovado
+566,566,Cartão de Crédito,3139.81,Aprovado
+567,567,Boleto,4702.74,Aprovado
+568,568,Cartão de Crédito,3954.98,Aprovado
+569,569,Cartão de Crédito,3858.5,Aprovado
+570,570,Cartão de Crédito,3321.81,Pendente
+571,571,Cartão de Crédito,15870.28,Aprovado
+572,572,Boleto,20331.0,Recusado
+573,573,Pix,10508.31,Aprovado
+574,574,Cartão de Crédito,5489.34,Aprovado
+575,575,Pix,6073.72,Aprovado
+576,576,Pix,6731.62,Pendente
+577,577,Cartão de Crédito,5623.88,Aprovado
+578,578,Cartão de Crédito,9753.4,Aprovado
+579,579,Cartão de Crédito,4819.59,Aprovado
+580,580,Cartão de Crédito,3108.59,Pendente
+581,581,Cartão de Débito,15283.89,Aprovado
+582,582,Pix,6240.72,Aprovado
+583,583,Cartão de Débito,4025.87,Aprovado
+584,584,Pix,4044.53,Aprovado
+585,585,Cartão de Crédito,3321.81,Recusado
+586,586,Cartão de Crédito,16304.37,Aprovado
+587,587,Boleto,6987.85,Aprovado
+588,588,Cartão de Crédito,2016.06,Aprovado
+589,589,Boleto,2849.69,Aprovado
+590,590,Cartão de Crédito,1551.88,Aprovado
+591,591,Boleto,2679.8,Aprovado
+592,592,Cartão de Crédito,1779.85,Aprovado
+593,593,Cartão de Crédito,28072.69,Aprovado
+594,594,Cartão de Crédito,6908.13,Aprovado
+595,595,Pix,11479.15,Aprovado
+596,596,Cartão de Crédito,2637.75,Aprovado
+597,597,Cartão de Crédito,4296.21,Aprovado
+598,598,Pix,5669.53,Aprovado
+599,599,Cartão de Crédito,9470.05,Aprovado
+600,600,Cartão de Crédito,10292.55,Aprovado
+601,601,Cartão de Crédito,1100.91,Aprovado
+602,602,Pix,4609.88,Aprovado
+603,603,Boleto,2886.45,Aprovado
+604,604,Cartão de Crédito,3525.32,Aprovado
+605,605,Pix,3800.76,Aprovado
+606,606,Pix,4339.94,Aprovado
+607,607,Cartão de Crédito,3210.71,Aprovado
+608,608,Pix,2619.9,Aprovado
+609,609,Boleto,12524.9,Aprovado
+610,610,Cartão de Crédito,6948.2,Aprovado
+611,611,Cartão de Crédito,7828.69,Aprovado
+612,612,Pix,8764.48,Aprovado
+613,613,Cartão de Crédito,9485.3,Aprovado
+614,614,Pix,3108.59,Aprovado
+615,615,Pix,20074.88,Aprovado
+616,616,Pix,137.61,Aprovado
+617,617,Cartão de Débito,5573.9,Aprovado
+618,618,Pix,9653.58,Aprovado
+619,619,Cartão de Crédito,1862.27,Aprovado
+620,620,Pix,1567.58,Aprovado
+621,621,Pix,17538.13,Aprovado
+622,622,Pix,3069.36,Pendente
+623,623,Cartão de Crédito,2636.24,Aprovado
+624,624,Cartão de Crédito,2110.84,Aprovado
+625,625,Boleto,345.28,Aprovado
+626,626,Cartão de Crédito,2335.66,Aprovado
+627,627,Cartão de Crédito,3522.59,Aprovado
+628,628,Pix,11364.53,Aprovado
+629,629,Cartão de Crédito,345.28,Aprovado
+630,630,Cartão de Crédito,5848.96,Aprovado
+631,631,Pix,13636.71,Aprovado
+632,632,Cartão de Crédito,10660.28,Aprovado
+633,633,Cartão de Crédito,9226.72,Aprovado
+634,634,Pix,3005.6,Pendente
+635,635,Cartão de Crédito,1381.12,Aprovado
+636,636,Boleto,1669.77,Recusado
+637,637,Pix,2501.52,Aprovado
+638,638,Pix,7004.55,Aprovado
+639,639,Cartão de Crédito,7961.82,Aprovado
+640,640,Cartão de Débito,12375.73,Aprovado
+641,641,Cartão de Crédito,4281.37,Aprovado
+642,642,Pix,1065.41,Aprovado
+643,643,Pix,246.0,Aprovado
+644,644,Pix,4034.09,Aprovado
+645,645,Boleto,206.76,Aprovado
+646,646,Pix,7396.74,Aprovado
+647,647,Pix,15280.77,Aprovado
+648,648,Cartão de Crédito,3736.09,Aprovado
+649,649,Pix,4525.1,Aprovado
+650,650,Cartão de Crédito,2639.15,Aprovado
+651,651,Pix,13172.3,Recusado
+652,652,Boleto,4020.64,Aprovado
+653,653,Pix,15355.41,Aprovado
+654,654,Cartão de Crédito,3045.46,Aprovado
+655,655,Boleto,3218.5,Aprovado
+656,656,Pix,1290.83,Aprovado
+657,657,Pix,6453.31,Aprovado
+658,658,Boleto,5053.18,Aprovado
+659,659,Cartão de Débito,181.94,Aprovado
+660,660,Cartão de Débito,4838.88,Aprovado
+661,661,Cartão de Crédito,4949.8,Aprovado
+662,662,Boleto,6090.92,Aprovado
+663,663,Cartão de Débito,8391.52,Aprovado
+664,664,Cartão de Crédito,4478.71,Recusado
+665,665,Pix,5499.06,Aprovado
+666,666,Cartão de Crédito,15485.8,Pendente
+667,667,Cartão de Crédito,3163.05,Aprovado
+668,668,Cartão de Crédito,2172.68,Aprovado
+669,669,Cartão de Crédito,7448.18,Aprovado
+670,670,Cartão de Crédito,4323.89,Aprovado
+671,671,Cartão de Crédito,4871.71,Aprovado
+672,672,Pix,15584.46,Aprovado
+673,673,Cartão de Crédito,4924.36,Aprovado
+674,674,Cartão de Crédito,10319.52,Aprovado
+675,675,Pix,8158.86,Aprovado
+676,676,Cartão de Crédito,3309.15,Aprovado
+677,677,Boleto,11739.51,Aprovado
+678,678,Cartão de Crédito,13287.08,Aprovado
+679,679,Cartão de Crédito,1511.26,Aprovado
+680,680,Cartão de Crédito,7462.02,Aprovado
+681,681,Cartão de Crédito,2307.85,Aprovado
+682,682,Cartão de Crédito,11375.55,Aprovado
+683,683,Cartão de Crédito,9419.43,Aprovado
+684,684,Pix,7859.72,Aprovado
+685,685,Cartão de Crédito,8264.19,Aprovado
+686,686,Pix,1167.83,Pendente
+687,687,Cartão de Crédito,3724.54,Aprovado
+688,688,Cartão de Crédito,2012.25,Aprovado
+689,689,Cartão de Crédito,2516.24,Aprovado
+690,690,Pix,9596.17,Aprovado
+691,691,Cartão de Crédito,2607.6,Aprovado
+692,692,Pix,4345.36,Aprovado
+693,693,Cartão de Crédito,3135.16,Aprovado
+694,694,Pix,3000.63,Aprovado
+695,695,Pix,9761.2,Aprovado
+696,696,Cartão de Crédito,5298.84,Aprovado
+697,697,Pix,246.0,Aprovado
+698,698,Cartão de Crédito,5083.61,Aprovado
+699,699,Boleto,2501.52,Aprovado
+700,700,Cartão de Crédito,12223.37,Aprovado
+701,701,Pix,10983.5,Aprovado
+702,702,Cartão de Crédito,10299.48,Aprovado
+703,703,Cartão de Crédito,5487.44,Pendente
+704,704,Cartão de Crédito,6919.6,Aprovado
+705,705,Pix,2649.42,Aprovado
+706,706,Cartão de Débito,3172.22,Aprovado
+707,707,Boleto,10681.83,Aprovado
+708,708,Cartão de Débito,3751.01,Aprovado
+709,709,Pix,7449.08,Aprovado
+710,710,Cartão de Crédito,6017.2,Aprovado
+711,711,Cartão de Crédito,8068.18,Pendente
+712,712,Pix,3391.87,Aprovado
+713,713,Pix,10494.45,Aprovado
+714,714,Pix,3240.94,Aprovado
+715,715,Pix,3268.24,Pendente
+716,716,Pix,7501.46,Aprovado
+717,717,Pix,5524.1,Aprovado
+718,718,Boleto,5953.23,Aprovado
+719,719,Pix,805.88,Aprovado
+720,720,Pix,9012.41,Aprovado
+721,721,Cartão de Crédito,8290.94,Pendente
+722,722,Cartão de Crédito,6341.39,Aprovado
+723,723,Cartão de Crédito,17016.56,Aprovado
+724,724,Boleto,12981.74,Pendente
+725,725,Cartão de Crédito,6694.21,Aprovado
+726,726,Pix,2165.91,Aprovado
+727,727,Boleto,955.74,Aprovado
+728,728,Cartão de Crédito,1877.85,Aprovado
+729,729,Cartão de Crédito,6570.78,Pendente
+730,730,Cartão de Crédito,2010.32,Aprovado
+731,731,Cartão de Crédito,10150.05,Aprovado
+732,732,Pix,8911.44,Aprovado
+733,733,Pix,25556.25,Aprovado
+734,734,Cartão de Crédito,12421.45,Aprovado
+735,735,Boleto,206.76,Aprovado
+736,736,Pix,3422.41,Aprovado
+737,737,Pix,19444.35,Aprovado
+738,738,Boleto,11189.12,Aprovado
+739,739,Cartão de Crédito,8112.27,Aprovado
+740,740,Cartão de Crédito,5638.59,Aprovado
+741,741,Cartão de Crédito,1779.85,Aprovado
+742,742,Pix,3943.02,Aprovado
+743,743,Cartão de Crédito,10680.31,Aprovado
+744,744,Pix,8987.21,Aprovado
+745,745,Boleto,9613.83,Aprovado
+746,746,Pix,1400.43,Aprovado
+747,747,Cartão de Crédito,9263.97,Aprovado
+748,748,Pix,2649.42,Aprovado
+749,749,Boleto,1755.69,Aprovado
+750,750,Cartão de Crédito,9790.47,Aprovado
+751,751,Cartão de Débito,8603.86,Aprovado
+752,752,Cartão de Crédito,3623.98,Aprovado
+753,753,Pix,15023.77,Aprovado
+754,754,Pix,5695.67,Aprovado
+755,755,Cartão de Crédito,13674.34,Aprovado
+756,756,Pix,13366.68,Pendente
+757,757,Cartão de Crédito,11804.69,Aprovado
+758,758,Cartão de Débito,2599.58,Aprovado
+759,759,Cartão de Crédito,18073.07,Aprovado
+760,760,Cartão de Crédito,1113.18,Recusado
+761,761,Cartão de Crédito,17353.4,Pendente
+762,762,Pix,8157.32,Aprovado
+763,763,Cartão de Crédito,9734.67,Aprovado
+764,764,Cartão de Débito,9332.91,Aprovado
+765,765,Cartão de Crédito,1885.66,Recusado
+766,766,Cartão de Crédito,5648.0,Aprovado
+767,767,Cartão de Crédito,15907.68,Aprovado
+768,768,Cartão de Crédito,5022.37,Recusado
+769,769,Cartão de Crédito,3714.24,Aprovado
+770,770,Cartão de Crédito,6279.62,Pendente
+771,771,Cartão de Crédito,4805.43,Aprovado
+772,772,Cartão de Crédito,1400.43,Aprovado
+773,773,Cartão de Crédito,8638.17,Aprovado
+774,774,Boleto,5054.43,Aprovado
+775,775,Cartão de Crédito,4866.01,Aprovado
+776,776,Cartão de Crédito,3459.8,Recusado
+777,777,Cartão de Crédito,3777.75,Aprovado
+778,778,Cartão de Crédito,6618.3,Aprovado
+779,779,Cartão de Crédito,4565.17,Recusado
+780,780,Cartão de Crédito,1065.41,Aprovado
+781,781,Pix,4595.88,Aprovado
+782,782,Cartão de Crédito,2526.59,Aprovado
+783,783,Pix,12464.82,Aprovado
+784,784,Cartão de Crédito,105.58,Aprovado
+785,785,Pix,12566.79,Aprovado
+786,786,Cartão de Crédito,805.88,Aprovado
+787,787,Cartão de Crédito,3365.81,Aprovado
+788,788,Cartão de Crédito,8077.44,Aprovado
+789,789,Boleto,955.74,Aprovado
+790,790,Cartão de Débito,2101.09,Aprovado
+791,791,Pix,3309.15,Aprovado
+792,792,Cartão de Crédito,9241.76,Aprovado
+793,793,Cartão de Crédito,2319.04,Recusado
+794,794,Cartão de Crédito,5090.17,Aprovado
+795,795,Pix,7770.18,Aprovado
+796,796,Cartão de Crédito,3045.46,Aprovado
+797,797,Cartão de Crédito,4594.5,Aprovado
+798,798,Cartão de Crédito,13523.91,Aprovado
+799,799,Cartão de Crédito,2951.96,Aprovado
+800,800,Boleto,805.88,Aprovado
+801,801,Cartão de Crédito,5848.96,Aprovado
+802,802,Boleto,3551.05,Aprovado
+803,803,Cartão de Crédito,9805.18,Aprovado
+804,804,Pix,3525.32,Aprovado
+805,805,Cartão de Crédito,6968.06,Aprovado
+806,806,Cartão de Crédito,3025.08,Aprovado
+807,807,Boleto,18712.7,Aprovado
+808,808,Boleto,2394.24,Aprovado
+809,809,Boleto,11003.9,Aprovado
+810,810,Pix,4673.53,Aprovado
+811,811,Cartão de Crédito,2253.4,Aprovado
+812,812,Cartão de Crédito,11333.42,Pendente
+813,813,Pix,2800.86,Aprovado
+814,814,Pix,18487.74,Aprovado
+815,815,Boleto,15023.94,Recusado
+816,816,Cartão de Crédito,181.94,Aprovado
+817,817,Cartão de Crédito,7042.37,Aprovado
+818,818,Cartão de Crédito,915.4,Aprovado
+819,819,Boleto,8773.44,Aprovado
+820,820,Cartão de Crédito,9902.98,Aprovado
+821,821,Pix,3577.85,Aprovado
+822,822,Boleto,3321.81,Aprovado
+823,823,Pix,12026.18,Aprovado
+824,824,Pix,2010.32,Aprovado
+825,825,Cartão de Débito,3143.88,Aprovado
+826,826,Pix,2797.99,Aprovado
+827,827,Cartão de Crédito,15643.54,Pendente
+828,828,Cartão de Crédito,3321.81,Aprovado
+829,829,Pix,3474.1,Aprovado
+830,830,Cartão de Crédito,2278.76,Aprovado
+831,831,Cartão de Crédito,1375.78,Aprovado
+832,832,Cartão de Crédito,379.36,Aprovado
+833,833,Cartão de Débito,8983.11,Pendente
+834,834,Boleto,2501.52,Aprovado
+835,835,Cartão de Crédito,5426.0,Aprovado
+836,836,Cartão de Crédito,5903.92,Aprovado
+837,837,Cartão de Débito,8942.98,Aprovado
+838,838,Pix,4660.38,Pendente
+839,839,Cartão de Crédito,4811.47,Aprovado
+840,840,Cartão de Crédito,18055.38,Aprovado
+841,841,Cartão de Crédito,4091.27,Aprovado
+842,842,Pix,3441.99,Aprovado
+843,843,Pix,6013.0,Aprovado
+844,844,Cartão de Crédito,3052.3,Aprovado
+845,845,Cartão de Crédito,13465.88,Aprovado
+846,846,Cartão de Débito,18018.29,Aprovado
+847,847,Cartão de Crédito,7306.55,Aprovado
+848,848,Pix,1170.46,Aprovado
+849,849,Boleto,9070.84,Aprovado
+850,850,Cartão de Crédito,4099.32,Aprovado
+851,851,Cartão de Crédito,2297.94,Aprovado
+852,852,Cartão de Crédito,5783.44,Recusado
+853,853,Pix,2818.18,Pendente
+854,854,Cartão de Crédito,5840.0,Aprovado
+855,855,Cartão de Débito,2696.04,Aprovado
+856,856,Boleto,2000.59,Aprovado
+857,857,Boleto,5998.21,Aprovado
+858,858,Cartão de Crédito,15268.18,Recusado
+859,859,Pix,1551.88,Aprovado
+860,860,Boleto,4439.21,Aprovado
+861,861,Pix,5976.04,Aprovado
+862,862,Pix,4196.36,Aprovado
+863,863,Cartão de Débito,7863.09,Aprovado
+864,864,Pix,4608.32,Aprovado
+865,865,Pix,2534.08,Aprovado
+866,866,Boleto,6303.27,Aprovado
+867,867,Cartão de Crédito,15117.61,Recusado
+868,868,Cartão de Crédito,4285.32,Aprovado
+869,869,Pix,19845.71,Aprovado
+870,870,Boleto,4910.54,Aprovado
+871,871,Pix,10803.26,Aprovado
+872,872,Cartão de Crédito,4033.26,Aprovado
+873,873,Cartão de Débito,7459.14,Aprovado
+874,874,Pix,3494.48,Aprovado
+875,875,Cartão de Crédito,275.22,Aprovado
+876,876,Cartão de Crédito,4345.36,Aprovado
+877,877,Boleto,6394.73,Aprovado
+878,878,Cartão de Crédito,17857.59,Aprovado
+879,879,Pix,4376.45,Aprovado
+880,880,Pix,7716.85,Aprovado
+881,881,Pix,5889.34,Aprovado
+882,882,Boleto,5084.31,Aprovado
+883,883,Boleto,8267.66,Aprovado
+884,884,Cartão de Crédito,21214.77,Aprovado
+885,885,Boleto,9554.44,Aprovado
+886,886,Cartão de Crédito,7590.04,Aprovado
+887,887,Cartão de Crédito,3296.06,Aprovado
+888,888,Pix,5747.5,Recusado
+889,889,Pix,3240.94,Aprovado
+890,890,Pix,2636.24,Pendente
+891,891,Pix,2526.59,Aprovado
+892,892,Pix,2165.39,Aprovado
+893,893,Cartão de Crédito,5876.98,Aprovado
+894,894,Pix,2920.0,Aprovado
+895,895,Cartão de Crédito,6770.83,Aprovado
+896,896,Cartão de Crédito,4373.0,Pendente
+897,897,Pix,4831.8,Aprovado
+898,898,Cartão de Crédito,20467.37,Aprovado
+899,899,Cartão de Crédito,20341.59,Aprovado
+900,900,Boleto,8491.08,Aprovado
+901,901,Pix,14459.42,Aprovado
+902,902,Cartão de Crédito,21883.37,Aprovado
+903,903,Pix,1258.12,Aprovado
+904,904,Cartão de Crédito,1551.88,Aprovado
+905,905,Cartão de Crédito,105.58,Aprovado
+906,906,Pix,12387.12,Aprovado
+907,907,Boleto,7749.99,Aprovado
+908,908,Cartão de Crédito,9089.9,Aprovado
+909,909,Pix,1551.88,Aprovado
+910,910,Pix,1065.41,Aprovado
+911,911,Cartão de Débito,6491.94,Recusado
+912,912,Pix,4577.23,Aprovado
+913,913,Cartão de Crédito,6587.48,Aprovado
+914,914,Cartão de Crédito,1328.57,Aprovado
+915,915,Cartão de Crédito,6128.71,Aprovado
+916,916,Cartão de Crédito,5150.94,Aprovado
+917,917,Cartão de Crédito,1228.62,Aprovado
+918,918,Cartão de Crédito,5144.83,Aprovado
+919,919,Pix,755.63,Aprovado
+920,920,Pix,0.0,Aprovado
+921,921,Cartão de Crédito,6609.97,Pendente
+922,922,Boleto,6390.09,Aprovado
+923,923,Boleto,2196.99,Aprovado
+924,924,Cartão de Crédito,4017.52,Pendente
+925,925,Pix,3774.36,Aprovado
+926,926,Boleto,7913.25,Aprovado
+927,927,Cartão de Débito,6430.4,Aprovado
+928,928,Cartão de Crédito,9929.63,Aprovado
+929,929,Pix,206.76,Aprovado
+930,930,Cartão de Débito,8770.98,Aprovado
+931,931,Cartão de Crédito,11521.5,Aprovado
+932,932,Pix,7125.8,Aprovado
+933,933,Pix,7082.17,Aprovado
+934,934,Pix,1318.12,Pendente
+935,935,Cartão de Crédito,1762.66,Pendente
+936,936,Pix,2688.08,Aprovado
+937,937,Cartão de Crédito,9310.18,Aprovado
+938,938,Cartão de Crédito,18022.58,Aprovado
+939,939,Boleto,3006.5,Aprovado
+940,940,Pix,2106.53,Aprovado
+941,941,Cartão de Débito,672.02,Aprovado
+942,942,Cartão de Crédito,3287.04,Pendente
+943,943,Cartão de Crédito,3053.57,Aprovado
+944,944,Boleto,13599.75,Aprovado
+945,945,Cartão de Débito,12232.43,Pendente
+946,946,Cartão de Crédito,3928.57,Aprovado
+947,947,Cartão de Crédito,8691.07,Pendente
+948,948,Pix,8005.39,Aprovado
+949,949,Boleto,2165.39,Recusado
+950,950,Cartão de Crédito,2123.72,Pendente
+951,951,Cartão de Crédito,9431.23,Aprovado
+952,952,Cartão de Débito,3892.73,Aprovado
+953,953,Cartão de Crédito,14195.43,Aprovado
+954,954,Cartão de Crédito,20691.27,Aprovado
+955,955,Cartão de Débito,8937.89,Recusado
+956,956,Pix,4493.73,Aprovado
+957,957,Cartão de Débito,11539.13,Aprovado
+958,958,Cartão de Débito,11494.4,Aprovado
+959,959,Pix,4218.19,Aprovado
+960,960,Boleto,2679.8,Aprovado
+961,961,Cartão de Crédito,32192.24,Aprovado
+962,962,Cartão de Crédito,12576.7,Pendente
+963,963,Pix,11681.23,Aprovado
+964,964,Pix,3240.94,Aprovado
+965,965,Pix,3005.6,Aprovado
+966,966,Pix,12191.74,Aprovado
+967,967,Boleto,11435.77,Aprovado
+968,968,Pix,1511.26,Aprovado
+969,969,Pix,9282.53,Aprovado
+970,970,Cartão de Débito,1830.8,Aprovado
+971,971,Boleto,2120.83,Aprovado
+972,972,Cartão de Débito,585.23,Aprovado
+973,973,Pix,2825.36,Aprovado
+974,974,Pix,10897.55,Aprovado
+975,975,Pix,21232.54,Aprovado
+976,976,Cartão de Crédito,1400.43,Aprovado
+977,977,Pix,18702.25,Aprovado
+978,978,Cartão de Crédito,4549.84,Aprovado
+979,979,Pix,11909.96,Aprovado
+980,980,Cartão de Crédito,3716.7,Aprovado
+981,981,Boleto,3210.71,Aprovado
+982,982,Boleto,23881.86,Aprovado
+983,983,Pix,3139.81,Aprovado
+984,984,Pix,3263.49,Aprovado
+985,985,Cartão de Crédito,14295.43,Aprovado
+986,986,Pix,1055.42,Aprovado
+987,987,Cartão de Crédito,5956.2,Aprovado
+988,988,Cartão de Crédito,10518.45,Aprovado
+989,989,Pix,1986.11,Aprovado
+990,990,Cartão de Crédito,5647.04,Pendente
+991,991,Cartão de Débito,7304.44,Aprovado
+992,992,Cartão de Crédito,3081.94,Pendente
+993,993,Boleto,7504.56,Aprovado
+994,994,Cartão de Crédito,3720.39,Aprovado
+995,995,Cartão de Crédito,7831.53,Aprovado
+996,996,Cartão de Crédito,10121.89,Aprovado
+997,997,Cartão de Crédito,13476.04,Pendente
+998,998,Cartão de Crédito,13170.3,Aprovado
+999,999,Cartão de Débito,9852.01,Aprovado
+1000,1000,Pix,5236.76,Aprovado
+1001,1001,Cartão de Débito,4732.77,Aprovado
+1002,1002,Cartão de Crédito,9362.98,Aprovado
+1003,1003,Pix,8368.85,Aprovado
+1004,1004,Cartão de Crédito,5262.15,Aprovado
+1005,1005,Cartão de Crédito,6457.06,Aprovado
+1006,1006,Cartão de Débito,22029.76,Aprovado
+1007,1007,Boleto,4799.48,Aprovado
+1008,1008,Pix,4563.2,Aprovado
+1009,1009,Cartão de Crédito,6693.07,Aprovado
+1010,1010,Pix,2849.69,Aprovado
+1011,1011,Pix,14822.22,Aprovado
+1012,1012,Pix,3005.6,Aprovado
+1013,1013,Cartão de Débito,9081.94,Aprovado
+1014,1014,Cartão de Crédito,1900.38,Aprovado
+1015,1015,Pix,21212.23,Pendente
+1016,1016,Pix,1727.17,Pendente
+1017,1017,Pix,9207.48,Recusado
+1018,1018,Cartão de Crédito,10260.22,Aprovado
+1019,1019,Cartão de Crédito,6652.22,Aprovado
+1020,1020,Cartão de Crédito,16844.4,Aprovado
+1021,1021,Cartão de Crédito,6618.3,Aprovado
+1022,1022,Cartão de Crédito,20265.63,Aprovado
+1023,1023,Cartão de Crédito,6344.18,Aprovado
+1024,1024,Cartão de Crédito,1328.57,Aprovado
+1025,1025,Cartão de Crédito,1473.07,Aprovado
+1026,1026,Cartão de Débito,4130.45,Aprovado
+1027,1027,Boleto,6951.71,Aprovado
+1028,1028,Cartão de Crédito,3005.6,Recusado
+1029,1029,Cartão de Crédito,11382.47,Aprovado
+1030,1030,Boleto,6246.92,Pendente
+1031,1031,Boleto,3242.37,Aprovado
+1032,1032,Cartão de Crédito,10958.24,Aprovado
+1033,1033,Pix,15412.19,Aprovado
+1034,1034,Pix,6224.82,Recusado
+1035,1035,Boleto,4876.7,Aprovado
+1036,1036,Cartão de Crédito,8719.39,Aprovado
+1037,1037,Pix,5391.46,Aprovado
+1038,1038,Cartão de Crédito,181.94,Aprovado
+1039,1039,Cartão de Crédito,4298.03,Aprovado
+1040,1040,Pix,2849.69,Aprovado
+1041,1041,Pix,22719.47,Aprovado
+1042,1042,Pix,13393.18,Aprovado
+1043,1043,Cartão de Crédito,12497.03,Aprovado
+1044,1044,Cartão de Crédito,6932.06,Pendente
+1045,1045,Cartão de Crédito,3829.46,Aprovado
+1046,1046,Pix,3914.47,Aprovado
+1047,1047,Cartão de Crédito,8146.32,Aprovado
+1048,1048,Cartão de Débito,6728.67,Aprovado
+1049,1049,Cartão de Débito,7350.36,Pendente
+1050,1050,Boleto,2119.57,Aprovado
+1051,1051,Pix,2849.69,Aprovado
+1052,1052,Pix,1405.97,Aprovado
+1053,1053,Pix,1344.04,Aprovado
+1054,1054,Pix,10078.61,Aprovado
+1055,1055,Cartão de Crédito,1727.17,Aprovado
+1056,1056,Pix,6504.02,Recusado
+1057,1057,Cartão de Crédito,9008.48,Aprovado
+1058,1058,Cartão de Crédito,3401.1,Aprovado
+1059,1059,Cartão de Crédito,4877.07,Pendente
+1060,1060,Cartão de Crédito,2786.19,Aprovado
+1061,1061,Boleto,7401.03,Aprovado
+1062,1062,Cartão de Débito,1943.3,Aprovado
+1063,1063,Boleto,7023.48,Aprovado
+1064,1064,Cartão de Crédito,3454.34,Aprovado
+1065,1065,Cartão de Crédito,538.06,Aprovado
+1066,1066,Cartão de Crédito,5814.28,Aprovado
+1067,1067,Pix,5339.55,Aprovado
+1068,1068,Pix,17231.08,Aprovado
+1069,1069,Pix,3135.16,Recusado
+1070,1070,Boleto,18385.27,Aprovado
+1071,1071,Pix,2417.64,Aprovado
+1072,1072,Cartão de Crédito,9737.27,Pendente
+1073,1073,Pix,4100.88,Aprovado
+1074,1074,Cartão de Crédito,1038.4,Aprovado
+1075,1075,Cartão de Crédito,6011.2,Aprovado
+1076,1076,Cartão de Débito,3886.6,Aprovado
+1077,1077,Cartão de Crédito,7321.07,Aprovado
+1078,1078,Boleto,3108.59,Aprovado
+1079,1079,Pix,3005.6,Aprovado
+1080,1080,Cartão de Crédito,13341.02,Aprovado
+1081,1081,Cartão de Crédito,8707.86,Aprovado
+1082,1082,Boleto,5283.51,Aprovado
+1083,1083,Cartão de Crédito,5201.25,Aprovado
+1084,1084,Pix,2438.35,Aprovado
+1085,1085,Cartão de Débito,21707.53,Aprovado
+1086,1086,Pix,12375.04,Pendente
+1087,1087,Cartão de Crédito,9365.76,Aprovado
+1088,1088,Pix,7183.72,Aprovado
+1089,1089,Cartão de Crédito,2702.9,Aprovado
+1090,1090,Boleto,5733.17,Aprovado
+1091,1091,Pix,8242.41,Aprovado
+1092,1092,Cartão de Débito,8076.27,Aprovado
+1093,1093,Boleto,5055.65,Aprovado
+1094,1094,Cartão de Crédito,6793.54,Aprovado
+1095,1095,Boleto,10691.71,Aprovado
+1096,1096,Boleto,12211.46,Aprovado
+1097,1097,Cartão de Crédito,4201.87,Aprovado
+1098,1098,Pix,1762.66,Aprovado
+1099,1099,Cartão de Crédito,8199.68,Aprovado
+1100,1100,Pix,17487.33,Aprovado
+1101,1101,Cartão de Crédito,6085.86,Aprovado
+1102,1102,Boleto,8559.65,Aprovado
+1103,1103,Cartão de Crédito,1755.69,Aprovado
+1104,1104,Boleto,2297.94,Aprovado
+1105,1105,Cartão de Débito,895.82,Aprovado
+1106,1106,Pix,5725.2,Aprovado
+1107,1107,Pix,9818.58,Aprovado
+1108,1108,Cartão de Crédito,3108.59,Aprovado
+1109,1109,Cartão de Crédito,2165.39,Aprovado
+1110,1110,Cartão de Crédito,4568.19,Aprovado
+1111,1111,Pix,10771.7,Aprovado
+1112,1112,Pix,5116.41,Aprovado
+1113,1113,Boleto,11847.42,Aprovado
+1114,1114,Cartão de Débito,6281.0,Aprovado
+1115,1115,Pix,6904.38,Aprovado
+1116,1116,Boleto,8931.16,Aprovado
+1117,1117,Pix,1830.8,Aprovado
+1118,1118,Cartão de Crédito,379.36,Aprovado
+1119,1119,Cartão de Crédito,550.44,Aprovado
+1120,1120,Cartão de Crédito,6279.62,Aprovado
+1121,1121,Pix,6669.55,Aprovado
+1122,1122,Cartão de Crédito,6524.35,Pendente
+1123,1123,Pix,10153.25,Aprovado
+1124,1124,Cartão de Débito,3252.01,Aprovado
+1125,1125,Cartão de Crédito,2786.41,Aprovado
+1126,1126,Cartão de Crédito,6180.47,Aprovado
+1127,1127,Pix,6217.4,Aprovado
+1128,1128,Boleto,23856.97,Aprovado
+1129,1129,Cartão de Débito,2524.17,Pendente
+1130,1130,Boleto,5236.43,Aprovado
+1131,1131,Cartão de Crédito,12549.29,Aprovado
+1132,1132,Pix,1309.95,Recusado
+1133,1133,Cartão de Crédito,12799.96,Aprovado
+1134,1134,Pix,2920.0,Pendente
+1135,1135,Pix,10481.59,Aprovado
+1136,1136,Pix,3252.01,Aprovado
+1137,1137,Cartão de Crédito,17423.01,Aprovado
+1138,1138,Pix,2501.52,Aprovado
+1139,1139,Cartão de Crédito,8063.93,Aprovado
+1140,1140,Pix,9763.07,Aprovado
+1141,1141,Cartão de Crédito,8116.03,Aprovado
+1142,1142,Cartão de Débito,3474.1,Aprovado
+1143,1143,Cartão de Crédito,1727.17,Aprovado
+1144,1144,Boleto,2101.09,Aprovado
+1145,1145,Cartão de Crédito,5428.88,Aprovado
+1146,1146,Pix,8899.43,Aprovado
+1147,1147,Boleto,9835.87,Aprovado
+1148,1148,Pix,1755.69,Aprovado
+1149,1149,Cartão de Crédito,672.02,Aprovado
+1150,1150,Pix,3065.14,Aprovado
+1151,1151,Cartão de Crédito,2637.75,Aprovado
+1152,1152,Pix,11724.19,Aprovado
+1153,1153,Cartão de Crédito,1779.79,Aprovado
+1154,1154,Cartão de Crédito,10150.05,Aprovado
+1155,1155,Boleto,20304.42,Aprovado
+1156,1156,Pix,4339.94,Aprovado
+1157,1157,Cartão de Crédito,8018.32,Aprovado
+1158,1158,Pix,2849.69,Aprovado
+1159,1159,Pix,3454.34,Aprovado
+1160,1160,Boleto,1727.17,Aprovado
+1161,1161,Pix,9564.1,Aprovado
+1162,1162,Pix,915.4,Aprovado
+1163,1163,Cartão de Débito,3474.1,Aprovado
+1164,1164,Cartão de Débito,4560.9,Aprovado
+1165,1165,Cartão de Débito,2016.06,Aprovado
+1166,1166,Cartão de Crédito,10703.23,Aprovado
+1167,1167,Pix,13065.27,Aprovado
+1168,1168,Cartão de Crédito,12422.16,Aprovado
+1169,1169,Pix,1915.05,Aprovado
+1170,1170,Pix,13879.38,Aprovado
+1171,1171,Pix,11114.29,Aprovado
+1172,1172,Pix,4730.94,Aprovado
+1173,1173,Cartão de Crédito,5595.63,Aprovado
+1174,1174,Pix,3403.48,Aprovado
+1175,1175,Cartão de Crédito,3222.98,Aprovado
+1176,1176,Pix,10043.22,Aprovado
+1177,1177,Cartão de Crédito,16715.52,Aprovado
+1178,1178,Pix,10057.43,Pendente
+1179,1179,Cartão de Crédito,1035.84,Aprovado
+1180,1180,Cartão de Crédito,11886.27,Aprovado
+1181,1181,Pix,5469.92,Aprovado
+1182,1182,Cartão de Crédito,3103.76,Aprovado
+1183,1183,Cartão de Débito,2090.99,Aprovado
+1184,1184,Cartão de Crédito,9434.61,Aprovado
+1185,1185,Cartão de Débito,4919.5,Aprovado
+1186,1186,Boleto,2010.32,Aprovado
+1187,1187,Pix,3582.8,Aprovado
+1188,1188,Cartão de Crédito,3108.59,Aprovado
+1189,1189,Cartão de Crédito,4547.16,Aprovado
+1190,1190,Pix,392.32,Aprovado
+1191,1191,Boleto,7341.16,Aprovado
+1192,1192,Pix,1258.12,Aprovado
+1193,1193,Cartão de Crédito,556.59,Aprovado
+1194,1194,Boleto,3240.94,Aprovado
+1195,1195,Cartão de Crédito,1318.12,Aprovado
+1196,1196,Pix,3774.36,Aprovado
+1197,1197,Pix,2292.97,Aprovado
+1198,1198,Pix,3309.15,Aprovado
+1199,1199,Cartão de Crédito,3365.81,Aprovado
+1200,1200,Cartão de Crédito,16691.17,Aprovado
+1201,1201,Cartão de Crédito,9295.23,Aprovado
+1202,1202,Boleto,20478.8,Aprovado
+1203,1203,Cartão de Crédito,11721.63,Aprovado
+1204,1204,Boleto,3459.8,Aprovado
+1205,1205,Pix,8317.98,Aprovado
+1206,1206,Boleto,13156.28,Aprovado
+1207,1207,Pix,10984.18,Aprovado
+1208,1208,Pix,5840.0,Aprovado
+1209,1209,Pix,3986.55,Aprovado
+1210,1210,Pix,805.88,Pendente
+1211,1211,Boleto,15788.35,Aprovado
+1212,1212,Cartão de Crédito,4109.38,Aprovado
+1213,1213,Cartão de Débito,15988.29,Recusado
+1214,1214,Pix,18084.07,Aprovado
+1215,1215,Pix,1522.73,Aprovado
+1216,1216,Cartão de Crédito,3163.09,Aprovado
+1217,1217,Cartão de Crédito,9242.79,Aprovado
+1218,1218,Boleto,2786.41,Aprovado
+1219,1219,Cartão de Crédito,2951.96,Aprovado
+1220,1220,Pix,5492.68,Recusado
+1221,1221,Cartão de Crédito,3932.63,Aprovado
+1222,1222,Cartão de Crédito,2297.94,Aprovado
+1223,1223,Cartão de Crédito,9191.76,Aprovado
+1224,1224,Cartão de Débito,9028.68,Aprovado
+1225,1225,Cartão de Crédito,1900.38,Aprovado
+1226,1226,Pix,950.19,Aprovado
+1227,1227,Pix,18086.16,Aprovado
+1228,1228,Pix,1779.85,Aprovado
+1229,1229,Cartão de Crédito,3309.15,Aprovado
+1230,1230,Boleto,11822.73,Aprovado
+1231,1231,Pix,7180.83,Aprovado
+1232,1232,Pix,3459.8,Aprovado
+1233,1233,Cartão de Crédito,11331.77,Aprovado
+1234,1234,Cartão de Crédito,12429.53,Aprovado
+1235,1235,Pix,4339.94,Aprovado
+1236,1236,Cartão de Crédito,758.72,Aprovado
+1237,1237,Pix,14342.62,Aprovado
+1238,1238,Cartão de Crédito,3281.72,Aprovado
+1239,1239,Cartão de Crédito,3006.5,Aprovado
+1240,1240,Pix,6696.64,Aprovado
+1241,1241,Cartão de Crédito,17727.18,Aprovado
+1242,1242,Pix,915.4,Aprovado
+1243,1243,Cartão de Crédito,5932.47,Aprovado
+1244,1244,Pix,6119.58,Aprovado
+1245,1245,Pix,6806.6,Aprovado
+1246,1246,Pix,1970.82,Aprovado
+1247,1247,Cartão de Crédito,9927.45,Aprovado
+1248,1248,Cartão de Crédito,12683.61,Aprovado
+1249,1249,Pix,1318.12,Aprovado
+1250,1250,Cartão de Crédito,1113.26,Aprovado
+1251,1251,Cartão de Crédito,2165.39,Aprovado
+1252,1252,Cartão de Crédito,15436.56,Pendente
+1253,1253,Cartão de Crédito,1473.07,Aprovado
+1254,1254,Boleto,4025.2,Aprovado
+1255,1255,Cartão de Crédito,1797.69,Aprovado
+1256,1256,Pix,14156.04,Aprovado
+1257,1257,Cartão de Crédito,7304.27,Aprovado
+1258,1258,Cartão de Crédito,3272.86,Aprovado
+1259,1259,Pix,3365.81,Aprovado
+1260,1260,Boleto,2636.24,Aprovado
+1261,1261,Pix,8986.85,Aprovado
+1262,1262,Boleto,13564.64,Aprovado
+1263,1263,Cartão de Crédito,123.0,Pendente
+1264,1264,Cartão de Débito,2125.13,Aprovado
+1265,1265,Pix,7804.66,Aprovado
+1266,1266,Cartão de Crédito,6908.68,Aprovado
+1267,1267,Pix,412.83,Aprovado
+1268,1268,Cartão de Crédito,7350.05,Aprovado
+1269,1269,Boleto,10065.06,Aprovado
+1270,1270,Pix,7056.69,Aprovado
+1271,1271,Pix,12353.89,Recusado
+1272,1272,Cartão de Crédito,20836.09,Aprovado
+1273,1273,Cartão de Crédito,6643.62,Aprovado
+1274,1274,Cartão de Crédito,5848.96,Aprovado
+1275,1275,Cartão de Débito,8860.87,Pendente
+1276,1276,Cartão de Débito,2283.76,Aprovado
+1277,1277,Pix,14564.93,Recusado
+1278,1278,Pix,7154.84,Aprovado
+1279,1279,Pix,29520.42,Aprovado
+1280,1280,Cartão de Crédito,2679.8,Pendente
+1281,1281,Cartão de Crédito,9153.01,Pendente
+1282,1282,Pix,1113.26,Aprovado
+1283,1283,Pix,2226.52,Aprovado
+1284,1284,Boleto,805.88,Aprovado
+1285,1285,Cartão de Crédito,9662.27,Aprovado
+1286,1286,Cartão de Crédito,7294.03,Aprovado
+1287,1287,Cartão de Crédito,1551.88,Aprovado
+1288,1288,Cartão de Crédito,1919.14,Recusado
+1289,1289,Cartão de Crédito,950.19,Aprovado
+1290,1290,Boleto,7841.41,Aprovado
+1291,1291,Cartão de Crédito,6612.6,Aprovado
+1292,1292,Cartão de Crédito,12356.91,Aprovado
+1293,1293,Cartão de Crédito,2749.53,Aprovado
+1294,1294,Pix,1065.41,Pendente
+1295,1295,Cartão de Crédito,492.0,Aprovado
+1296,1296,Cartão de Crédito,9391.82,Aprovado
+1297,1297,Cartão de Crédito,11866.03,Aprovado
+1298,1298,Boleto,5352.77,Aprovado
+1299,1299,Boleto,14613.7,Aprovado
+1300,1300,Boleto,12870.01,Aprovado
+1301,1301,Cartão de Crédito,6415.04,Aprovado
+1302,1302,Cartão de Crédito,527.71,Aprovado
+1303,1303,Cartão de Crédito,7629.88,Aprovado
+1304,1304,Cartão de Crédito,4278.21,Aprovado
+1305,1305,Pix,14725.28,Pendente
+1306,1306,Cartão de Crédito,7652.74,Aprovado
+1307,1307,Cartão de Crédito,9063.0,Aprovado
+1308,1308,Cartão de Crédito,3139.81,Pendente
+1309,1309,Cartão de Débito,181.94,Aprovado
+1310,1310,Pix,3459.8,Aprovado
+1311,1311,Cartão de Crédito,1309.95,Aprovado
+1312,1312,Pix,1055.42,Aprovado
+1313,1313,Boleto,6051.91,Aprovado
+1314,1314,Pix,2975.85,Aprovado
+1315,1315,Cartão de Crédito,246.0,Pendente
+1316,1316,Cartão de Débito,16136.84,Aprovado
+1317,1317,Cartão de Crédito,9452.79,Aprovado
+1318,1318,Cartão de Crédito,895.82,Aprovado
+1319,1319,Cartão de Crédito,5155.51,Aprovado
+1320,1320,Boleto,950.19,Pendente
+1321,1321,Cartão de Crédito,2637.75,Aprovado
+1322,1322,Pix,11625.96,Aprovado
+1323,1323,Boleto,7016.82,Aprovado
+1324,1324,Pix,2924.48,Aprovado
+1325,1325,Cartão de Débito,17262.05,Aprovado
+1326,1326,Cartão de Crédito,1375.78,Aprovado
+1327,1327,Cartão de Crédito,123.0,Aprovado
+1328,1328,Pix,2331.52,Aprovado
+1329,1329,Pix,8674.82,Aprovado
+1330,1330,Pix,24583.13,Pendente
+1331,1331,Pix,7493.15,Aprovado
+1332,1332,Pix,3820.08,Aprovado
+1333,1333,Pix,1611.76,Aprovado
+1334,1334,Cartão de Débito,6130.28,Aprovado
+1335,1335,Cartão de Crédito,8116.33,Aprovado
+1336,1336,Cartão de Crédito,2785.67,Aprovado
+1337,1337,Pix,13962.97,Aprovado
+1338,1338,Cartão de Crédito,7598.37,Aprovado
+1339,1339,Pix,5295.55,Aprovado
+1340,1340,Pix,7407.88,Aprovado
+1341,1341,Boleto,5392.08,Aprovado
+1342,1342,Cartão de Crédito,16353.21,Aprovado
+1343,1343,Boleto,2875.63,Aprovado
+1344,1344,Cartão de Crédito,2030.28,Aprovado
+1345,1345,Cartão de Débito,2335.66,Aprovado
+1346,1346,Cartão de Crédito,7213.36,Aprovado
+1347,1347,Cartão de Crédito,3309.15,Aprovado
+1348,1348,Cartão de Crédito,5019.52,Pendente
+1349,1349,Cartão de Crédito,15333.49,Aprovado
+1350,1350,Cartão de Crédito,2971.79,Aprovado
+1351,1351,Cartão de Crédito,5392.08,Aprovado
+1352,1352,Cartão de Crédito,8968.74,Aprovado
+1353,1353,Pix,11680.0,Pendente
+1354,1354,Pix,4857.57,Aprovado
+1355,1355,Pix,9926.1,Aprovado
+1356,1356,Cartão de Crédito,9062.64,Aprovado
+1357,1357,Pix,6052.88,Aprovado
+1358,1358,Cartão de Crédito,14114.01,Aprovado
+1359,1359,Boleto,3263.49,Aprovado
+1360,1360,Pix,15026.75,Aprovado
+1361,1361,Cartão de Crédito,3240.94,Aprovado
+1362,1362,Pix,12868.48,Aprovado
+1363,1363,Cartão de Crédito,3154.14,Pendente
+1364,1364,Boleto,4339.94,Recusado
+1365,1365,Boleto,20200.5,Aprovado
+1366,1366,Cartão de Crédito,11094.62,Aprovado
+1367,1367,Cartão de Crédito,3501.52,Aprovado
+1368,1368,Pix,3667.09,Aprovado
+1369,1369,Cartão de Crédito,1551.88,Aprovado
+1370,1370,Cartão de Crédito,2649.42,Aprovado
+1371,1371,Pix,11936.69,Recusado
+1372,1372,Cartão de Crédito,1679.83,Aprovado
+1373,1373,Pix,10447.29,Aprovado
+1374,1374,Cartão de Crédito,412.83,Aprovado
+1375,1375,Cartão de Crédito,12537.11,Aprovado
+1376,1376,Boleto,3279.05,Aprovado
+1377,1377,Pix,3206.01,Aprovado
+1378,1378,Cartão de Crédito,2297.94,Aprovado
+1379,1379,Pix,2101.09,Aprovado
+1380,1380,Cartão de Crédito,7996.69,Aprovado
+1381,1381,Pix,2867.22,Aprovado
+1382,1382,Cartão de Crédito,8908.14,Aprovado
+1383,1383,Pix,9581.97,Aprovado
+1384,1384,Cartão de Crédito,3026.14,Aprovado
+1385,1385,Pix,7132.68,Aprovado
+1386,1386,Cartão de Crédito,11085.36,Aprovado
+1387,1387,Pix,21368.9,Aprovado
+1388,1388,Cartão de Crédito,0.0,Aprovado
+1389,1389,Cartão de Crédito,5161.44,Aprovado
+1390,1390,Cartão de Crédito,2586.25,Aprovado
+1391,1391,Cartão de Débito,11728.37,Aprovado
+1392,1392,Cartão de Crédito,5392.08,Aprovado
+1393,1393,Pix,12910.94,Aprovado
+1394,1394,Cartão de Crédito,9333.28,Aprovado
+1395,1395,Cartão de Crédito,3655.81,Aprovado
+1396,1396,Pix,1762.66,Aprovado
+1397,1397,Cartão de Crédito,10948.31,Aprovado
+1398,1398,Cartão de Crédito,8182.98,Aprovado
+1399,1399,Pix,1727.17,Aprovado
+1400,1400,Pix,10521.39,Aprovado
+1401,1401,Pix,1275.18,Pendente
+1402,1402,Cartão de Crédito,18237.14,Aprovado
+1403,1403,Cartão de Crédito,3321.81,Aprovado
+1404,1404,Cartão de Crédito,15343.66,Pendente
+1405,1405,Pix,3661.6,Recusado
+1406,1406,Cartão de Crédito,17004.29,Aprovado
+1407,1407,Cartão de Crédito,3309.15,Aprovado
+1408,1408,Boleto,10784.16,Pendente
+1409,1409,Cartão de Crédito,6919.6,Aprovado
+1410,1410,Pix,17738.46,Aprovado
+1411,1411,Pix,7822.47,Aprovado
+1412,1412,Boleto,4868.0,Aprovado
+1413,1413,Boleto,2679.8,Aprovado
+1414,1414,Pix,7994.78,Aprovado
+1415,1415,Cartão de Crédito,9432.37,Aprovado
+1416,1416,Pix,1900.38,Pendente
+1417,1417,Cartão de Crédito,2165.39,Aprovado
+1418,1418,Cartão de Crédito,9410.47,Aprovado
+1419,1419,Pix,10083.36,Aprovado
+1420,1420,Boleto,1640.75,Aprovado
+1421,1421,Cartão de Débito,950.19,Pendente
+1422,1422,Cartão de Crédito,20031.21,Aprovado
+1423,1423,Boleto,4048.81,Aprovado
+1424,1424,Cartão de Crédito,17138.07,Pendente
+1425,1425,Pix,8443.67,Aprovado
+1426,1426,Cartão de Crédito,20828.65,Aprovado
+1427,1427,Cartão de Crédito,6271.51,Pendente
+1428,1428,Cartão de Crédito,5346.98,Aprovado
+1429,1429,Pix,12514.62,Aprovado
+1430,1430,Pix,8304.32,Aprovado
+1431,1431,Pix,137.61,Aprovado
+1432,1432,Cartão de Crédito,8577.42,Aprovado
+1433,1433,Cartão de Crédito,2390.03,Aprovado
+1434,1434,Pix,3719.47,Aprovado
+1435,1435,Pix,3877.35,Pendente
+1436,1436,Boleto,7582.84,Aprovado
+1437,1437,Cartão de Crédito,14559.72,Aprovado
+1438,1438,Pix,6448.24,Aprovado
+1439,1439,Cartão de Crédito,7977.04,Aprovado
+1440,1440,Cartão de Crédito,5636.1,Aprovado
+1441,1441,Cartão de Crédito,538.06,Aprovado
+1442,1442,Cartão de Crédito,7078.41,Aprovado
+1443,1443,Cartão de Débito,5275.5,Aprovado
+1444,1444,Pix,5754.82,Aprovado
+1445,1445,Pix,5572.82,Aprovado
+1446,1446,Boleto,12898.21,Aprovado
+1447,1447,Cartão de Crédito,13272.9,Aprovado
+1448,1448,Pix,6069.39,Aprovado
+1449,1449,Cartão de Crédito,2172.68,Pendente
+1450,1450,Boleto,6545.72,Aprovado
+1451,1451,Cartão de Crédito,6908.68,Aprovado
+1452,1452,Pix,9403.79,Aprovado
+1453,1453,Pix,955.74,Aprovado
+1454,1454,Cartão de Crédito,2767.37,Aprovado
+1455,1455,Cartão de Crédito,6195.94,Aprovado
+1456,1456,Cartão de Crédito,11678.25,Aprovado
+1457,1457,Cartão de Crédito,10785.23,Aprovado
+1458,1458,Cartão de Crédito,5445.54,Aprovado
+1459,1459,Pix,5031.86,Pendente
+1460,1460,Boleto,16107.32,Pendente
+1461,1461,Pix,14145.77,Aprovado
+1462,1462,Pix,11577.19,Aprovado
+1463,1463,Cartão de Crédito,6421.42,Recusado
+1464,1464,Cartão de Crédito,3774.1,Aprovado
+1465,1465,Pix,8881.42,Aprovado
+1466,1466,Cartão de Crédito,955.74,Aprovado
+1467,1467,Cartão de Crédito,18970.92,Aprovado
+1468,1468,Cartão de Crédito,5940.8,Aprovado
+1469,1469,Pix,6013.0,Aprovado
+1470,1470,Boleto,12142.06,Aprovado
+1471,1471,Cartão de Crédito,1318.12,Aprovado
+1472,1472,Pix,123.0,Aprovado
+1473,1473,Cartão de Débito,1610.68,Pendente
+1474,1474,Cartão de Crédito,1727.17,Aprovado
+1475,1475,Cartão de Crédito,3703.94,Aprovado
+1476,1476,Cartão de Crédito,9769.74,Aprovado
+1477,1477,Boleto,6980.2,Aprovado
+1478,1478,Cartão de Débito,15278.01,Pendente
+1479,1479,Pix,13032.43,Aprovado
+1480,1480,Pix,7227.84,Pendente
+1481,1481,Pix,3800.76,Aprovado
+1482,1482,Cartão de Crédito,20496.5,Aprovado
+1483,1483,Pix,3592.85,Aprovado
+1484,1484,Pix,8975.37,Aprovado
+1485,1485,Pix,345.28,Aprovado
+1486,1486,Pix,1762.66,Aprovado
+1487,1487,Pix,1958.72,Aprovado
+1488,1488,Pix,6908.68,Aprovado
+1489,1489,Boleto,9613.45,Aprovado
+1490,1490,Cartão de Débito,2476.55,Aprovado
+1491,1491,Cartão de Crédito,4147.5,Aprovado
+1492,1492,Boleto,1113.18,Aprovado
+1493,1493,Cartão de Crédito,13075.98,Aprovado
+1494,1494,Boleto,3868.71,Aprovado
+1495,1495,Pix,6504.02,Aprovado
+1496,1496,Boleto,7376.24,Aprovado
+1497,1497,Pix,3057.53,Aprovado
+1498,1498,Cartão de Débito,5042.83,Aprovado
+1499,1499,Pix,11435.0,Aprovado
+1500,1500,Pix,3263.49,Aprovado
+1501,1501,Cartão de Crédito,955.74,Aprovado
+1502,1502,Cartão de Débito,12036.84,Aprovado
+1503,1503,Pix,3518.82,Aprovado
+1504,1504,Cartão de Débito,11352.98,Aprovado
+1505,1505,Cartão de Crédito,2488.31,Aprovado
+1506,1506,Cartão de Crédito,6354.42,Aprovado
+1507,1507,Boleto,1567.58,Aprovado
+1508,1508,Pix,10144.45,Pendente
+1509,1509,Boleto,1113.26,Aprovado
+1510,1510,Pix,5598.34,Aprovado
+1511,1511,Boleto,345.28,Aprovado
+1512,1512,Cartão de Crédito,3508.25,Aprovado
+1513,1513,Pix,6778.82,Aprovado
+1514,1514,Cartão de Crédito,0.0,Aprovado
+1515,1515,Pix,6618.3,Aprovado
+1516,1516,Cartão de Crédito,3248.13,Aprovado
+1517,1517,Cartão de Crédito,5623.88,Aprovado
+1518,1518,Pix,10594.57,Aprovado
+1519,1519,Pix,1459.96,Aprovado
+1520,1520,Cartão de Débito,18068.77,Aprovado
+1521,1521,Cartão de Crédito,8039.4,Aprovado
+1522,1522,Boleto,12396.71,Aprovado
+1523,1523,Cartão de Crédito,1532.57,Aprovado
+1524,1524,Cartão de Crédito,1400.43,Pendente
+1525,1525,Pix,275.22,Aprovado
+1526,1526,Pix,7924.92,Recusado
+1527,1527,Boleto,950.19,Aprovado
+1528,1528,Boleto,8282.93,Aprovado
+1529,1529,Pix,8137.59,Aprovado
+1530,1530,Cartão de Crédito,6439.89,Aprovado
+1531,1531,Pix,13051.77,Aprovado
+1532,1532,Cartão de Crédito,4985.11,Aprovado
+1533,1533,Cartão de Débito,13382.25,Aprovado
+1534,1534,Pix,1442.19,Aprovado
+1535,1535,Cartão de Crédito,4770.48,Aprovado
+1536,1536,Cartão de Crédito,1258.12,Aprovado
+1537,1537,Pix,9934.37,Recusado
+1538,1538,Cartão de Crédito,4522.36,Pendente
+1539,1539,Cartão de Crédito,4453.2,Aprovado
+1540,1540,Pix,2786.41,Aprovado
+1541,1541,Pix,2120.65,Aprovado
+1542,1542,Pix,7167.32,Recusado
+1543,1543,Pix,9095.03,Recusado
+1544,1544,Pix,19930.19,Aprovado
+1545,1545,Pix,6411.41,Aprovado
+1546,1546,Pix,21032.66,Pendente
+1547,1547,Pix,5406.53,Aprovado
+1548,1548,Pix,12509.99,Aprovado
+1549,1549,Pix,3006.5,Aprovado
+1550,1550,Cartão de Débito,1851.97,Aprovado
+1551,1551,Boleto,1986.11,Aprovado
+1552,1552,Pix,10932.07,Aprovado
+1553,1553,Pix,2529.79,Aprovado
+1554,1554,Pix,4817.35,Aprovado
+1555,1555,Cartão de Crédito,9613.92,Aprovado
+1556,1556,Cartão de Débito,3240.94,Aprovado
+1557,1557,Boleto,6657.06,Aprovado
+1558,1558,Cartão de Crédito,2749.53,Aprovado
+1559,1559,Boleto,6618.3,Aprovado
+1560,1560,Cartão de Crédito,3476.78,Aprovado
+1561,1561,Cartão de Crédito,1522.73,Aprovado
+1562,1562,Cartão de Crédito,3518.82,Recusado
+1563,1563,Cartão de Crédito,16967.26,Aprovado
+1564,1564,Pix,955.74,Aprovado
+1565,1565,Pix,11243.4,Aprovado
+1566,1566,Cartão de Crédito,4625.42,Aprovado
+1567,1567,Cartão de Crédito,2825.36,Aprovado
+1568,1568,Boleto,8348.66,Aprovado
+1569,1569,Cartão de Débito,14659.95,Aprovado
+1570,1570,Cartão de Crédito,17988.14,Recusado
+1571,1571,Cartão de Crédito,2101.09,Aprovado
+1572,1572,Boleto,275.22,Aprovado
+1573,1573,Pix,4188.12,Aprovado
+1574,1574,Pix,8474.21,Recusado
+1575,1575,Cartão de Crédito,10106.11,Recusado
+1576,1576,Cartão de Crédito,2823.34,Pendente
+1577,1577,Cartão de Crédito,8466.79,Aprovado
+1578,1578,Pix,6115.09,Pendente
+1579,1579,Boleto,9935.91,Aprovado
+1580,1580,Cartão de Crédito,7459.76,Aprovado
+1581,1581,Pix,2130.82,Aprovado
+1582,1582,Cartão de Crédito,15318.6,Aprovado
+1583,1583,Pix,9419.43,Aprovado
+1584,1584,Pix,6412.1,Aprovado
+1585,1585,Pix,10589.76,Aprovado
+1586,1586,Pix,2924.48,Aprovado
+1587,1587,Pix,8836.56,Pendente
+1588,1588,Boleto,1443.05,Aprovado
+1589,1589,Pix,2746.2,Aprovado
+1590,1590,Cartão de Crédito,2951.96,Aprovado
+1591,1591,Cartão de Débito,0.0,Aprovado
+1592,1592,Cartão de Crédito,14415.44,Aprovado
+1593,1593,Boleto,4076.15,Aprovado
+1594,1594,Cartão de Crédito,6618.3,Aprovado
+1595,1595,Cartão de Crédito,8855.88,Pendente
+1596,1596,Boleto,6421.42,Aprovado
+1597,1597,Boleto,10446.8,Aprovado
+1598,1598,Pix,6996.31,Aprovado
+1599,1599,Pix,18808.88,Aprovado
+1600,1600,Boleto,11400.43,Aprovado
+1601,1601,Cartão de Crédito,3623.98,Aprovado
+1602,1602,Cartão de Crédito,2849.69,Aprovado
+1603,1603,Cartão de Débito,13896.4,Aprovado
+1604,1604,Pix,1895.59,Aprovado
+1605,1605,Pix,3428.09,Aprovado
+1606,1606,Cartão de Crédito,3309.15,Aprovado
+1607,1607,Cartão de Crédito,9531.07,Aprovado
+1608,1608,Cartão de Crédito,12882.63,Aprovado
+1609,1609,Pix,11843.23,Aprovado
+1610,1610,Pix,16108.63,Aprovado
+1611,1611,Cartão de Crédito,7938.19,Aprovado
+1612,1612,Pix,8475.47,Aprovado
+1613,1613,Cartão de Crédito,5618.14,Aprovado
+1614,1614,Cartão de Crédito,17119.0,Aprovado
+1615,1615,Cartão de Crédito,2165.39,Aprovado
+1616,1616,Cartão de Débito,4673.53,Aprovado
+1617,1617,Pix,3139.81,Aprovado
+1618,1618,Boleto,8078.75,Aprovado
+1619,1619,Cartão de Crédito,6303.27,Aprovado
+1620,1620,Pix,3721.98,Aprovado
+1621,1621,Cartão de Crédito,8398.58,Aprovado
+1622,1622,Cartão de Crédito,14573.43,Aprovado
+1623,1623,Cartão de Crédito,5940.96,Aprovado
+1624,1624,Cartão de Crédito,7928.36,Aprovado
+1625,1625,Pix,9818.58,Aprovado
+1626,1626,Cartão de Crédito,7797.03,Aprovado
+1627,1627,Boleto,9371.22,Aprovado
+1628,1628,Cartão de Crédito,5171.89,Aprovado
+1629,1629,Pix,9424.97,Aprovado
+1630,1630,Cartão de Débito,1459.96,Aprovado
+1631,1631,Cartão de Crédito,11881.92,Aprovado
+1632,1632,Pix,12496.05,Recusado
+1633,1633,Pix,9475.26,Aprovado
+1634,1634,Cartão de Crédito,5699.38,Aprovado
+1635,1635,Pix,16539.9,Aprovado
+1636,1636,Cartão de Crédito,5848.96,Aprovado
+1637,1637,Pix,9569.48,Aprovado
+1638,1638,Cartão de Débito,3215.85,Aprovado
+1639,1639,Pix,5944.09,Aprovado
+1640,1640,Cartão de Débito,6855.19,Aprovado
+1641,1641,Boleto,2696.04,Aprovado
+1642,1642,Boleto,1065.41,Aprovado
+1643,1643,Cartão de Crédito,5699.38,Aprovado
+1644,1644,Pix,13620.34,Pendente
+1645,1645,Cartão de Crédito,1567.58,Aprovado
+1646,1646,Pix,3314.37,Pendente
+1647,1647,Cartão de Crédito,2172.68,Pendente
+1648,1648,Cartão de Crédito,6724.8,Aprovado
+1649,1649,Pix,5392.08,Aprovado
+1650,1650,Cartão de Crédito,13585.74,Aprovado
+1651,1651,Pix,5747.5,Aprovado
+1652,1652,Pix,690.56,Aprovado
+1653,1653,Cartão de Crédito,2636.24,Aprovado
+1654,1654,Cartão de Crédito,7138.61,Aprovado
+1655,1655,Pix,1851.97,Recusado
+1656,1656,Pix,3321.81,Aprovado
+1657,1657,Cartão de Crédito,12028.0,Aprovado
+1658,1658,Pix,2951.96,Aprovado
+1659,1659,Pix,3476.55,Aprovado
+1660,1660,Pix,16366.84,Aprovado
+1661,1661,Boleto,181.94,Pendente
+1662,1662,Pix,8586.2,Aprovado
+1663,1663,Pix,2165.91,Aprovado
+1664,1664,Cartão de Crédito,4732.22,Aprovado
+1665,1665,Boleto,2970.48,Aprovado
+1666,1666,Cartão de Crédito,1258.12,Aprovado
+1667,1667,Pix,15164.78,Aprovado
+1668,1668,Cartão de Crédito,24109.3,Aprovado
+1669,1669,Pix,3516.62,Aprovado
+1670,1670,Boleto,2335.66,Aprovado
+1671,1671,Pix,6545.72,Aprovado
+1672,1672,Cartão de Crédito,8184.33,Aprovado
+1673,1673,Pix,3929.85,Aprovado
+1674,1674,Pix,8007.0,Aprovado
+1675,1675,Cartão de Crédito,10431.2,Aprovado
+1676,1676,Cartão de Crédito,15279.36,Aprovado
+1677,1677,Cartão de Crédito,3985.41,Aprovado
+1678,1678,Cartão de Crédito,3231.32,Aprovado
+1679,1679,Pix,3365.81,Aprovado
+1680,1680,Pix,14733.61,Aprovado
+1681,1681,Cartão de Crédito,3108.59,Aprovado
+1682,1682,Pix,6969.98,Aprovado
+1683,1683,Pix,14446.6,Aprovado
+1684,1684,Cartão de Crédito,6650.86,Aprovado
+1685,1685,Cartão de Crédito,12591.69,Pendente
+1686,1686,Cartão de Crédito,12598.89,Aprovado
+1687,1687,Cartão de Débito,556.59,Aprovado
+1688,1688,Pix,2749.53,Aprovado
+1689,1689,Pix,10714.74,Recusado
+1690,1690,Cartão de Crédito,5272.0,Aprovado
+1691,1691,Cartão de Débito,3020.15,Aprovado
+1692,1692,Cartão de Crédito,1779.85,Pendente
+1693,1693,Cartão de Crédito,7487.23,Aprovado
+1694,1694,Pix,5956.71,Aprovado
+1695,1695,Pix,4595.88,Aprovado
+1696,1696,Cartão de Crédito,23035.65,Aprovado
+1697,1697,Cartão de Crédito,9332.45,Recusado
+1698,1698,Pix,2192.68,Pendente
+1699,1699,Cartão de Crédito,2746.2,Aprovado
+1700,1700,Cartão de Crédito,8364.72,Aprovado
+1701,1701,Pix,3972.22,Aprovado
+1702,1702,Cartão de Débito,17516.62,Aprovado
+1703,1703,Cartão de Débito,8759.92,Aprovado
+1704,1704,Cartão de Crédito,2501.52,Aprovado
+1705,1705,Pix,2786.41,Aprovado
+1706,1706,Pix,2169.97,Aprovado
+1707,1707,Cartão de Débito,3139.81,Aprovado
+1708,1708,Boleto,6230.14,Aprovado
+1709,1709,Boleto,11110.24,Aprovado
+1710,1710,Cartão de Crédito,7729.67,Aprovado
+1711,1711,Cartão de Débito,9174.5,Aprovado
+1712,1712,Cartão de Crédito,3466.03,Aprovado
+1713,1713,Pix,7816.11,Aprovado
+1714,1714,Pix,5572.82,Aprovado
+1715,1715,Pix,2010.32,Aprovado
+1716,1716,Pix,2970.48,Aprovado
+1717,1717,Cartão de Crédito,9809.47,Aprovado
+1718,1718,Pix,7020.12,Aprovado
+1719,1719,Cartão de Crédito,9164.72,Aprovado
+1720,1720,Cartão de Crédito,9973.29,Aprovado
+1721,1721,Boleto,4955.28,Recusado
+1722,1722,Pix,3459.8,Aprovado
+1723,1723,Cartão de Crédito,5337.64,Aprovado
+1724,1724,Cartão de Crédito,9968.3,Aprovado
+1725,1725,Pix,6279.62,Aprovado
+1726,1726,Pix,6328.31,Aprovado
+1727,1727,Cartão de Crédito,2938.49,Aprovado
+1728,1728,Pix,1759.41,Aprovado
+1729,1729,Pix,2895.59,Aprovado
+1730,1730,Boleto,9639.18,Aprovado
+1731,1731,Cartão de Crédito,2266.89,Aprovado
+1732,1732,Cartão de Crédito,12026.0,Aprovado
+1733,1733,Pix,1464.88,Aprovado
+1734,1734,Cartão de Crédito,6328.57,Aprovado
+1735,1735,Cartão de Crédito,10554.15,Aprovado
+1736,1736,Cartão de Crédito,9328.87,Recusado
+1737,1737,Cartão de Crédito,5003.04,Pendente
+1738,1738,Cartão de Crédito,2775.36,Aprovado
+1739,1739,Cartão de Crédito,1018.82,Aprovado
+1740,1740,Pix,1779.85,Aprovado
+1741,1741,Cartão de Crédito,3592.29,Aprovado
+1742,1742,Cartão de Crédito,8359.23,Aprovado
+1743,1743,Cartão de Crédito,2951.96,Aprovado
+1744,1744,Cartão de Crédito,14119.6,Aprovado
+1745,1745,Pix,14055.86,Aprovado
+1746,1746,Cartão de Crédito,6766.7,Aprovado
+1747,1747,Pix,9019.44,Recusado
+1748,1748,Boleto,3163.95,Aprovado
+1749,1749,Cartão de Crédito,8560.58,Aprovado
+1750,1750,Cartão de Débito,8575.42,Aprovado
+1751,1751,Cartão de Débito,3321.81,Aprovado
+1752,1752,Cartão de Crédito,3917.64,Aprovado
+1753,1753,Pix,432.15,Aprovado
+1754,1754,Cartão de Crédito,16010.28,Aprovado
+1755,1755,Pix,11867.93,Pendente
+1756,1756,Pix,2657.14,Aprovado
+1757,1757,Pix,1170.46,Recusado
+1758,1758,Cartão de Crédito,3996.43,Aprovado
+1759,1759,Boleto,3518.81,Aprovado
+1760,1760,Cartão de Crédito,2437.2,Pendente
+1761,1761,Cartão de Crédito,6504.02,Aprovado
+1762,1762,Pix,2678.52,Aprovado
+1763,1763,Cartão de Crédito,17968.5,Aprovado
+1764,1764,Cartão de Crédito,18193.32,Recusado
+1765,1765,Pix,9965.43,Aprovado
+1766,1766,Pix,2707.04,Aprovado
+1767,1767,Pix,1569.28,Aprovado
+1768,1768,Boleto,3272.86,Aprovado
+1769,1769,Cartão de Crédito,15931.64,Aprovado
+1770,1770,Cartão de Crédito,4399.23,Aprovado
+1771,1771,Cartão de Crédito,11264.66,Aprovado
+1772,1772,Cartão de Débito,10178.43,Aprovado
+1773,1773,Cartão de Crédito,8276.98,Aprovado
+1774,1774,Pix,2253.4,Aprovado
+1775,1775,Pix,16080.04,Aprovado
+1776,1776,Boleto,13180.52,Aprovado
+1777,1777,Cartão de Crédito,1170.46,Aprovado
+1778,1778,Cartão de Crédito,3444.05,Aprovado
+1779,1779,Pix,6686.63,Aprovado
+1780,1780,Cartão de Crédito,181.94,Aprovado
+1781,1781,Pix,9874.29,Aprovado
+1782,1782,Cartão de Crédito,1288.14,Aprovado
+1783,1783,Pix,950.19,Aprovado
+1784,1784,Cartão de Crédito,3954.98,Pendente
+1785,1785,Pix,5924.45,Pendente
+1786,1786,Cartão de Crédito,5137.76,Aprovado
+1787,1787,Pix,3365.81,Aprovado
+1788,1788,Cartão de Crédito,345.28,Aprovado
+1789,1789,Cartão de Crédito,4212.37,Aprovado
+1790,1790,Cartão de Crédito,3459.8,Aprovado
+1791,1791,Cartão de Crédito,4644.92,Aprovado
+1792,1792,Pix,7469.88,Aprovado
+1793,1793,Cartão de Crédito,1309.95,Aprovado
+1794,1794,Cartão de Crédito,5542.11,Pendente
+1795,1795,Pix,4220.93,Aprovado
+1796,1796,Cartão de Crédito,9193.28,Aprovado
+1797,1797,Cartão de Crédito,2169.97,Aprovado
+1798,1798,Boleto,5940.96,Aprovado
+1799,1799,Cartão de Débito,0.0,Aprovado
+1800,1800,Cartão de Crédito,1759.41,Aprovado
+1801,1801,Cartão de Crédito,20223.52,Aprovado
+1802,1802,Cartão de Débito,2679.8,Aprovado
+1803,1803,Pix,6544.7,Aprovado
+1804,1804,Cartão de Crédito,5044.27,Aprovado
+1805,1805,Pix,4331.82,Aprovado
+1806,1806,Boleto,7211.21,Aprovado
+1807,1807,Pix,2749.53,Aprovado
+1808,1808,Cartão de Crédito,13001.18,Aprovado
+1809,1809,Pix,2619.9,Aprovado
+1810,1810,Cartão de Crédito,7539.6,Aprovado
+1811,1811,Cartão de Crédito,1400.43,Aprovado
+1812,1812,Pix,19599.35,Aprovado
+1813,1813,Cartão de Crédito,13919.79,Aprovado
+1814,1814,Pix,10916.23,Aprovado
+1815,1815,Cartão de Débito,11873.44,Aprovado
+1816,1816,Cartão de Crédito,12370.54,Aprovado
+1817,1817,Pix,2970.48,Aprovado
+1818,1818,Boleto,23123.0,Aprovado
+1819,1819,Pix,7197.23,Aprovado
+1820,1820,Cartão de Crédito,10382.93,Aprovado
+1821,1821,Cartão de Crédito,13808.59,Aprovado
+1822,1822,Cartão de Crédito,4615.9,Aprovado
+1823,1823,Pix,3799.88,Aprovado
+1824,1824,Boleto,1170.46,Aprovado
+1825,1825,Cartão de Crédito,9689.76,Aprovado
+1826,1826,Cartão de Crédito,6431.78,Aprovado
+1827,1827,Cartão de Crédito,805.88,Aprovado
+1828,1828,Cartão de Crédito,5032.48,Aprovado
+1829,1829,Pix,2769.91,Aprovado
+1830,1830,Pix,5691.16,Recusado
+1831,1831,Cartão de Débito,8306.56,Aprovado
+1832,1832,Cartão de Crédito,2165.39,Aprovado
+1833,1833,Pix,5650.72,Aprovado
+1834,1834,Boleto,4059.16,Aprovado
+1835,1835,Boleto,3459.8,Aprovado
+1836,1836,Boleto,18911.66,Aprovado
+1837,1837,Boleto,10621.06,Recusado
+1838,1838,Cartão de Crédito,8707.24,Aprovado
+1839,1839,Cartão de Crédito,7322.54,Aprovado
+1840,1840,Cartão de Crédito,24908.48,Aprovado
+1841,1841,Boleto,13208.3,Aprovado
+1842,1842,Cartão de Crédito,2786.41,Aprovado
+1843,1843,Boleto,2438.35,Aprovado
+1844,1844,Pix,915.4,Aprovado
+1845,1845,Boleto,13236.6,Aprovado
+1846,1846,Cartão de Crédito,6436.63,Aprovado
+1847,1847,Cartão de Crédito,3954.98,Aprovado
+1848,1848,Cartão de Crédito,727.76,Aprovado
+1849,1849,Boleto,2516.24,Aprovado
+1850,1850,Cartão de Débito,1318.12,Aprovado
+1851,1851,Pix,6365.25,Pendente
+1852,1852,Pix,5734.75,Aprovado
+1853,1853,Pix,6025.31,Recusado
+1854,1854,Cartão de Crédito,5095.49,Aprovado
+1855,1855,Pix,2970.48,Aprovado
+1856,1856,Pix,5028.91,Aprovado
+1857,1857,Cartão de Crédito,4173.43,Aprovado
+1858,1858,Pix,8476.08,Aprovado
+1859,1859,Cartão de Crédito,6279.62,Aprovado
+1860,1860,Pix,3518.68,Aprovado
+1861,1861,Cartão de Crédito,2008.66,Pendente
+1862,1862,Boleto,3165.92,Aprovado
+1863,1863,Cartão de Crédito,6481.88,Aprovado
+1864,1864,Cartão de Crédito,21443.48,Pendente
+1865,1865,Pix,12002.3,Aprovado
+1866,1866,Cartão de Crédito,8266.56,Aprovado
+1867,1867,Cartão de Crédito,3249.9,Pendente
+1868,1868,Pix,2172.68,Aprovado
+1869,1869,Cartão de Crédito,9541.31,Aprovado
+1870,1870,Cartão de Crédito,5840.0,Pendente
+1871,1871,Boleto,805.88,Aprovado
+1872,1872,Cartão de Crédito,10169.86,Aprovado
+1873,1873,Cartão de Crédito,10772.6,Aprovado
+1874,1874,Cartão de Crédito,6224.57,Aprovado
+1875,1875,Pix,9019.5,Aprovado
+1876,1876,Cartão de Crédito,6633.78,Aprovado
+1877,1877,Cartão de Crédito,123.0,Aprovado
+1878,1878,Boleto,6654.27,Recusado
+1879,1879,Cartão de Crédito,6545.72,Aprovado
+1880,1880,Cartão de Crédito,5298.84,Aprovado
+1881,1881,Pix,26664.37,Aprovado
+1882,1882,Pix,1857.89,Aprovado
+1883,1883,Pix,2951.96,Aprovado
+1884,1884,Pix,7049.65,Aprovado
+1885,1885,Cartão de Crédito,1551.88,Aprovado
+1886,1886,Pix,2825.36,Aprovado
+1887,1887,Boleto,3252.01,Aprovado
+1888,1888,Pix,14019.18,Aprovado
+1889,1889,Pix,8377.71,Aprovado
+1890,1890,Pix,1943.3,Aprovado
+1891,1891,Pix,206.76,Aprovado
+1892,1892,Cartão de Débito,2572.65,Aprovado
+1893,1893,Pix,3713.87,Aprovado
+1894,1894,Pix,6135.84,Recusado
+1895,1895,Cartão de Crédito,7908.48,Recusado
+1896,1896,Boleto,18959.2,Pendente
+1897,1897,Boleto,11282.21,Pendente
+1898,1898,Pix,7684.36,Aprovado
+1899,1899,Cartão de Crédito,8043.03,Recusado
+1900,1900,Cartão de Crédito,7913.45,Aprovado
+1901,1901,Cartão de Crédito,538.06,Aprovado
+1902,1902,Cartão de Crédito,13882.1,Aprovado
+1903,1903,Cartão de Crédito,16716.42,Aprovado
+1904,1904,Pix,18904.12,Aprovado
+1905,1905,Cartão de Débito,6044.66,Aprovado
+1906,1906,Cartão de Crédito,8430.96,Aprovado
+1907,1907,Cartão de Débito,2679.8,Aprovado
+1908,1908,Boleto,8476.08,Aprovado
+1909,1909,Cartão de Crédito,8626.51,Pendente
+1910,1910,Pix,16150.72,Aprovado
+1911,1911,Cartão de Débito,24026.95,Aprovado
+1912,1912,Pix,4973.78,Aprovado
+1913,1913,Cartão de Débito,5135.13,Aprovado
+1914,1914,Pix,8447.32,Recusado
+1915,1915,Pix,538.06,Pendente
+1916,1916,Pix,13829.39,Aprovado
+1917,1917,Pix,8598.63,Aprovado
+1918,1918,Pix,3694.82,Aprovado
+1919,1919,Cartão de Crédito,8025.65,Aprovado
+1920,1920,Pix,4899.22,Aprovado
+1921,1921,Cartão de Crédito,2679.8,Aprovado
+1922,1922,Pix,9720.67,Aprovado
+1923,1923,Cartão de Crédito,8476.08,Aprovado
+1924,1924,Boleto,5988.36,Aprovado
+1925,1925,Pix,3146.14,Aprovado
+1926,1926,Pix,4139.1,Aprovado
+1927,1927,Cartão de Crédito,8163.51,Aprovado
+1928,1928,Cartão de Crédito,14153.8,Aprovado
+1929,1929,Boleto,6708.12,Aprovado
+1930,1930,Cartão de Crédito,5840.0,Recusado
+1931,1931,Cartão de Crédito,4317.06,Aprovado
+1932,1932,Cartão de Crédito,805.88,Pendente
+1933,1933,Cartão de Crédito,9251.4,Recusado
+1934,1934,Cartão de Crédito,7344.01,Aprovado
+1935,1935,Cartão de Crédito,6088.85,Aprovado
+1936,1936,Pix,16957.88,Aprovado
+1937,1937,Pix,17823.74,Aprovado
+1938,1938,Pix,13322.92,Aprovado
+1939,1939,Cartão de Crédito,6745.3,Aprovado
+1940,1940,Cartão de Crédito,7081.45,Aprovado
+1941,1941,Cartão de Crédito,3065.14,Aprovado
+1942,1942,Cartão de Crédito,3272.86,Aprovado
+1943,1943,Cartão de Crédito,16282.81,Aprovado
+1944,1944,Cartão de Crédito,7322.82,Aprovado
+1945,1945,Pix,11519.18,Aprovado
+1946,1946,Cartão de Crédito,8544.38,Aprovado
+1947,1947,Cartão de Crédito,2938.49,Aprovado
+1948,1948,Pix,2350.73,Aprovado
+1949,1949,Boleto,2951.96,Aprovado
+1950,1950,Boleto,7028.81,Aprovado
+1951,1951,Pix,4881.79,Aprovado
+1952,1952,Pix,3781.73,Recusado
+1953,1953,Pix,12218.92,Aprovado
+1954,1954,Cartão de Crédito,9692.59,Aprovado
+1955,1955,Cartão de Crédito,4739.01,Aprovado
+1956,1956,Pix,13008.04,Aprovado
+1957,1957,Cartão de Crédito,6850.73,Aprovado
+1958,1958,Pix,5318.54,Pendente
+1959,1959,Cartão de Crédito,8258.83,Aprovado
+1960,1960,Cartão de Débito,4891.15,Aprovado
+1961,1961,Cartão de Débito,20651.02,Aprovado
+1962,1962,Pix,8112.0,Aprovado
+1963,1963,Cartão de Débito,2335.66,Aprovado
+1964,1964,Pix,6011.2,Aprovado
+1965,1965,Pix,1473.07,Aprovado
+1966,1966,Cartão de Crédito,5307.92,Aprovado
+1967,1967,Cartão de Crédito,3309.15,Aprovado
+1968,1968,Pix,5840.0,Pendente
+1969,1969,Pix,1020.98,Aprovado
+1970,1970,Cartão de Crédito,3252.01,Pendente
+1971,1971,Cartão de Crédito,9890.17,Aprovado
+1972,1972,Cartão de Crédito,5184.5,Pendente
+1973,1973,Cartão de Crédito,4650.14,Aprovado
+1974,1974,Cartão de Crédito,3369.08,Aprovado
+1975,1975,Boleto,5952.04,Aprovado
+1976,1976,Cartão de Crédito,5940.96,Aprovado
+1977,1977,Pix,2169.97,Pendente
+1978,1978,Cartão de Crédito,4254.08,Aprovado
+1979,1979,Cartão de Crédito,9790.25,Aprovado
+1980,1980,Cartão de Débito,11493.24,Aprovado
+1981,1981,Cartão de Crédito,2786.41,Aprovado
+1982,1982,Pix,8131.59,Aprovado
+1983,1983,Pix,2970.48,Aprovado
+1984,1984,Cartão de Crédito,2696.04,Aprovado
+1985,1985,Boleto,4033.26,Aprovado
+1986,1986,Cartão de Débito,9965.43,Aprovado
+1987,1987,Cartão de Crédito,1977.49,Aprovado
+1988,1988,Pix,5118.15,Pendente
+1989,1989,Cartão de Crédito,1405.97,Aprovado
+1990,1990,Pix,10010.45,Aprovado
+1991,1991,Pix,5027.38,Recusado
+1992,1992,Cartão de Débito,3474.1,Aprovado
+1993,1993,Pix,6961.64,Aprovado
+1994,1994,Pix,18259.59,Pendente
+1995,1995,Cartão de Crédito,5118.15,Aprovado
+1996,1996,Pix,19499.9,Aprovado
+1997,1997,Cartão de Crédito,915.4,Aprovado
+1998,1998,Cartão de Crédito,2130.82,Aprovado
+1999,1999,Boleto,7296.03,Aprovado
+2000,2000,Cartão de Crédito,10974.4,Aprovado
+2001,2001,Pix,4139.76,Aprovado
+2002,2002,Cartão de Crédito,8760.0,Aprovado
+2003,2003,Boleto,8835.33,Aprovado
+2004,2004,Pix,7454.27,Aprovado
+2005,2005,Cartão de Crédito,2849.69,Aprovado
+2006,2006,Cartão de Débito,3434.92,Aprovado
+2007,2007,Cartão de Crédito,2169.97,Aprovado
+2008,2008,Boleto,10620.77,Aprovado
+2009,2009,Pix,2438.35,Aprovado
+2010,2010,Cartão de Crédito,4533.64,Aprovado
+2011,2011,Pix,1755.69,Pendente
+2012,2012,Cartão de Crédito,8313.12,Pendente
+2013,2013,Cartão de Crédito,413.52,Aprovado
+2014,2014,Cartão de Crédito,8681.08,Aprovado
+2015,2015,Cartão de Crédito,3515.92,Aprovado
+2016,2016,Cartão de Crédito,17349.22,Aprovado
+2017,2017,Cartão de Crédito,1532.57,Aprovado
+2018,2018,Boleto,6279.62,Aprovado
+2019,2019,Cartão de Crédito,1309.95,Aprovado
+2020,2020,Pix,805.88,Aprovado
+2021,2021,Cartão de Crédito,2253.4,Aprovado
+2022,2022,Pix,123.0,Recusado
+2023,2023,Boleto,2619.9,Pendente
+2024,2024,Cartão de Crédito,11359.6,Aprovado
+2025,2025,Pix,9122.04,Recusado
+2026,2026,Cartão de Débito,8645.52,Aprovado
+2027,2027,Cartão de Crédito,1164.0,Recusado
+2028,2028,Boleto,1977.49,Aprovado
+2029,2029,Cartão de Débito,3383.35,Pendente
+2030,2030,Cartão de Crédito,10173.87,Aprovado
+2031,2031,Cartão de Crédito,2938.49,Aprovado
+2032,2032,Cartão de Crédito,7721.3,Aprovado
+2033,2033,Cartão de Débito,14890.58,Aprovado
+2034,2034,Boleto,6636.38,Aprovado
+2035,2035,Pix,527.71,Aprovado
+2036,2036,Boleto,1375.78,Aprovado
+2037,2037,Pix,0.0,Aprovado
+2038,2038,Cartão de Crédito,1759.41,Aprovado
+2039,2039,Boleto,14319.46,Aprovado
+2040,2040,Cartão de Crédito,2927.24,Aprovado
+2041,2041,Cartão de Débito,12954.13,Aprovado
+2042,2042,Pix,11828.9,Aprovado
+2043,2043,Cartão de Crédito,2169.97,Aprovado
+2044,2044,Boleto,16101.67,Aprovado
+2045,2045,Cartão de Crédito,13369.7,Aprovado
+2046,2046,Cartão de Crédito,7438.39,Aprovado
+2047,2047,Cartão de Crédito,14674.68,Aprovado
+2048,2048,Cartão de Crédito,5298.84,Recusado
+2049,2049,Cartão de Crédito,7618.39,Aprovado
+2050,2050,Cartão de Crédito,1309.95,Aprovado
+2051,2051,Cartão de Crédito,10258.09,Aprovado
+2052,2052,Cartão de Crédito,7512.43,Aprovado
+2053,2053,Cartão de Crédito,7502.69,Aprovado
+2054,2054,Cartão de Débito,12619.96,Aprovado
+2055,2055,Cartão de Crédito,52.79,Aprovado
+2056,2056,Pix,7790.88,Aprovado
+2057,2057,Cartão de Crédito,2772.42,Aprovado
+2058,2058,Pix,10800.89,Aprovado
+2059,2059,Cartão de Crédito,16985.13,Aprovado
+2060,2060,Boleto,1578.65,Aprovado
+2061,2061,Cartão de Crédito,5278.23,Aprovado
+2062,2062,Cartão de Crédito,955.74,Pendente
+2063,2063,Cartão de Débito,6057.95,Aprovado
+2064,2064,Pix,12011.36,Aprovado
+2065,2065,Cartão de Crédito,11124.4,Pendente
+2066,2066,Pix,6755.24,Recusado
+2067,2067,Boleto,3607.89,Aprovado
+2068,2068,Pix,8259.9,Aprovado
+2069,2069,Pix,1569.28,Aprovado
+2070,2070,Cartão de Crédito,10597.68,Pendente
+2071,2071,Boleto,13164.01,Aprovado
+2072,2072,Pix,5266.93,Aprovado
+2073,2073,Pix,6613.56,Aprovado
+2074,2074,Cartão de Crédito,6766.7,Aprovado
+2075,2075,Cartão de Crédito,11872.27,Aprovado
+2076,2076,Cartão de Crédito,14026.0,Aprovado
+2077,2077,Pix,6460.84,Pendente
+2078,2078,Cartão de Crédito,19411.3,Aprovado
+2079,2079,Boleto,345.28,Aprovado
+2080,2080,Pix,2319.04,Aprovado
+2081,2081,Boleto,3365.81,Aprovado
+2082,2082,Cartão de Débito,9600.2,Aprovado
+2083,2083,Pix,2213.94,Aprovado
+2084,2084,Cartão de Crédito,3462.54,Aprovado
+2085,2085,Cartão de Crédito,6988.9,Aprovado
+2086,2086,Cartão de Débito,1986.11,Aprovado
+2087,2087,Pix,12349.92,Aprovado
+2088,2088,Pix,12573.97,Aprovado
+2089,2089,Cartão de Crédito,15866.93,Recusado
+2090,2090,Boleto,1914.64,Aprovado
+2091,2091,Cartão de Débito,5131.97,Aprovado
+2092,2092,Cartão de Débito,2165.39,Pendente
+2093,2093,Cartão de Crédito,5772.52,Aprovado
+2094,2094,Cartão de Crédito,8601.24,Recusado
+2095,2095,Pix,1065.41,Aprovado
+2096,2096,Cartão de Crédito,8201.86,Aprovado
+2097,2097,Pix,6027.35,Aprovado
+2098,2098,Cartão de Crédito,755.63,Aprovado
+2099,2099,Pix,5236.86,Pendente
+2100,2100,Cartão de Crédito,345.28,Aprovado
+2101,2101,Boleto,7004.36,Aprovado
+2102,2102,Cartão de Crédito,18976.74,Aprovado
+2103,2103,Pix,7435.7,Aprovado
+2104,2104,Cartão de Crédito,6018.2,Aprovado
+2105,2105,Pix,5844.36,Aprovado
+2106,2106,Pix,1762.66,Aprovado
+2107,2107,Cartão de Crédito,5681.0,Aprovado
+2108,2108,Cartão de Débito,2970.48,Aprovado
+2109,2109,Pix,2920.0,Aprovado
+2110,2110,Cartão de Crédito,4906.11,Aprovado
+2111,2111,Pix,17011.09,Pendente
+2112,2112,Cartão de Débito,3210.71,Aprovado
+2113,2113,Pix,2501.52,Aprovado
+2114,2114,Pix,10523.2,Aprovado
+2115,2115,Cartão de Crédito,1532.57,Aprovado
+2116,2116,Cartão de Crédito,15556.61,Aprovado
+2117,2117,Boleto,2919.92,Aprovado
+2118,2118,Pix,9393.15,Aprovado
+2119,2119,Cartão de Crédito,11593.97,Aprovado
+2120,2120,Pix,13602.31,Pendente
+2121,2121,Pix,3001.63,Pendente
+2122,2122,Cartão de Débito,4419.84,Aprovado
+2123,2123,Cartão de Crédito,3843.92,Aprovado
+2124,2124,Cartão de Crédito,13246.4,Recusado
+2125,2125,Cartão de Débito,2526.59,Aprovado
+2126,2126,Pix,6095.56,Aprovado
+2127,2127,Boleto,3724.54,Aprovado
+2128,2128,Pix,18571.06,Pendente
+2129,2129,Pix,8854.93,Aprovado
+2130,2130,Cartão de Crédito,9262.58,Aprovado
+2131,2131,Cartão de Crédito,895.82,Aprovado
+2132,2132,Pix,4217.91,Aprovado
+2133,2133,Pix,2707.04,Aprovado
+2134,2134,Pix,8922.61,Aprovado
+2135,2135,Cartão de Débito,16533.19,Aprovado
+2136,2136,Boleto,4665.91,Pendente
+2137,2137,Cartão de Débito,2319.04,Aprovado
+2138,2138,Boleto,7504.56,Aprovado
+2139,2139,Pix,1567.58,Aprovado
+2140,2140,Boleto,3642.12,Aprovado
+2141,2141,Cartão de Crédito,1528.97,Recusado
+2142,2142,Boleto,8248.59,Aprovado
+2143,2143,Cartão de Débito,2169.97,Aprovado
+2144,2144,Boleto,1567.58,Aprovado
+2145,2145,Cartão de Crédito,3108.59,Aprovado
+2146,2146,Cartão de Crédito,1459.96,Aprovado
+2147,2147,Cartão de Crédito,6493.78,Recusado
+2148,2148,Pix,2169.97,Aprovado
+2149,2149,Pix,1076.12,Aprovado
+2150,2150,Cartão de Crédito,7050.94,Aprovado
+2151,2151,Cartão de Crédito,5218.43,Aprovado
+2152,2152,Cartão de Crédito,10389.4,Aprovado
+2153,2153,Boleto,3240.94,Aprovado
+2154,2154,Cartão de Crédito,8118.32,Aprovado
+2155,2155,Cartão de Débito,2624.52,Aprovado
+2156,2156,Pix,105.58,Aprovado
+2157,2157,Pix,3365.81,Aprovado
+2158,2158,Pix,7806.12,Aprovado
+2159,2159,Pix,3742.15,Aprovado
+2160,2160,Cartão de Débito,8661.56,Aprovado
+2161,2161,Boleto,4020.64,Aprovado
+2162,2162,Cartão de Crédito,10602.65,Aprovado
+2163,2163,Cartão de Crédito,11290.8,Aprovado
+2164,2164,Pix,22152.74,Pendente
+2165,2165,Cartão de Crédito,8575.2,Aprovado
+2166,2166,Boleto,7611.62,Aprovado
+2167,2167,Cartão de Crédito,3863.87,Aprovado
+2168,2168,Cartão de Crédito,7373.88,Aprovado
+2169,2169,Cartão de Crédito,527.71,Pendente
+2170,2170,Pix,3800.76,Aprovado
+2171,2171,Cartão de Crédito,2438.35,Aprovado
+2172,2172,Pix,10855.26,Aprovado
+2173,2173,Pix,3006.5,Aprovado
+2174,2174,Cartão de Crédito,0.0,Aprovado
+2175,2175,Cartão de Crédito,13343.9,Aprovado
+2176,2176,Cartão de Crédito,7896.47,Aprovado
+2177,2177,Cartão de Crédito,5451.59,Aprovado
+2178,2178,Pix,7504.56,Pendente
+2179,2179,Pix,9297.14,Aprovado
+2180,2180,Pix,538.06,Aprovado
+2181,2181,Boleto,2517.77,Aprovado
+2182,2182,Boleto,5125.76,Aprovado
+2183,2183,Cartão de Crédito,6731.62,Aprovado
+2184,2184,Cartão de Crédito,955.74,Pendente
+2185,2185,Pix,4737.78,Aprovado
+2186,2186,Cartão de Crédito,15659.06,Aprovado
+2187,2187,Cartão de Crédito,9033.59,Aprovado
+2188,2188,Cartão de Crédito,3359.21,Aprovado
+2189,2189,Boleto,1341.23,Aprovado
+2190,2190,Cartão de Crédito,8575.03,Aprovado
+2191,2191,Pix,9110.3,Recusado
+2192,2192,Cartão de Crédito,23921.08,Aprovado
+2193,2193,Cartão de Débito,7803.53,Aprovado
+2194,2194,Pix,2447.5,Aprovado
+2195,2195,Cartão de Crédito,6810.71,Recusado
+2196,2196,Pix,8593.89,Aprovado
+2197,2197,Pix,3108.59,Aprovado
+2198,2198,Boleto,17762.17,Aprovado
+2199,2199,Pix,6919.6,Aprovado
+2200,2200,Cartão de Débito,5485.38,Pendente
+2201,2201,Cartão de Crédito,8597.23,Aprovado
+2202,2202,Boleto,6481.88,Aprovado
+2203,2203,Boleto,1430.74,Aprovado
+2204,2204,Pix,17228.67,Pendente
+2205,2205,Cartão de Crédito,9403.32,Aprovado
+2206,2206,Cartão de Crédito,14094.8,Aprovado
+2207,2207,Boleto,3822.96,Aprovado
+2208,2208,Cartão de Crédito,8636.34,Aprovado
+2209,2209,Pix,3553.69,Aprovado
+2210,2210,Cartão de Crédito,2169.97,Aprovado
+2211,2211,Pix,13168.1,Aprovado
+2212,2212,Pix,11409.5,Aprovado
+2213,2213,Pix,7037.64,Aprovado
+2214,2214,Cartão de Crédito,3135.16,Aprovado
+2215,2215,Cartão de Crédito,6496.17,Pendente
+2216,2216,Cartão de Crédito,4991.78,Aprovado
+2217,2217,Cartão de Crédito,1258.12,Aprovado
+2218,2218,Pix,11010.49,Recusado
+2219,2219,Cartão de Crédito,4924.6,Aprovado
+2220,2220,Cartão de Crédito,25058.74,Aprovado
+2221,2221,Boleto,2365.08,Aprovado
+2222,2222,Cartão de Crédito,2394.62,Aprovado
+2223,2223,Cartão de Crédito,12667.99,Aprovado
+2224,2224,Cartão de Crédito,3503.76,Aprovado
+2225,2225,Pix,3272.86,Aprovado
+2226,2226,Cartão de Crédito,3774.36,Aprovado
+2227,2227,Pix,12480.63,Aprovado
+2228,2228,Cartão de Crédito,5940.96,Aprovado
+2229,2229,Boleto,7429.08,Aprovado
+2230,2230,Pix,6504.02,Aprovado
+2231,2231,Pix,3729.2,Pendente
+2232,2232,Cartão de Crédito,123.0,Aprovado
+2233,2233,Pix,10452.51,Aprovado
+2234,2234,Pix,20110.08,Aprovado
+2235,2235,Boleto,1713.65,Aprovado
+2236,2236,Cartão de Crédito,2165.91,Aprovado
+2237,2237,Cartão de Crédito,2165.39,Pendente
+2238,2238,Cartão de Crédito,6279.62,Aprovado
+2239,2239,Boleto,52.79,Aprovado
+2240,2240,Cartão de Débito,6505.62,Aprovado
+2241,2241,Boleto,4920.65,Aprovado
+2242,2242,Pix,6494.97,Aprovado
+2243,2243,Pix,5169.31,Aprovado
+2244,2244,Pix,3023.27,Aprovado
+2245,2245,Pix,4947.97,Aprovado
+2246,2246,Pix,1567.58,Pendente
+2247,2247,Pix,3518.82,Aprovado
+2248,2248,Cartão de Crédito,18106.71,Aprovado
+2249,2249,Cartão de Crédito,10040.77,Aprovado
+2250,2250,Pix,7144.55,Aprovado
+2251,2251,Cartão de Débito,8226.47,Aprovado
+2252,2252,Pix,3907.54,Recusado
+2253,2253,Cartão de Crédito,805.88,Aprovado
+2254,2254,Cartão de Débito,4744.71,Aprovado
+2255,2255,Cartão de Crédito,10322.69,Aprovado
+2256,2256,Pix,3321.81,Aprovado
+2257,2257,Pix,2319.04,Aprovado
+2258,2258,Pix,3583.28,Aprovado
+2259,2259,Pix,15344.21,Aprovado
+2260,2260,Boleto,2924.48,Aprovado
+2261,2261,Cartão de Crédito,9980.07,Aprovado
+2262,2262,Cartão de Crédito,12228.42,Aprovado
+2263,2263,Pix,5249.04,Recusado
+2264,2264,Cartão de Crédito,5975.62,Aprovado
+2265,2265,Cartão de Crédito,3423.8,Aprovado
+2266,2266,Pix,10202.61,Aprovado
+2267,2267,Pix,4638.08,Aprovado
+2268,2268,Pix,5428.88,Aprovado
+2269,2269,Pix,13625.18,Aprovado
+2270,2270,Cartão de Crédito,4934.18,Aprovado
+2271,2271,Pix,2010.32,Aprovado
+2272,2272,Cartão de Crédito,7006.37,Aprovado
+2273,2273,Pix,345.28,Aprovado
+2274,2274,Cartão de Débito,137.61,Aprovado
+2275,2275,Pix,7959.89,Aprovado
+2276,2276,Cartão de Débito,6747.24,Aprovado
+2277,2277,Pix,1405.97,Aprovado
+2278,2278,Boleto,23396.16,Aprovado
+2279,2279,Cartão de Crédito,11088.67,Aprovado
+2280,2280,Cartão de Crédito,8859.77,Aprovado
+2281,2281,Pix,3465.77,Aprovado
+2282,2282,Boleto,5452.58,Aprovado
+2283,2283,Boleto,11783.73,Pendente
+2284,2284,Cartão de Crédito,9965.43,Aprovado
+2285,2285,Cartão de Crédito,9898.81,Pendente
+2286,2286,Pix,3252.01,Aprovado
+2287,2287,Boleto,7526.14,Aprovado
+2288,2288,Cartão de Crédito,4531.61,Aprovado
+2289,2289,Pix,17605.35,Aprovado
+2290,2290,Cartão de Crédito,6322.76,Aprovado
+2291,2291,Pix,17536.61,Aprovado
+2292,2292,Cartão de Crédito,12289.06,Aprovado
+2293,2293,Pix,5275.5,Aprovado
+2294,2294,Pix,2104.69,Aprovado
+2295,2295,Pix,6201.98,Aprovado
+2296,2296,Cartão de Crédito,3272.86,Aprovado
+2297,2297,Pix,2637.75,Pendente
+2298,2298,Cartão de Crédito,18063.3,Aprovado
+2299,2299,Cartão de Débito,1862.27,Aprovado
+2300,2300,Cartão de Crédito,7780.83,Aprovado
+2301,2301,Cartão de Crédito,8196.87,Aprovado
+2302,2302,Pix,6131.35,Pendente
+2303,2303,Cartão de Crédito,2919.92,Aprovado
+2304,2304,Cartão de Crédito,9701.24,Aprovado
+2305,2305,Boleto,9460.85,Aprovado
+2306,2306,Cartão de Crédito,137.61,Aprovado
+2307,2307,Boleto,16663.93,Aprovado
+2308,2308,Cartão de Crédito,4807.24,Aprovado
+2309,2309,Cartão de Crédito,10719.2,Aprovado
+2310,2310,Pix,22083.96,Aprovado
+2311,2311,Cartão de Crédito,5274.5,Aprovado
+2312,2312,Boleto,6013.0,Aprovado
+2313,2313,Cartão de Crédito,5425.59,Aprovado
+2314,2314,Cartão de Crédito,1911.48,Aprovado
+2315,2315,Cartão de Crédito,13691.85,Pendente
+2316,2316,Cartão de Crédito,950.19,Aprovado
+2317,2317,Cartão de Crédito,27622.9,Recusado
+2318,2318,Cartão de Crédito,3849.58,Aprovado
+2319,2319,Pix,3382.29,Aprovado
+2320,2320,Pix,6536.48,Recusado
+2321,2321,Cartão de Crédito,1762.66,Aprovado
+2322,2322,Cartão de Débito,2970.48,Aprovado
+2323,2323,Cartão de Crédito,21928.27,Aprovado
+2324,2324,Cartão de Crédito,123.0,Aprovado
+2325,2325,Cartão de Crédito,1759.41,Pendente
+2326,2326,Cartão de Crédito,1008.53,Aprovado
+2327,2327,Cartão de Crédito,1611.76,Recusado
+2328,2328,Cartão de Crédito,11734.92,Aprovado
+2329,2329,Cartão de Crédito,5367.3,Aprovado
+2330,2330,Cartão de Crédito,3581.65,Aprovado
+2331,2331,Cartão de Crédito,1851.97,Recusado
+2332,2332,Pix,7913.25,Pendente
+2333,2333,Cartão de Crédito,123.0,Aprovado
+2334,2334,Cartão de Crédito,6421.42,Recusado
+2335,2335,Cartão de Crédito,52.79,Aprovado
+2336,2336,Cartão de Crédito,8596.76,Aprovado
+2337,2337,Pix,10762.61,Pendente
+2338,2338,Boleto,12966.12,Aprovado
+2339,2339,Cartão de Crédito,3240.94,Aprovado
+2340,2340,Cartão de Débito,14956.32,Aprovado
+2341,2341,Pix,7728.95,Aprovado
+2342,2342,Cartão de Crédito,4197.76,Aprovado
+2343,2343,Pix,10145.12,Aprovado
+2344,2344,Pix,6810.76,Aprovado
+2345,2345,Cartão de Crédito,15997.98,Aprovado
+2346,2346,Pix,1603.79,Aprovado
+2347,2347,Cartão de Crédito,5437.75,Aprovado
+2348,2348,Boleto,10580.55,Aprovado
+2349,2349,Cartão de Crédito,8453.08,Aprovado
+2350,2350,Cartão de Crédito,1375.78,Aprovado
+2351,2351,Cartão de Crédito,4369.92,Aprovado
+2352,2352,Cartão de Débito,13493.63,Aprovado
+2353,2353,Cartão de Crédito,1217.84,Aprovado
+2354,2354,Boleto,2165.91,Aprovado
+2355,2355,Boleto,13825.65,Pendente
+2356,2356,Pix,2909.41,Aprovado
+2357,2357,Pix,3725.88,Aprovado
+2358,2358,Pix,7090.38,Pendente
+2359,2359,Boleto,4595.88,Aprovado
+2360,2360,Cartão de Crédito,12622.21,Aprovado
+2361,2361,Pix,12403.78,Aprovado
+2362,2362,Cartão de Crédito,2696.04,Aprovado
+2363,2363,Pix,4538.21,Aprovado
+2364,2364,Boleto,24270.3,Aprovado
+2365,2365,Cartão de Crédito,5499.06,Aprovado
+2366,2366,Boleto,7318.26,Aprovado
+2367,2367,Pix,6620.02,Aprovado
+2368,2368,Cartão de Crédito,15239.46,Aprovado
+2369,2369,Cartão de Crédito,8327.4,Aprovado
+2370,2370,Cartão de Débito,6908.84,Aprovado
+2371,2371,Cartão de Débito,13802.6,Aprovado
+2372,2372,Pix,8641.31,Recusado
+2373,2373,Pix,1405.97,Aprovado
+2374,2374,Cartão de Débito,6211.35,Aprovado
+2375,2375,Cartão de Crédito,1900.38,Aprovado
+2376,2376,Boleto,17096.95,Aprovado
+2377,2377,Pix,10093.74,Aprovado
+2378,2378,Cartão de Débito,5246.3,Aprovado
+2379,2379,Cartão de Crédito,8735.28,Pendente
+2380,2380,Pix,3518.81,Pendente
+2381,2381,Cartão de Débito,5848.96,Pendente
+2382,2382,Pix,950.19,Aprovado
+2383,2383,Cartão de Crédito,18970.52,Aprovado
+2384,2384,Pix,3383.35,Aprovado
+2385,2385,Cartão de Crédito,2438.35,Recusado
+2386,2386,Cartão de Crédito,2165.39,Aprovado
+2387,2387,Pix,1258.12,Aprovado
+2388,2388,Cartão de Débito,9736.26,Aprovado
+2389,2389,Cartão de Crédito,18114.35,Aprovado
+2390,2390,Cartão de Débito,12416.74,Aprovado
+2391,2391,Pix,7425.72,Aprovado
+2392,2392,Cartão de Débito,13761.46,Aprovado
+2393,2393,Pix,12487.56,Aprovado
+2394,2394,Cartão de Crédito,1525.86,Aprovado
+2395,2395,Cartão de Crédito,8243.19,Pendente
+2396,2396,Cartão de Crédito,21038.0,Aprovado
+2397,2397,Pix,137.61,Aprovado
+2398,2398,Boleto,11552.29,Aprovado
+2399,2399,Pix,18976.64,Aprovado
+2400,2400,Pix,10571.78,Recusado
+2401,2401,Boleto,13230.0,Aprovado
+2402,2402,Pix,2654.66,Aprovado
+2403,2403,Pix,2438.35,Aprovado
+2404,2404,Cartão de Débito,5447.66,Aprovado
+2405,2405,Pix,8287.72,Aprovado
+2406,2406,Pix,11524.9,Aprovado
+2407,2407,Cartão de Crédito,2101.09,Aprovado
+2408,2408,Cartão de Crédito,1739.66,Aprovado
+2409,2409,Pix,13536.86,Aprovado
+2410,2410,Pix,6823.98,Aprovado
+2411,2411,Cartão de Débito,6333.49,Aprovado
+2412,2412,Boleto,1309.95,Aprovado
+2413,2413,Boleto,13484.33,Aprovado
+2414,2414,Cartão de Crédito,7856.45,Aprovado
+2415,2415,Cartão de Crédito,9970.19,Aprovado
+2416,2416,Boleto,5246.57,Aprovado
+2417,2417,Cartão de Crédito,9995.11,Aprovado
+2418,2418,Boleto,13004.02,Aprovado
+2419,2419,Cartão de Crédito,15961.34,Aprovado
+2420,2420,Cartão de Crédito,6217.18,Aprovado
+2421,2421,Cartão de Débito,950.19,Pendente
+2422,2422,Boleto,2657.14,Aprovado
+2423,2423,Pix,10326.24,Aprovado
+2424,2424,Cartão de Débito,6303.27,Aprovado
+2425,2425,Pix,2921.02,Aprovado
+2426,2426,Cartão de Crédito,3901.95,Aprovado
+2427,2427,Pix,10031.3,Aprovado
+2428,2428,Pix,14045.17,Aprovado
+2429,2429,Boleto,9295.56,Aprovado
+2430,2430,Pix,6481.88,Aprovado
+2431,2431,Cartão de Crédito,9043.44,Aprovado
+2432,2432,Boleto,6504.02,Aprovado
+2433,2433,Pix,3928.57,Aprovado
+2434,2434,Pix,9072.37,Aprovado
+2435,2435,Cartão de Débito,3120.39,Aprovado
+2436,2436,Pix,2165.39,Aprovado
+2437,2437,Pix,3108.59,Aprovado
+2438,2438,Cartão de Crédito,5876.98,Aprovado
+2439,2439,Cartão de Crédito,412.83,Aprovado
+2440,2440,Pix,10787.99,Aprovado
+2441,2441,Cartão de Crédito,7948.26,Aprovado
+2442,2442,Pix,6735.91,Aprovado
+2443,2443,Pix,15203.29,Aprovado
+2444,2444,Pix,7608.37,Aprovado
+2445,2445,Cartão de Crédito,955.74,Aprovado
+2446,2446,Cartão de Crédito,2319.04,Aprovado
+2447,2447,Pix,5150.94,Aprovado
+2448,2448,Cartão de Crédito,7268.9,Aprovado
+2449,2449,Pix,8098.38,Aprovado
+2450,2450,Boleto,6421.42,Aprovado
+2451,2451,Pix,527.71,Aprovado
+2452,2452,Cartão de Crédito,206.76,Aprovado
+2453,2453,Pix,3135.16,Aprovado
+2454,2454,Cartão de Crédito,18594.62,Aprovado
+2455,2455,Cartão de Crédito,3982.05,Aprovado
+2456,2456,Pix,7423.16,Aprovado
+2457,2457,Boleto,12879.41,Aprovado
+2458,2458,Pix,6479.56,Aprovado
+2459,2459,Pix,16290.06,Aprovado
+2460,2460,Cartão de Débito,672.02,Aprovado
+2461,2461,Cartão de Crédito,4423.37,Aprovado
+2462,2462,Cartão de Crédito,7803.07,Aprovado
+2463,2463,Pix,12600.37,Recusado
+2464,2464,Cartão de Crédito,2165.39,Aprovado
+2465,2465,Boleto,538.06,Aprovado
+2466,2466,Pix,3108.59,Aprovado
+2467,2467,Pix,7791.3,Aprovado
+2468,2468,Cartão de Débito,2226.52,Aprovado
+2469,2469,Pix,13517.1,Aprovado
+2470,2470,Pix,3240.94,Aprovado
+2471,2471,Pix,4345.36,Aprovado
+2472,2472,Cartão de Crédito,2825.36,Aprovado
+2473,2473,Cartão de Crédito,7353.21,Aprovado
+2474,2474,Cartão de Crédito,3272.86,Recusado
+2475,2475,Cartão de Crédito,2619.9,Aprovado
+2476,2476,Cartão de Débito,2010.32,Aprovado
+2477,2477,Cartão de Crédito,2924.48,Aprovado
+2478,2478,Cartão de Crédito,5278.23,Aprovado
+2479,2479,Cartão de Débito,6386.95,Aprovado
+2480,2480,Cartão de Crédito,3394.09,Pendente
+2481,2481,Pix,10933.76,Aprovado
+2482,2482,Pix,5259.9,Pendente
+2483,2483,Pix,5446.59,Aprovado
+2484,2484,Pix,12931.89,Aprovado
+2485,2485,Pix,21457.63,Aprovado
+2486,2486,Cartão de Crédito,25762.24,Aprovado
+2487,2487,Cartão de Crédito,20224.32,Aprovado
+2488,2488,Cartão de Crédito,16513.77,Aprovado
+2489,2489,Pix,275.22,Aprovado
+2490,2490,Pix,12457.85,Aprovado
+2491,2491,Cartão de Crédito,5079.38,Recusado
+2492,2492,Boleto,2010.32,Aprovado
+2493,2493,Cartão de Crédito,17074.17,Pendente
+2494,2494,Cartão de Crédito,3802.54,Pendente
+2495,2495,Cartão de Crédito,14554.72,Aprovado
+2496,2496,Boleto,2490.52,Aprovado
+2497,2497,Pix,1779.85,Aprovado
+2498,2498,Pix,1830.8,Aprovado
+2499,2499,Cartão de Crédito,1318.12,Aprovado
+2500,2500,Boleto,11312.68,Aprovado
+2501,2501,Pix,11232.95,Pendente
+2502,2502,Boleto,10346.64,Aprovado
+2503,2503,Pix,3886.6,Aprovado
+2504,2504,Boleto,950.19,Aprovado
+2505,2505,Cartão de Crédito,6260.3,Aprovado
+2506,2506,Boleto,8873.99,Aprovado
+2507,2507,Pix,1055.42,Recusado
+2508,2508,Pix,3365.81,Aprovado
+2509,2509,Cartão de Crédito,1912.86,Aprovado
+2510,2510,Boleto,11452.55,Aprovado
+2511,2511,Pix,2319.04,Aprovado
+2512,2512,Cartão de Crédito,3935.51,Aprovado
+2513,2513,Cartão de Crédito,1960.51,Aprovado
+2514,2514,Boleto,2319.04,Aprovado
+2515,2515,Boleto,8361.78,Aprovado
+2516,2516,Boleto,392.32,Aprovado
+2517,2517,Cartão de Crédito,16172.93,Aprovado
+2518,2518,Cartão de Crédito,9486.63,Aprovado
+2519,2519,Pix,15247.94,Aprovado
+2520,2520,Cartão de Crédito,1779.85,Aprovado
+2521,2521,Boleto,15041.24,Aprovado
+2522,2522,Pix,3006.5,Pendente
+2523,2523,Cartão de Crédito,10932.01,Aprovado
+2524,2524,Pix,6809.74,Aprovado
+2525,2525,Pix,9161.62,Aprovado
+2526,2526,Pix,3242.03,Aprovado
+2527,2527,Cartão de Crédito,2165.91,Aprovado
+2528,2528,Pix,5392.08,Aprovado
+2529,2529,Pix,3043.56,Aprovado
+2530,2530,Cartão de Crédito,8088.12,Aprovado
+2531,2531,Pix,3954.36,Aprovado
+2532,2532,Cartão de Crédito,1614.18,Aprovado
+2533,2533,Cartão de Crédito,556.59,Aprovado
+2534,2534,Pix,7178.27,Pendente
+2535,2535,Cartão de Crédito,3240.94,Aprovado
+2536,2536,Cartão de Crédito,1405.97,Aprovado
+2537,2537,Pix,1473.07,Aprovado
+2538,2538,Cartão de Crédito,10144.55,Aprovado
+2539,2539,Pix,14356.35,Aprovado
+2540,2540,Pix,5078.76,Aprovado
+2541,2541,Cartão de Crédito,6978.72,Aprovado
+2542,2542,Pix,21754.37,Aprovado
+2543,2543,Pix,620.28,Aprovado
+2544,2544,Cartão de Crédito,1132.13,Recusado
+2545,2545,Boleto,7246.93,Aprovado
+2546,2546,Pix,672.02,Aprovado
+2547,2547,Cartão de Crédito,22873.86,Recusado
+2548,2548,Boleto,755.63,Aprovado
+2549,2549,Cartão de Débito,9205.92,Aprovado
+2550,2550,Pix,11402.14,Aprovado
+2551,2551,Pix,2578.15,Aprovado
+2552,2552,Cartão de Crédito,2970.48,Aprovado
+2553,2553,Pix,3518.82,Aprovado
+2554,2554,Cartão de Crédito,12119.28,Aprovado
+2555,2555,Pix,2216.42,Aprovado
+2556,2556,Cartão de Crédito,2696.04,Aprovado
+2557,2557,Cartão de Crédito,2516.24,Aprovado
+2558,2558,Cartão de Crédito,6421.42,Aprovado
+2559,2559,Cartão de Crédito,3895.51,Pendente
+2560,2560,Cartão de Débito,6723.13,Aprovado
+2561,2561,Pix,7578.47,Aprovado
+2562,2562,Cartão de Crédito,4807.72,Aprovado
+2563,2563,Cartão de Crédito,1815.45,Aprovado
+2564,2564,Pix,4742.77,Aprovado
+2565,2565,Pix,3886.6,Aprovado
+2566,2566,Pix,1532.57,Aprovado
+2567,2567,Cartão de Crédito,5352.95,Pendente
+2568,2568,Pix,10145.78,Aprovado
+2569,2569,Pix,4808.12,Aprovado
+2570,2570,Pix,5829.9,Aprovado
+2571,2571,Boleto,13826.97,Aprovado
+2572,2572,Cartão de Crédito,275.22,Aprovado
+2573,2573,Cartão de Débito,15034.21,Aprovado
+2574,2574,Boleto,2253.4,Aprovado
+2575,2575,Pix,14390.23,Aprovado
+2576,2576,Cartão de Crédito,19788.39,Aprovado
+2577,2577,Pix,6046.54,Aprovado
+2578,2578,Boleto,3108.59,Aprovado
+2579,2579,Pix,2446.37,Aprovado
+2580,2580,Cartão de Crédito,6110.39,Recusado
+2581,2581,Pix,5020.07,Aprovado
+2582,2582,Boleto,8417.76,Pendente
+2583,2583,Pix,1674.86,Aprovado
+2584,2584,Cartão de Crédito,3995.65,Aprovado
+2585,2585,Cartão de Crédito,52.79,Aprovado
+2586,2586,Boleto,206.76,Aprovado
+2587,2587,Pix,13609.1,Aprovado
+2588,2588,Cartão de Débito,3458.06,Pendente
+2589,2589,Boleto,13868.12,Aprovado
+2590,2590,Cartão de Crédito,2289.19,Recusado
+2591,2591,Cartão de Crédito,10011.25,Aprovado
+2592,2592,Cartão de Crédito,4692.5,Aprovado
+2593,2593,Cartão de Débito,5650.72,Aprovado
+2594,2594,Cartão de Crédito,22288.59,Aprovado
+2595,2595,Boleto,5674.01,Pendente
+2596,2596,Cartão de Crédito,805.88,Aprovado
+2597,2597,Pix,14173.54,Aprovado
+2598,2598,Pix,8879.09,Aprovado
+2599,2599,Cartão de Crédito,9644.58,Aprovado
+2600,2600,Pix,6496.17,Aprovado
+2601,2601,Cartão de Crédito,10434.17,Aprovado
+2602,2602,Cartão de Débito,6497.21,Aprovado
+2603,2603,Pix,755.63,Aprovado
+2604,2604,Cartão de Crédito,52.79,Aprovado
+2605,2605,Cartão de Crédito,5605.52,Aprovado
+2606,2606,Cartão de Crédito,6620.76,Aprovado
+2607,2607,Cartão de Crédito,1614.18,Aprovado
+2608,2608,Cartão de Crédito,12960.68,Aprovado
+2609,2609,Cartão de Crédito,22585.0,Aprovado
+2610,2610,Pix,6421.42,Aprovado
+2611,2611,Cartão de Crédito,4152.02,Aprovado
+2612,2612,Cartão de Crédito,12276.22,Aprovado
+2613,2613,Pix,7603.89,Aprovado
+2614,2614,Cartão de Crédito,3263.49,Aprovado
+2615,2615,Cartão de Crédito,2335.66,Aprovado
+2616,2616,Boleto,14959.0,Aprovado
+2617,2617,Cartão de Crédito,1779.85,Aprovado
+2618,2618,Cartão de Crédito,17395.64,Aprovado
+2619,2619,Pix,7948.26,Aprovado
+2620,2620,Pix,11155.66,Aprovado
+2621,2621,Cartão de Crédito,2865.93,Aprovado
+2622,2622,Cartão de Crédito,10362.52,Pendente
+2623,2623,Pix,6013.0,Aprovado
+2624,2624,Cartão de Crédito,672.02,Aprovado
+2625,2625,Boleto,137.61,Aprovado
+2626,2626,Pix,15769.91,Aprovado
+2627,2627,Cartão de Crédito,7686.7,Aprovado
+2628,2628,Pix,17669.02,Aprovado
+2629,2629,Pix,4235.37,Aprovado
+2630,2630,Pix,3794.1,Aprovado
+2631,2631,Pix,7354.05,Aprovado
+2632,2632,Pix,2169.97,Aprovado
+2633,2633,Boleto,2127.15,Aprovado
+2634,2634,Pix,7499.67,Aprovado
+2635,2635,Cartão de Débito,3724.54,Aprovado
+2636,2636,Boleto,6165.97,Recusado
+2637,2637,Cartão de Crédito,10727.72,Aprovado
+2638,2638,Pix,10697.54,Aprovado
+2639,2639,Cartão de Débito,5516.64,Aprovado
+2640,2640,Cartão de Crédito,15767.45,Aprovado
+2641,2641,Pix,9604.18,Aprovado
+2642,2642,Cartão de Crédito,2696.04,Aprovado
+2643,2643,Cartão de Crédito,7264.27,Aprovado
+2644,2644,Boleto,13812.18,Pendente
+2645,2645,Cartão de Débito,12510.5,Aprovado
+2646,2646,Pix,7820.68,Aprovado
+2647,2647,Pix,22195.83,Aprovado
+2648,2648,Cartão de Crédito,2169.97,Aprovado
+2649,2649,Boleto,755.63,Aprovado
+2650,2650,Pix,13534.21,Aprovado
+2651,2651,Pix,2130.82,Aprovado
+2652,2652,Cartão de Crédito,556.59,Aprovado
+2653,2653,Cartão de Crédito,1309.95,Aprovado
+2654,2654,Boleto,3600.65,Aprovado
+2655,2655,Pix,585.23,Aprovado
+2656,2656,Pix,4587.28,Aprovado
+2657,2657,Pix,9464.79,Aprovado
+2658,2658,Pix,4008.37,Aprovado
+2659,2659,Cartão de Crédito,5763.85,Aprovado
+2660,2660,Cartão de Crédito,1511.26,Aprovado
+2661,2661,Pix,10570.89,Pendente
+2662,2662,Cartão de Crédito,0.0,Aprovado
+2663,2663,Boleto,3864.82,Aprovado
+2664,2664,Cartão de Crédito,527.71,Aprovado
+2665,2665,Cartão de Crédito,3903.08,Aprovado
+2666,2666,Cartão de Crédito,5003.04,Aprovado
+2667,2667,Cartão de Débito,14001.3,Recusado
+2668,2668,Pix,1167.83,Recusado
+2669,2669,Pix,2172.68,Aprovado
+2670,2670,Boleto,8499.41,Aprovado
+2671,2671,Pix,6448.27,Aprovado
+2672,2672,Pix,5568.35,Aprovado
+2673,2673,Boleto,734.47,Aprovado
+2674,2674,Pix,3103.76,Aprovado
+2675,2675,Cartão de Crédito,137.61,Aprovado
+2676,2676,Pix,4506.18,Aprovado
+2677,2677,Cartão de Crédito,3848.77,Aprovado
+2678,2678,Pix,2561.35,Aprovado
+2679,2679,Cartão de Crédito,413.52,Pendente
+2680,2680,Boleto,11295.83,Pendente
+2681,2681,Cartão de Débito,1986.11,Aprovado
+2682,2682,Pix,2216.42,Aprovado
+2683,2683,Cartão de Crédito,2226.52,Pendente
+2684,2684,Cartão de Crédito,14624.1,Aprovado
+2685,2685,Pix,2549.33,Aprovado
+2686,2686,Cartão de Crédito,7099.01,Aprovado
+2687,2687,Pix,13315.78,Aprovado
+2688,2688,Pix,4752.2,Aprovado
+2689,2689,Boleto,3414.15,Aprovado
+2690,2690,Cartão de Crédito,1513.11,Aprovado
+2691,2691,Pix,4014.16,Aprovado
+2692,2692,Cartão de Crédito,10450.8,Aprovado
+2693,2693,Pix,5724.9,Recusado
+2694,2694,Pix,3790.24,Aprovado
+2695,2695,Cartão de Crédito,1318.12,Aprovado
+2696,2696,Pix,5954.54,Aprovado
+2697,2697,Pix,3037.12,Aprovado
+2698,2698,Cartão de Crédito,9016.8,Aprovado
+2699,2699,Cartão de Crédito,4817.9,Pendente
+2700,2700,Pix,4808.49,Aprovado
+2701,2701,Cartão de Débito,14711.53,Aprovado
+2702,2702,Cartão de Crédito,9781.54,Aprovado
+2703,2703,Pix,1911.48,Aprovado
+2704,2704,Cartão de Crédito,5876.98,Aprovado
+2705,2705,Pix,17466.19,Aprovado
+2706,2706,Cartão de Crédito,6818.23,Aprovado
+2707,2707,Pix,9756.03,Recusado
+2708,2708,Cartão de Crédito,13936.01,Aprovado
+2709,2709,Cartão de Débito,11142.55,Aprovado
+2710,2710,Pix,10459.18,Aprovado
+2711,2711,Pix,15971.2,Pendente
+2712,2712,Boleto,5381.09,Aprovado
+2713,2713,Pix,3309.15,Aprovado
+2714,2714,Cartão de Crédito,7251.05,Aprovado
+2715,2715,Cartão de Crédito,5516.89,Aprovado
+2716,2716,Pix,14607.1,Aprovado
+2717,2717,Boleto,9325.77,Aprovado
+2718,2718,Boleto,6585.53,Aprovado
+2719,2719,Cartão de Débito,556.59,Aprovado
+2720,2720,Pix,28689.62,Aprovado
+2721,2721,Boleto,2696.04,Aprovado
+2722,2722,Cartão de Débito,7213.76,Aprovado
+2723,2723,Boleto,9965.43,Aprovado
+2724,2724,Pix,3263.49,Aprovado
+2725,2725,Pix,4586.49,Aprovado
+2726,2726,Cartão de Crédito,15444.69,Aprovado
+2727,2727,Cartão de Crédito,6576.52,Aprovado
+2728,2728,Boleto,20951.01,Recusado
+2729,2729,Cartão de Crédito,6881.92,Aprovado
+2730,2730,Cartão de Crédito,6953.26,Aprovado
+2731,2731,Cartão de Débito,9114.96,Aprovado
+2732,2732,Cartão de Crédito,1309.95,Aprovado
+2733,2733,Cartão de Crédito,12710.47,Aprovado
+2734,2734,Boleto,13967.64,Aprovado
+2735,2735,Cartão de Crédito,8534.12,Pendente
+2736,2736,Boleto,9694.7,Aprovado
+2737,2737,Cartão de Crédito,3321.81,Aprovado
+2738,2738,Boleto,4477.67,Aprovado
+2739,2739,Boleto,4885.59,Aprovado
+2740,2740,Cartão de Crédito,12092.97,Aprovado
+2741,2741,Cartão de Crédito,672.02,Aprovado
+2742,2742,Cartão de Crédito,5154.01,Aprovado
+2743,2743,Cartão de Crédito,5790.84,Aprovado
+2744,2744,Cartão de Crédito,1381.12,Aprovado
+2745,2745,Boleto,4646.91,Pendente
+2746,2746,Pix,11865.73,Aprovado
+2747,2747,Boleto,9349.94,Aprovado
+2748,2748,Pix,6051.91,Aprovado
+2749,2749,Cartão de Crédito,16709.32,Aprovado
+2750,2750,Cartão de Crédito,11881.7,Aprovado
+2751,2751,Pix,2420.94,Aprovado
+2752,2752,Pix,14411.07,Aprovado
+2753,2753,Cartão de Crédito,3525.32,Recusado
+2754,2754,Pix,2319.04,Aprovado
+2755,2755,Pix,6997.17,Aprovado
+2756,2756,Cartão de Crédito,12232.1,Pendente
+2757,2757,Pix,9880.82,Aprovado
+2758,2758,Cartão de Crédito,672.02,Pendente
+2759,2759,Cartão de Crédito,10799.19,Aprovado
+2760,2760,Pix,2010.32,Recusado
+2761,2761,Cartão de Crédito,8216.47,Aprovado
+2762,2762,Cartão de Débito,2696.04,Aprovado
+2763,2763,Pix,3006.5,Aprovado
+2764,2764,Cartão de Crédito,6643.62,Aprovado
+2765,2765,Pix,13372.16,Aprovado
+2766,2766,Boleto,1065.41,Aprovado
+2767,2767,Boleto,7510.69,Pendente
+2768,2768,Cartão de Crédito,28313.17,Aprovado
+2769,2769,Boleto,7132.95,Aprovado
+2770,2770,Cartão de Crédito,4534.96,Pendente
+2771,2771,Cartão de Crédito,2919.92,Aprovado
+2772,2772,Cartão de Crédito,5499.06,Aprovado
+2773,2773,Pix,18154.29,Aprovado
+2774,2774,Cartão de Crédito,13860.14,Aprovado
+2775,2775,Cartão de Débito,8934.71,Aprovado
+2776,2776,Cartão de Crédito,8174.89,Aprovado
+2777,2777,Cartão de Crédito,6855.01,Aprovado
+2778,2778,Pix,5845.45,Aprovado
+2779,2779,Cartão de Crédito,0.0,Aprovado
+2780,2780,Cartão de Crédito,3525.32,Pendente
+2781,2781,Pix,1375.78,Aprovado
+2782,2782,Pix,2927.24,Aprovado
+2783,2783,Cartão de Débito,5392.08,Pendente
+2784,2784,Cartão de Crédito,2583.49,Aprovado
+2785,2785,Boleto,2297.94,Aprovado
+2786,2786,Cartão de Crédito,3296.45,Pendente
+2787,2787,Cartão de Crédito,5359.6,Recusado
+2788,2788,Pix,16175.68,Aprovado
+2789,2789,Cartão de Crédito,5213.1,Aprovado
+2790,2790,Cartão de Crédito,1532.57,Recusado
+2791,2791,Cartão de Débito,7928.62,Pendente
+2792,2792,Cartão de Crédito,52.79,Aprovado
+2793,2793,Boleto,2165.39,Aprovado
+2794,2794,Pix,10235.36,Aprovado
+2795,2795,Pix,2923.52,Aprovado
+2796,2796,Pix,3383.35,Aprovado
+2797,2797,Cartão de Débito,7987.37,Pendente
+2798,2798,Pix,2849.69,Aprovado
+2799,2799,Cartão de Crédito,15622.5,Aprovado
+2800,2800,Pix,5989.62,Aprovado
+2801,2801,Cartão de Crédito,6030.94,Aprovado
+2802,2802,Cartão de Débito,1309.95,Aprovado
+2803,2803,Cartão de Crédito,17622.86,Aprovado
+2804,2804,Pix,14930.88,Aprovado
+2805,2805,Pix,15235.44,Aprovado
+2806,2806,Cartão de Crédito,7817.97,Aprovado
+2807,2807,Cartão de Crédito,2924.48,Aprovado
+2808,2808,Cartão de Crédito,2297.94,Aprovado
+2809,2809,Cartão de Crédito,5907.23,Aprovado
+2810,2810,Cartão de Crédito,10348.96,Aprovado
+2811,2811,Cartão de Crédito,3139.81,Aprovado
+2812,2812,Pix,10430.34,Recusado
+2813,2813,Cartão de Crédito,6836.2,Aprovado
+2814,2814,Cartão de Crédito,4020.64,Aprovado
+2815,2815,Pix,10150.05,Aprovado
+2816,2816,Cartão de Crédito,4635.53,Aprovado
+2817,2817,Cartão de Crédito,6795.74,Pendente
+2818,2818,Cartão de Crédito,5298.84,Aprovado
+2819,2819,Pix,955.74,Aprovado
+2820,2820,Cartão de Crédito,5275.5,Aprovado
+2821,2821,Cartão de Crédito,3309.15,Aprovado
+2822,2822,Cartão de Crédito,9284.29,Recusado
+2823,2823,Cartão de Crédito,11615.0,Aprovado
+2824,2824,Boleto,9100.05,Aprovado
+2825,2825,Cartão de Crédito,2637.75,Aprovado
+2826,2826,Cartão de Crédito,10126.99,Aprovado
+2827,2827,Cartão de Crédito,7177.84,Aprovado
+2828,2828,Cartão de Débito,4631.76,Aprovado
+2829,2829,Pix,3240.94,Aprovado
+2830,2830,Pix,8206.32,Aprovado
+2831,2831,Boleto,5903.92,Aprovado
+2832,2832,Pix,17034.71,Aprovado
+2833,2833,Boleto,6545.72,Aprovado
+2834,2834,Cartão de Crédito,2319.04,Aprovado
+2835,2835,Pix,7560.33,Aprovado
+2836,2836,Cartão de Crédito,22808.94,Recusado
+2837,2837,Cartão de Crédito,12618.71,Aprovado
+2838,2838,Boleto,1375.78,Aprovado
+2839,2839,Pix,2172.17,Aprovado
+2840,2840,Cartão de Crédito,2637.75,Aprovado
+2841,2841,Cartão de Crédito,8582.25,Aprovado
+2842,2842,Cartão de Débito,3999.66,Aprovado
+2843,2843,Pix,2165.39,Recusado
+2844,2844,Cartão de Crédito,3103.76,Aprovado
+2845,2845,Pix,4081.9,Aprovado
+2846,2846,Cartão de Crédito,6505.26,Aprovado
+2847,2847,Cartão de Crédito,13625.44,Aprovado
+2848,2848,Cartão de Crédito,8519.27,Aprovado
+2849,2849,Cartão de Crédito,6504.02,Pendente
+2850,2850,Cartão de Crédito,1779.85,Aprovado
+2851,2851,Pix,758.72,Aprovado
+2852,2852,Cartão de Crédito,4295.86,Aprovado
+2853,2853,Cartão de Crédito,10059.49,Recusado
+2854,2854,Pix,5086.4,Aprovado
+2855,2855,Cartão de Débito,915.4,Aprovado
+2856,2856,Cartão de Crédito,6957.12,Aprovado
+2857,2857,Cartão de Crédito,11035.57,Aprovado
+2858,2858,Boleto,5259.0,Aprovado
+2859,2859,Pix,2438.35,Aprovado
+2860,2860,Pix,4432.8,Aprovado
+2861,2861,Cartão de Crédito,1258.12,Aprovado
+2862,2862,Cartão de Crédito,8367.47,Aprovado
+2863,2863,Pix,1318.12,Aprovado
+2864,2864,Pix,5734.21,Aprovado
+2865,2865,Pix,11761.61,Aprovado
+2866,2866,Cartão de Débito,345.28,Aprovado
+2867,2867,Cartão de Crédito,5326.07,Aprovado
+2868,2868,Boleto,2825.36,Aprovado
+2869,2869,Pix,23647.2,Aprovado
+2870,2870,Cartão de Crédito,672.02,Aprovado
+2871,2871,Cartão de Crédito,137.61,Pendente
+2872,2872,Pix,11668.17,Aprovado
+2873,2873,Pix,3667.09,Aprovado
+2874,2874,Boleto,5860.13,Pendente
+2875,2875,Boleto,7469.63,Aprovado
+2876,2876,Pix,379.36,Aprovado
+2877,2877,Cartão de Crédito,2010.32,Recusado
+2878,2878,Cartão de Crédito,2679.8,Aprovado
+2879,2879,Cartão de Crédito,1328.57,Aprovado
+2880,2880,Cartão de Crédito,1727.17,Aprovado
+2881,2881,Pix,1522.73,Aprovado
+2882,2882,Pix,4910.48,Recusado
+2883,2883,Cartão de Crédito,2070.63,Aprovado
+2884,2884,Cartão de Crédito,2319.04,Aprovado
+2885,2885,Cartão de Crédito,8024.82,Aprovado
+2886,2886,Pix,10167.83,Aprovado
+2887,2887,Cartão de Crédito,4448.67,Aprovado
+2888,2888,Pix,7757.53,Aprovado
+2889,2889,Cartão de Crédito,1862.27,Aprovado
+2890,2890,Cartão de Crédito,8209.05,Aprovado
+2891,2891,Pix,20330.05,Aprovado
+2892,2892,Cartão de Crédito,7257.98,Aprovado
+2893,2893,Boleto,10251.52,Aprovado
+2894,2894,Pix,3542.89,Aprovado
+2895,2895,Cartão de Crédito,8164.85,Aprovado
+2896,2896,Pix,7707.74,Aprovado
+2897,2897,Boleto,8150.82,Aprovado
+2898,2898,Cartão de Crédito,13805.23,Aprovado
+2899,2899,Cartão de Crédito,2924.48,Aprovado
+2900,2900,Cartão de Crédito,4971.89,Aprovado
+2901,2901,Pix,7457.66,Aprovado
+2902,2902,Cartão de Crédito,19130.9,Aprovado
+2903,2903,Pix,12603.51,Aprovado
+2904,2904,Cartão de Crédito,2516.24,Aprovado
+2905,2905,Boleto,11978.48,Pendente
+2906,2906,Cartão de Crédito,17413.52,Aprovado
+2907,2907,Pix,2649.42,Aprovado
+2908,2908,Boleto,10857.08,Aprovado
+2909,2909,Pix,4369.92,Aprovado
+2910,2910,Cartão de Crédito,9270.94,Aprovado
+2911,2911,Pix,10028.97,Aprovado
+2912,2912,Pix,4308.81,Aprovado
+2913,2913,Pix,5359.6,Aprovado
+2914,2914,Boleto,11902.45,Aprovado
+2915,2915,Cartão de Crédito,392.32,Aprovado
+2916,2916,Cartão de Crédito,21287.9,Aprovado
+2917,2917,Boleto,5014.67,Aprovado
+2918,2918,Pix,2972.79,Aprovado
+2919,2919,Pix,6846.85,Aprovado
+2920,2920,Cartão de Crédito,5201.27,Recusado
+2921,2921,Cartão de Crédito,3321.81,Aprovado
+2922,2922,Pix,9026.13,Aprovado
+2923,2923,Cartão de Débito,5766.26,Aprovado
+2924,2924,Pix,19971.51,Aprovado
+2925,2925,Pix,9768.45,Aprovado
+2926,2926,Cartão de Crédito,2670.08,Aprovado
+2927,2927,Pix,6481.88,Recusado
+2928,2928,Cartão de Crédito,181.94,Aprovado
+2929,2929,Cartão de Crédito,2543.94,Aprovado
+2930,2930,Pix,6566.76,Aprovado
+2931,2931,Pix,527.71,Aprovado
+2932,2932,Cartão de Crédito,2568.07,Aprovado
+2933,2933,Pix,18713.98,Aprovado
+2934,2934,Pix,9871.91,Aprovado
+2935,2935,Cartão de Crédito,5942.78,Aprovado
+2936,2936,Cartão de Crédito,19034.0,Aprovado
+2937,2937,Cartão de Crédito,15261.59,Aprovado
+2938,2938,Pix,14889.31,Aprovado
+2939,2939,Cartão de Crédito,3333.74,Aprovado
+2940,2940,Cartão de Crédito,2749.53,Aprovado
+2941,2941,Pix,6773.77,Aprovado
+2942,2942,Cartão de Crédito,8170.43,Aprovado
+2943,2943,Cartão de Crédito,7661.24,Aprovado
+2944,2944,Pix,4039.57,Aprovado
+2945,2945,Pix,4788.24,Aprovado
+2946,2946,Cartão de Crédito,14608.24,Aprovado
+2947,2947,Cartão de Crédito,13114.56,Aprovado
+2948,2948,Pix,9965.43,Aprovado
+2949,2949,Cartão de Crédito,10566.79,Aprovado
+2950,2950,Boleto,2938.49,Aprovado
+2951,2951,Boleto,13967.76,Aprovado
+2952,2952,Pix,16484.02,Aprovado
+2953,2953,Boleto,17790.12,Aprovado
+2954,2954,Cartão de Débito,3196.23,Aprovado
+2955,2955,Pix,5134.39,Aprovado
+2956,2956,Cartão de Crédito,6968.06,Aprovado
+2957,2957,Cartão de Débito,527.71,Aprovado
+2958,2958,Boleto,13953.68,Aprovado
+2959,2959,Cartão de Crédito,6918.36,Pendente
+2960,2960,Boleto,5876.44,Aprovado
+2961,2961,Cartão de Crédito,20358.64,Aprovado
+2962,2962,Pix,3065.14,Aprovado
+2963,2963,Cartão de Crédito,6898.22,Aprovado
+2964,2964,Boleto,8169.95,Aprovado
+2965,2965,Boleto,14897.58,Aprovado
+2966,2966,Pix,1614.18,Aprovado
+2967,2967,Cartão de Crédito,6117.37,Aprovado
+2968,2968,Cartão de Crédito,2319.04,Aprovado
+2969,2969,Cartão de Crédito,4597.71,Aprovado
+2970,2970,Cartão de Crédito,4875.94,Aprovado
+2971,2971,Cartão de Débito,1779.85,Aprovado
+2972,2972,Pix,1522.73,Aprovado
+2973,2973,Pix,8809.19,Aprovado
+2974,2974,Cartão de Crédito,19145.57,Aprovado
+2975,2975,Boleto,7051.89,Pendente
+2976,2976,Pix,9814.42,Recusado
+2977,2977,Pix,2172.68,Aprovado
+2978,2978,Pix,3829.48,Aprovado
+2979,2979,Cartão de Crédito,2749.53,Aprovado
+2980,2980,Pix,585.23,Aprovado
+2981,2981,Pix,12879.57,Aprovado
+2982,2982,Cartão de Débito,6421.42,Aprovado
+2983,2983,Pix,6948.29,Aprovado
+2984,2984,Cartão de Crédito,13561.45,Aprovado
+2985,2985,Cartão de Crédito,4824.5,Aprovado
+2986,2986,Cartão de Crédito,2034.76,Aprovado
+2987,2987,Boleto,6055.88,Pendente
+2988,2988,Pix,8064.64,Aprovado
+2989,2989,Pix,8670.67,Aprovado
+2990,2990,Boleto,12765.08,Aprovado
+2991,2991,Cartão de Crédito,1876.53,Aprovado
+2992,2992,Boleto,1318.12,Pendente
+2993,2993,Cartão de Crédito,4831.88,Aprovado
+2994,2994,Cartão de Crédito,10598.36,Aprovado
+2995,2995,Pix,1762.66,Aprovado
+2996,2996,Pix,2800.86,Aprovado
+2997,2997,Cartão de Crédito,4881.79,Aprovado
+2998,2998,Pix,11344.41,Aprovado
+2999,2999,Boleto,6284.78,Aprovado
+3000,3000,Boleto,23624.9,Aprovado
+3001,3001,Cartão de Crédito,7184.0,Aprovado
+3002,3002,Cartão de Crédito,3005.6,Aprovado
+3003,3003,Boleto,8956.17,Aprovado
+3004,3004,Boleto,5137.76,Aprovado
+3005,3005,Boleto,9165.58,Aprovado
+3006,3006,Cartão de Crédito,955.74,Aprovado
+3007,3007,Pix,3398.82,Aprovado
+3008,3008,Boleto,14138.32,Aprovado
+3009,3009,Pix,206.76,Aprovado
+3010,3010,Cartão de Débito,3579.23,Aprovado
+3011,3011,Pix,9867.53,Aprovado
+3012,3012,Cartão de Crédito,895.82,Aprovado
+3013,3013,Boleto,5961.07,Pendente
+3014,3014,Cartão de Débito,23251.94,Aprovado
+3015,3015,Cartão de Débito,1551.88,Aprovado
+3016,3016,Boleto,2777.67,Aprovado
+3017,3017,Cartão de Crédito,8966.71,Aprovado
+3018,3018,Pix,2696.04,Aprovado
+3019,3019,Cartão de Crédito,4768.26,Aprovado
+3020,3020,Cartão de Crédito,2938.49,Aprovado
+3021,3021,Pix,811.51,Aprovado
+3022,3022,Cartão de Crédito,379.36,Aprovado
+3023,3023,Pix,5275.5,Aprovado
+3024,3024,Cartão de Crédito,13291.01,Aprovado
+3025,3025,Cartão de Crédito,9908.71,Aprovado
+3026,3026,Pix,3131.08,Aprovado
+3027,3027,Cartão de Crédito,10784.16,Aprovado
+3028,3028,Pix,12132.6,Aprovado
+3029,3029,Pix,6030.96,Aprovado
+3030,3030,Pix,10055.67,Pendente
+3031,3031,Cartão de Crédito,1759.41,Aprovado
+3032,3032,Pix,9526.33,Aprovado
+3033,3033,Pix,7767.31,Pendente
+3034,3034,Cartão de Crédito,3929.85,Aprovado
+3035,3035,Cartão de Débito,27286.96,Aprovado
+3036,3036,Boleto,17244.08,Aprovado
+3037,3037,Cartão de Crédito,7490.42,Aprovado
+3038,3038,Pix,2033.91,Aprovado
+3039,3039,Cartão de Crédito,3197.07,Aprovado
+3040,3040,Cartão de Crédito,3304.23,Recusado
+3041,3041,Pix,3263.49,Aprovado
+3042,3042,Pix,13690.81,Aprovado
+3043,3043,Pix,9348.88,Pendente
+3044,3044,Cartão de Crédito,15137.37,Aprovado
+3045,3045,Cartão de Débito,5616.3,Aprovado
+3046,3046,Cartão de Débito,18937.48,Aprovado
+3047,3047,Boleto,16473.49,Aprovado
+3048,3048,Boleto,2446.37,Aprovado
+3049,3049,Boleto,7013.09,Aprovado
+3050,3050,Cartão de Crédito,0.0,Aprovado
+3051,3051,Pix,15483.78,Aprovado
+3052,3052,Cartão de Crédito,2222.76,Recusado
+3053,3053,Pix,6618.3,Aprovado
+3054,3054,Boleto,9424.38,Aprovado
+3055,3055,Pix,1977.49,Aprovado
+3056,3056,Pix,13284.86,Aprovado
+3057,3057,Cartão de Crédito,1400.43,Aprovado
+3058,3058,Pix,7488.47,Pendente
+3059,3059,Pix,4024.25,Aprovado
+3060,3060,Cartão de Crédito,2920.0,Aprovado
+3061,3061,Cartão de Crédito,4046.82,Aprovado
+3062,3062,Cartão de Crédito,105.58,Aprovado
+3063,3063,Pix,9657.35,Aprovado
+3064,3064,Cartão de Crédito,1456.66,Aprovado
+3065,3065,Boleto,1862.27,Aprovado
+3066,3066,Boleto,1328.57,Aprovado
+3067,3067,Boleto,5572.82,Aprovado
+3068,3068,Pix,2825.36,Aprovado
+3069,3069,Pix,19482.42,Aprovado
+3070,3070,Pix,10172.71,Aprovado
+3071,3071,Cartão de Débito,1065.41,Aprovado
+3072,3072,Cartão de Crédito,13141.81,Aprovado
+3073,3073,Cartão de Crédito,4453.04,Aprovado
+3074,3074,Boleto,3368.06,Aprovado
+3075,3075,Pix,4104.53,Aprovado
+3076,3076,Cartão de Crédito,9322.75,Aprovado
+3077,3077,Boleto,9373.1,Aprovado
+3078,3078,Cartão de Crédito,538.06,Aprovado
+3079,3079,Cartão de Crédito,3459.8,Aprovado
+3080,3080,Cartão de Crédito,3474.1,Aprovado
+3081,3081,Cartão de Crédito,1167.83,Aprovado
+3082,3082,Cartão de Débito,1762.66,Aprovado
+3083,3083,Cartão de Crédito,14842.36,Aprovado
+3084,3084,Cartão de Débito,10348.73,Aprovado
+3085,3085,Cartão de Débito,2637.75,Recusado
+3086,3086,Pix,1846.49,Aprovado
+3087,3087,Cartão de Crédito,7948.26,Aprovado
+3088,3088,Pix,345.28,Aprovado
+3089,3089,Pix,4603.74,Aprovado
+3090,3090,Pix,6620.45,Aprovado
+3091,3091,Cartão de Crédito,11757.3,Aprovado
+3092,3092,Pix,4261.64,Aprovado
+3093,3093,Cartão de Crédito,1114.11,Aprovado
+3094,3094,Cartão de Débito,11238.46,Aprovado
+3095,3095,Boleto,9997.79,Aprovado
+3096,3096,Cartão de Crédito,392.32,Aprovado
+3097,3097,Cartão de Crédito,2649.42,Aprovado
+3098,3098,Cartão de Crédito,9063.47,Aprovado
+3099,3099,Cartão de Crédito,19913.46,Aprovado
+3100,3100,Cartão de Crédito,2951.96,Aprovado
+3101,3101,Boleto,1779.85,Aprovado
+3102,3102,Pix,2526.59,Aprovado
+3103,3103,Pix,10352.94,Aprovado
+3104,3104,Cartão de Crédito,11498.06,Aprovado
+3105,3105,Pix,23542.16,Aprovado
+3106,3106,Boleto,4489.72,Aprovado
+3107,3107,Cartão de Crédito,2920.0,Aprovado
+3108,3108,Cartão de Débito,6957.12,Aprovado
+3109,3109,Cartão de Crédito,7457.95,Aprovado
+3110,3110,Pix,6217.18,Aprovado
+3111,3111,Cartão de Crédito,1017.68,Aprovado
+3112,3112,Cartão de Crédito,11398.76,Aprovado
+3113,3113,Cartão de Crédito,2119.49,Recusado
+3114,3114,Cartão de Crédito,7910.94,Aprovado
+3115,3115,Pix,8076.18,Aprovado
+3116,3116,Cartão de Crédito,7371.81,Aprovado
+3117,3117,Pix,8971.76,Aprovado
+3118,3118,Pix,3806.76,Aprovado
+3119,3119,Cartão de Crédito,2849.69,Aprovado
+3120,3120,Pix,2825.36,Aprovado
+3121,3121,Pix,12872.87,Aprovado
+3122,3122,Pix,1611.76,Aprovado
+3123,3123,Boleto,4876.7,Aprovado
+3124,3124,Boleto,5034.49,Aprovado
+3125,3125,Cartão de Crédito,13154.74,Aprovado
+3126,3126,Pix,3459.8,Aprovado
+3127,3127,Cartão de Crédito,9947.14,Pendente
+3128,3128,Cartão de Crédito,14285.49,Aprovado
+3129,3129,Cartão de Crédito,6966.87,Aprovado
+3130,3130,Pix,20534.2,Aprovado
+3131,3131,Cartão de Crédito,6384.36,Aprovado
+3132,3132,Cartão de Crédito,6919.6,Aprovado
+3133,3133,Cartão de Crédito,15593.88,Aprovado
+3134,3134,Boleto,556.59,Aprovado
+3135,3135,Boleto,2970.48,Pendente
+3136,3136,Pix,12548.22,Aprovado
+3137,3137,Cartão de Crédito,1762.66,Recusado
+3138,3138,Boleto,123.0,Aprovado
+3139,3139,Pix,0.0,Aprovado
+3140,3140,Pix,2224.09,Recusado
+3141,3141,Cartão de Crédito,3006.5,Aprovado
+3142,3142,Boleto,11766.35,Aprovado
+3143,3143,Cartão de Crédito,1318.12,Aprovado
+3144,3144,Cartão de Crédito,2938.49,Aprovado
+3145,3145,Cartão de Crédito,2811.94,Aprovado
+3146,3146,Cartão de Crédito,7050.64,Aprovado
+3147,3147,Cartão de Crédito,8709.3,Aprovado
+3148,3148,Pix,9119.79,Aprovado
+3149,3149,Boleto,6256.66,Aprovado
+3150,3150,Pix,16934.42,Aprovado
+3151,3151,Boleto,13045.78,Aprovado
+3152,3152,Pix,5806.46,Aprovado
+3153,3153,Cartão de Crédito,8270.21,Aprovado
+3154,3154,Cartão de Crédito,16606.49,Aprovado
+3155,3155,Cartão de Crédito,3430.8,Aprovado
+3156,3156,Cartão de Débito,8265.24,Pendente
+3157,3157,Pix,3365.81,Aprovado
+3158,3158,Pix,12255.8,Aprovado
+3159,3159,Pix,11101.0,Pendente
+3160,3160,Cartão de Crédito,8359.23,Aprovado
+3161,3161,Pix,16914.95,Aprovado
+3162,3162,Boleto,4936.96,Aprovado
+3163,3163,Cartão de Crédito,9972.56,Aprovado
+3164,3164,Boleto,3953.06,Aprovado
+3165,3165,Cartão de Crédito,9077.19,Aprovado
+3166,3166,Cartão de Crédito,1762.66,Aprovado
+3167,3167,Cartão de Crédito,4876.7,Pendente
+3168,3168,Pix,3340.36,Aprovado
+3169,3169,Cartão de Crédito,2172.68,Aprovado
+3170,3170,Boleto,8826.18,Aprovado
+3171,3171,Cartão de Débito,2172.68,Aprovado
+3172,3172,Cartão de Crédito,1400.43,Aprovado
+3173,3173,Pix,3592.02,Aprovado
+3174,3174,Pix,2172.68,Aprovado
+3175,3175,Cartão de Crédito,3350.0,Aprovado
+3176,3176,Cartão de Débito,2617.79,Aprovado
+3177,3177,Cartão de Crédito,2172.68,Aprovado
+3178,3178,Cartão de Crédito,0.0,Aprovado
+3179,3179,Pix,13614.37,Aprovado
+3180,3180,Pix,6146.31,Aprovado
+3181,3181,Cartão de Crédito,23241.36,Aprovado
+3182,3182,Cartão de Crédito,3240.94,Aprovado
+3183,3183,Boleto,5280.89,Aprovado
+3184,3184,Pix,3303.84,Aprovado
+3185,3185,Boleto,8242.11,Aprovado
+3186,3186,Boleto,1900.38,Aprovado
+3187,3187,Cartão de Débito,5135.27,Aprovado
+3188,3188,Cartão de Crédito,11671.7,Aprovado
+3189,3189,Cartão de Crédito,6317.43,Aprovado
+3190,3190,Pix,17322.69,Aprovado
+3191,3191,Cartão de Crédito,527.71,Aprovado
+3192,3192,Boleto,14253.09,Aprovado
+3193,3193,Pix,7258.47,Aprovado
+3194,3194,Pix,3362.8,Recusado
+3195,3195,Cartão de Crédito,20557.87,Aprovado
+3196,3196,Cartão de Crédito,4331.82,Aprovado
+3197,3197,Cartão de Crédito,8307.34,Aprovado
+3198,3198,Cartão de Crédito,10429.7,Aprovado
+3199,3199,Cartão de Crédito,15219.43,Aprovado
+3200,3200,Boleto,7695.26,Aprovado

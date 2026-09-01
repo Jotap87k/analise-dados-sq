@@ -1,0 +1,187 @@
+id_cliente,nome_cliente,email,telefone,cidade,estado,data_cadastro
+1,Hugo Silva,hugo.silva1@email.com,(11) 92679-9935, brasília ,DF,2023-01-31
+2,Otávio Soares,otávio.soares2@email.com,(11) 99928-7873,São Paulo,SP,2023-12-15
+3,Nicolas Costa,nicolas.costa3@email.com,(11) 96635-5333,Salvador,BA,2024-07-03
+4,Caio Oliveira,caio.oliveira4@email.com,(11) 96925-4150,Uberlândia,mg,2023-04-14
+5,Helena Ribeiro,helena.ribeiro5@email.com,(11) 95374-2169,Porto Alegre,RS,2023-09-08
+6,Caio Lima,caio.lima6@email.com,(11) 91916-4752,Uberlândia,MG,2024-02-15
+7,Nicolas Vieira,nicolas.vieira7@email.com,(11) 98517-3340,Goiânia,GO,2024-08-21
+8,Renata Martins,renata.martins8@email.com,(11) 99348-9085, belém ,pa,2023-04-23
+9,Karina Carvalho,karina.carvalho9@email.com,(11) 98668-9669,Belo Horizonte,MG,2024-10-18
+10,Thiago Carvalho,thiago.carvalho10@email.com,(11) 95315-9201,Porto Alegre,RS,2023-11-02
+11,Kevin Barbosa,kevin.barbosa11@email.com,(11) 99837-9689,Recife,PE,2024-05-15
+12,Beatriz Gomes,,(11) 92290-2403,Fortaleza,CE,2024-07-16
+13,Larissa Barbosa,larissa.barbosa13@email.com,(11) 94295-6107,Florianópolis,SC,2024-01-18
+14,Larissa Almeida,larissa.almeida14@email.com,,SALVADOR,BA,2024-08-25
+15,Eduarda Santos,eduarda.santos15@email.com,,Fortaleza,CE,2024-02-21
+16,Gabriela Carvalho,gabriela.carvalho16@email.com,(11) 91887-2612, belém ,PA,2023-04-22
+17,Mariana Fernandes,mariana.fernandes17@email.com,(11) 98579-5092,Vitória,ES,2024-07-17
+18,Marcelo Silva,marcelo.silva18@email.com,(11) 93724-7658,Belo Horizonte,MG,2023-06-18
+19,Caio Lima,caio.lima19@email.com,(11) 98973-3536,Vitória,ES,2024-07-09
+20,William Santos,william.santos20@email.com,(11) 99701-3579, rio de janeiro ,RJ,2023-07-10
+21,Eduarda Pereira,eduarda.pereira21@email.com,(11) 95033-1651,Campinas,SP,2023-11-20
+22,Nicolas Costa,nicolas.costa22@email.com,(11) 95915-8491,Fortaleza,CE,2023-03-16
+23,Tatiane Vieira,tatiane.vieira23@email.com,(11) 95345-3170,Salvador,BA,2023-09-08
+24,Karina Almeida,karina.almeida24@email.com,(11) 99666-1128,Uberlândia,MG,2024-11-10
+25,Isabela Lima,isabela.lima25@email.com,(11) 93546-5462,Salvador,BA,2023-12-18
+26,Rafael Soares,rafael.soares26@email.com,(11) 91832-2512,Natal,RN,2023-02-15
+27,Isabela Lima,isabela.lima27@email.com,(11) 98007-1158,Porto Alegre,RS,2024-07-12
+28,Beatriz Vieira,beatriz.vieira28@email.com,(11) 96050-6974,Uberlândia,MG,2024-11-13
+29,Natália Carvalho,natália.carvalho29@email.com,(11) 93662-3900,Curitiba,pr,2023-09-12
+30,Gabriela Martins,gabriela.martins30@email.com,(11) 98541-6728,Rio de Janeiro,RJ,2023-08-22
+31,Mariana Martins,mariana.martins31@email.com,,Goiânia,GO,2024-06-05
+32,Marcelo Costa,marcelo.costa32@email.com,(11) 93925-5349,SÃO PAULO,SP,2023-11-18
+33,Kevin Souza,kevin.souza33@email.com,(11) 91727-8144,CAMPINAS,SP,2024-11-17
+34,Fernanda Oliveira,fernanda.oliveira34@email.com,(11) 93041-5920,Goiânia,GO,2023-12-01
+35,Thiago Fernandes,thiago.fernandes35@email.com,(11) 97211-3851,Curitiba,PR,2023-11-08
+36,Fernanda Vieira,fernanda.vieira36@email.com,(11) 94501-9375,Goiânia,GO,2023-08-19
+37,Mariana Rodrigues,,(11) 92193-8461,São Paulo,SP,2023-09-07
+38,Ana Souza,ana.souza38@email.com,(11) 99486-8611, florianópolis ,SC,2023-05-05
+39,Helena Soares,helena.soares39@email.com,(11) 98251-9270,Uberlândia,MG,2024-05-01
+40,Patrícia Lima,patrícia.lima40@email.com,(11) 98206-2269,João Pessoa,PB,2023-12-10
+41,Marcelo Oliveira,marcelo.oliveira41@email.com,(11) 93503-4505, curitiba ,PR,2023-03-05
+42,Enzo Martins,enzo.martins42@email.com,(11) 97232-8814,SÃO PAULO,SP,2023-10-07
+43,Bruno Martins,bruno.martins43@email.com,(11) 93704-8657,Goiânia,GO,2024-06-30
+44,Débora Vieira,débora.vieira44@email.com,(11) 98564-3977, são paulo ,SP,2024-01-24
+45,Enzo Lima,enzo.lima45@email.com,(11) 91853-6733,Belo Horizonte,MG,2024-10-29
+46,Bruno Pereira,bruno.pereira46@email.com,(11) 94908-3068,Recife,PE,2023-04-21
+47,Renata Silva,renata.silva47@email.com,(11) 97149-7498,Manaus,AM,2024-10-04
+48,Vanessa Barbosa,vanessa.barbosa48@email.com,(11) 91672-6688,Salvador,BA,2023-12-16
+49,Enzo Lopes,enzo.lopes49@email.com,(11) 98532-3506,Salvador,BA,2024-10-28
+50,Marcelo Lopes,marcelo.lopes50@email.com,(11) 95397-6280,Vitória,ES,2023-03-30
+51,Gustavo Pereira,gustavo.pereira51@email.com,(11) 96511-1470,Vitória,ES,2024-05-14
+52,Rafael Costa,rafael.costa52@email.com,(11) 95526-1166,Brasília,DF,2024-05-15
+53,Patrícia Lopes,patrícia.lopes53@email.com,,Natal,RN,2023-09-07
+54,Renata Ribeiro,renata.ribeiro54@email.com,(11) 96419-6764,Natal,RN,2023-09-15
+55,Mariana Costa,mariana.costa55@email.com,(11) 94033-4138,Salvador,BA,2023-10-31
+56,Lucas Gomes,lucas.gomes56@email.com,(11) 91745-1893,São Paulo,SP,2024-05-17
+57,Ana Vieira,ana.vieira57@email.com,(11) 94020-1841,Manaus,AM,2023-02-24
+58,Paulo Gomes,paulo.gomes58@email.com,(11) 97818-4697,Belo Horizonte,MG,2024-03-29
+59,Renata Carvalho,renata.carvalho59@email.com,,Manaus,AM,2023-06-10
+60,Natália Oliveira,,(11) 98699-5771,PORTO ALEGRE,RS,2024-04-09
+61,Otávio Lima,otávio.lima61@email.com,(11) 93441-5352,Recife,PE,2024-03-25
+62,Vanessa Martins,vanessa.martins62@email.com,(11) 92317-1653,Brasília,DF,2024-09-10
+63,Felipe Pereira,felipe.pereira63@email.com,(11) 95415-1659,São Paulo,SP,2023-10-12
+64,Renata Carvalho,renata.carvalho64@email.com,(11) 97690-6460,Natal,RN,2023-06-14
+65,Juliana Gomes,juliana.gomes65@email.com,(11) 98451-2442,Campinas,SP,2023-02-25
+66,Beatriz Barbosa,beatriz.barbosa66@email.com,(11) 94335-5375,Natal,RN,2024-05-11
+67,Samuel Pereira,samuel.pereira67@email.com,,Porto Alegre,RS,2023-10-07
+68,Igor Lopes,igor.lopes68@email.com,(11) 94122-9327,Fortaleza,CE,2023-03-13
+69,Enzo Costa,enzo.costa69@email.com,,João Pessoa,PB,2023-12-20
+70,Marcelo Martins,marcelo.martins70@email.com,(11) 94912-7274,Vitória,ES,2023-02-14
+71,Igor Martins,igor.martins71@email.com,(11) 93492-9115,Campinas,SP,2024-08-27
+72,Gabriela Almeida,gabriela.almeida72@email.com,(11) 93361-7717,Salvador,BA,2023-09-29
+73,Débora Oliveira,débora.oliveira73@email.com,(11) 97226-6188,Goiânia,GO,2023-04-03
+74,Gabriela Souza,gabriela.souza74@email.com,(11) 91474-1753,Vitória,ES,2024-01-03
+75,João Pereira,joão.pereira75@email.com,(11) 93950-3785,João Pessoa,PB,2024-08-20
+76,Helena Lima,helena.lima76@email.com,,Vitória,ES,2024-11-24
+77,Eduarda Almeida,eduarda.almeida77@email.com,(11) 97951-5097,Belém,PA,2023-04-20
+78,Paulo Ribeiro,paulo.ribeiro78@email.com,(11) 97484-5497,MANAUS,AM,2023-12-27
+79,Mariana Barbosa,mariana.barbosa79@email.com,(11) 93240-2591,Brasília,DF,2023-11-13
+80,Carla Vieira,carla.vieira80@email.com,(11) 95835-6352,Belém,PA,2023-10-30
+81,Yasmin Souza,yasmin.souza81@email.com,(11) 94696-7511,Vitória,ES,2024-01-10
+82,Débora Silva,débora.silva82@email.com,(11) 95295-7242,Brasília,DF,2024-04-27
+83,Natália Costa,natália.costa83@email.com,(11) 98606-5951,Fortaleza,CE,2023-11-08
+84,Hugo Souza,hugo.souza84@email.com,(11) 98432-7078,Fortaleza,CE,2024-07-07
+85,João Carvalho,joão.carvalho85@email.com,(11) 95583-1536,Salvador,BA,2024-01-07
+86,Beatriz Fernandes,beatriz.fernandes86@email.com,(11) 93001-8450, belém ,PA,2023-01-22
+87,Yasmin Pereira,yasmin.pereira87@email.com,(11) 94394-4538,Curitiba,PR,2024-09-02
+88,João Rodrigues,joão.rodrigues88@email.com,(11) 91422-3159,UBERLÂNDIA,MG,2023-01-17
+89,Daniel Rodrigues,daniel.rodrigues89@email.com,(11) 98802-8344,Florianópolis,SC,2023-04-22
+90,Otávio Barbosa,otávio.barbosa90@email.com,(11) 99543-5941,Rio de Janeiro,RJ,2024-02-16
+91,Gabriela Lopes,gabriela.lopes91@email.com,(11) 93430-2076,Vitória,ES,2023-11-29
+92,Samuel Soares,samuel.soares92@email.com,(11) 92624-2874,Manaus,AM,2023-08-09
+93,Otávio Carvalho,otávio.carvalho93@email.com,(11) 92557-6120,Goiânia,GO,2023-03-10
+94,Felipe Oliveira,felipe.oliveira94@email.com,(11) 93131-1982,Florianópolis,SC,2023-12-04
+95,Enzo Ribeiro,enzo.ribeiro95@email.com,(11) 95712-6119,Florianópolis,SC,2023-08-06
+96,Igor Pereira,igor.pereira96@email.com,(11) 92882-5564,Salvador,BA,2024-12-11
+97,Lucas Lima,lucas.lima97@email.com,(11) 93972-3347,Manaus,AM,2023-02-01
+98,Larissa Alves,larissa.alves98@email.com,(11) 97062-6105,Campinas,SP,2023-02-23
+99,Tatiane Santos,tatiane.santos99@email.com,(11) 98957-8242,Belo Horizonte,MG,2024-06-08
+100,Fernanda Souza,fernanda.souza100@email.com,(11) 99633-6053,MANAUS,AM,2024-09-05
+101,Nicolas Gomes,nicolas.gomes101@email.com,(11) 95742-6375,Recife,PE,2024-03-16
+102,Caio Fernandes,caio.fernandes102@email.com,(11) 96802-2180,Fortaleza,CE,2024-03-22
+103,Eduarda Costa,eduarda.costa103@email.com,(11) 97843-5743,Florianópolis,sc,2023-11-29
+104,Tatiane Almeida,tatiane.almeida104@email.com,(11) 94986-8138,Belém,PA,2023-12-14
+105,Karina Oliveira,karina.oliveira105@email.com,(11) 94176-6724,João Pessoa,PB,2023-08-30
+106,Rafael Alves,rafael.alves106@email.com,(11) 92234-3902,Porto Alegre,RS,2024-08-16
+107,Paulo Barbosa,paulo.barbosa107@email.com,(11) 93473-8205, goiânia ,GO,2023-11-07
+108,Renata Santos,renata.santos108@email.com,(11) 98404-1616, belém ,PA,2024-06-03
+109,Renata Fernandes,renata.fernandes109@email.com,(11) 94084-6267,Rio de Janeiro,RJ,2023-03-05
+110,Yasmin Oliveira,yasmin.oliveira110@email.com,,João Pessoa,PB,2023-06-12
+111,Thiago Martins,thiago.martins111@email.com,(11) 91857-6482, florianópolis ,SC,2024-11-25
+112,Rafael Barbosa,rafael.barbosa112@email.com,(11) 93317-6731,Curitiba,PR,2024-11-09
+113,Samuel Oliveira,samuel.oliveira113@email.com,(11) 96381-3093,Manaus,AM,2023-01-19
+114,Lucas Alves,lucas.alves114@email.com,(11) 94711-3253,Goiânia,GO,2024-06-23
+115,Yasmin Barbosa,yasmin.barbosa115@email.com,(11) 93962-3712,Curitiba,pr,2024-09-17
+116,Gustavo Pereira,gustavo.pereira116@email.com,(11) 98684-4178,Uberlândia,MG,2024-05-29
+117,Karina Alves,karina.alves117@email.com,,Curitiba,PR,2023-10-19
+118,Karina Lima,karina.lima118@email.com,(11) 98167-2502,Vitória,ES,2023-01-28
+119,Débora Soares,débora.soares119@email.com,(11) 97142-4678,BELÉM,PA,2024-10-27
+120,João Rodrigues,joão.rodrigues120@email.com,(11) 93273-8685,Rio de Janeiro,rj,2023-03-23
+121,Nicolas Rodrigues,nicolas.rodrigues121@email.com,(11) 97934-2821,Uberlândia,MG,2023-05-05
+122,Enzo Barbosa,enzo.barbosa122@email.com,(11) 99189-9782,VITÓRIA,ES,2023-10-26
+123,Tatiane Ribeiro,tatiane.ribeiro123@email.com,(11) 92402-9576,Fortaleza,CE,2024-01-18
+124,Bruno Ribeiro,bruno.ribeiro124@email.com,(11) 92698-6447,Belo Horizonte,MG,2024-12-02
+125,Igor Ferreira,igor.ferreira125@email.com,(11) 98498-1605,Curitiba,pr,2023-11-20
+126,Kevin Martins,kevin.martins126@email.com,,Uberlândia,MG,2023-12-06
+127,Beatriz Carvalho,beatriz.carvalho127@email.com,(11) 97334-6554,Campinas,SP,2024-05-24
+128,Larissa Lima,larissa.lima128@email.com,,Belo Horizonte,MG,2024-07-12
+129,Gabriela Oliveira,gabriela.oliveira129@email.com,(11) 97981-3730,Goiânia,GO,2023-12-28
+130,Fernanda Lima,fernanda.lima130@email.com,(11) 96952-9406,Rio de Janeiro,RJ,2023-02-01
+131,Samuel Almeida,samuel.almeida131@email.com,(11) 97001-6933,Rio de Janeiro,RJ,2024-09-11
+132,Gustavo Ribeiro,gustavo.ribeiro132@email.com,,Belém,PA,2023-11-18
+133,Patrícia Souza,patrícia.souza133@email.com,(11) 97340-2929,São Paulo,SP,2024-04-01
+134,Tatiane Gomes,tatiane.gomes134@email.com,(11) 92213-8406,Natal,RN,2023-11-24
+135,Eduarda Fernandes,eduarda.fernandes135@email.com,(11) 93580-3852,Uberlândia,MG,2023-05-23
+136,Juliana Silva,juliana.silva136@email.com,(11) 93126-2412, belém ,PA,2024-05-05
+137,Enzo Vieira,enzo.vieira137@email.com,(11) 92215-8372,Belo Horizonte,MG,2023-05-13
+138,Daniel Souza,daniel.souza138@email.com,(11) 96286-4694,João Pessoa,PB,2023-09-14
+139,Natália Lima,natália.lima139@email.com,(11) 92530-9234,Curitiba,PR,2024-08-17
+140,Tatiane Barbosa,tatiane.barbosa140@email.com,(11) 91464-2330,GOIÂNIA,GO,2024-08-13
+141,Nicolas Vieira,nicolas.vieira141@email.com,,Florianópolis,SC,2024-05-09
+142,Débora Gomes,débora.gomes142@email.com,,Vitória,ES,2023-07-28
+143,João Costa,joão.costa143@email.com,(11) 97532-3142,Goiânia,GO,2023-04-19
+144,Helena Souza,helena.souza144@email.com,(11) 91829-5754,Brasília,DF,2024-03-04
+145,Karina Costa,karina.costa145@email.com,(11) 99433-8648,Goiânia,GO,2023-01-24
+146,Débora Soares,débora.soares146@email.com,(11) 96781-1797, vitória ,ES,2023-04-21
+147,Rafael Ribeiro,rafael.ribeiro147@email.com,(11) 94189-6939,Campinas,SP,2024-05-31
+148,Natália Lima,natália.lima148@email.com,(11) 97114-6555,Salvador,BA,2023-05-28
+149,Kevin Martins,,,João Pessoa,PB,2023-05-24
+150,Tatiane Costa,tatiane.costa150@email.com,(11) 95902-6511,Porto Alegre,RS,2023-11-03
+151,Bruno Ribeiro,bruno.ribeiro151@email.com,(11) 96040-1436,Goiânia,GO,2024-11-02
+152,Renata Vieira,renata.vieira152@email.com,(11) 93793-9589,Fortaleza,CE,2024-01-25
+153,Patrícia Santos,patrícia.santos153@email.com,(11) 97861-3481,Salvador,BA,2024-06-15
+154,William Lopes,william.lopes154@email.com,(11) 98531-9734,João Pessoa,PB,2024-11-28
+155,Rafael Barbosa,rafael.barbosa155@email.com,(11) 95890-4684,Natal,RN,2024-12-07
+156,William Lopes,william.lopes156@email.com,(11) 95480-5715,Belém,PA,2023-05-30
+157,Thiago Oliveira,thiago.oliveira157@email.com,(11) 98849-4505,Belém,PA,2023-05-21
+158,Renata Pereira,,(11) 94697-4814, fortaleza ,CE,2024-04-28
+159,Isabela Silva,isabela.silva159@email.com,(11) 98793-8822,Uberlândia,MG,2023-10-22
+160,Daniel Oliveira,daniel.oliveira160@email.com,(11) 91611-3868,Fortaleza,CE,2023-01-10
+161,Samuel Souza,samuel.souza161@email.com,(11) 99901-9590,Goiânia,GO,2024-05-31
+162,Mariana Souza,mariana.souza162@email.com,(11) 95215-4050,GOIÂNIA,GO,2023-07-17
+163,Débora Carvalho,débora.carvalho163@email.com,(11) 92562-4027,João Pessoa,PB,2023-09-12
+164,Caio Pereira,caio.pereira164@email.com,(11) 95947-1187,Vitória,ES,2023-08-30
+165,Hugo Almeida,hugo.almeida165@email.com,(11) 96095-2923,Manaus,AM,2024-05-04
+166,Samuel Ribeiro,samuel.ribeiro166@email.com,(11) 99806-4578,Florianópolis,SC,2023-04-25
+167,Natália Soares,natália.soares167@email.com,(11) 96375-9525,Recife,PE,2024-06-06
+168,Daniel Almeida,daniel.almeida168@email.com,(11) 91945-8575,Curitiba,PR,2023-01-23
+169,Ana Alves,,(11) 92044-9866,Belo Horizonte,MG,2024-04-28
+170,Enzo Ferreira,enzo.ferreira170@email.com,(11) 97887-7135,Curitiba,PR,2024-01-22
+171,Marcelo Rodrigues,marcelo.rodrigues171@email.com,(11) 97439-9664,Belém,PA,2023-11-02
+172,Marcelo Carvalho,marcelo.carvalho172@email.com,(11) 98546-6671,Uberlândia,MG,2023-04-26
+173,Enzo Barbosa,enzo.barbosa173@email.com,,São Paulo,SP,2024-11-19
+174,Daniel Pereira,daniel.pereira174@email.com,(11) 94559-1924,Rio de Janeiro,RJ,2024-08-12
+175,Samuel Costa,samuel.costa175@email.com,(11) 99540-4621,Fortaleza,CE,2024-06-21
+176,William Carvalho,william.carvalho176@email.com,(11) 99813-8758,Florianópolis,SC,2024-12-25
+177,Helena Santos,helena.santos177@email.com,(11) 99683-3196,Uberlândia,MG,2023-12-05
+178,Gustavo Ribeiro,gustavo.ribeiro178@email.com,(11) 91844-5398,Belo Horizonte,MG,2024-07-26
+179,Nicolas Costa,nicolas.costa179@email.com,,Manaus,AM,2024-12-13
+180,Nicolas Martins,nicolas.martins180@email.com,(11) 97236-8639,Fortaleza,CE,2023-09-25
+181,Larissa Lima,larissa.lima128@email.com,,Belo Horizonte,MG,2024-07-12
+182,João Rodrigues,joão.rodrigues120@email.com,(11) 93273-8685,Rio de Janeiro,rj,2023-03-23
+183,Rafael Soares,rafael.soares26@email.com,(11) 91832-2512,Natal,RN,2023-02-15
+184,Nicolas Rodrigues,nicolas.rodrigues121@email.com,(11) 97934-2821,Uberlândia,MG,2023-05-05
+185,Débora Silva,débora.silva82@email.com,(11) 95295-7242,Brasília,DF,2024-04-27
+186,Patrícia Lopes,patrícia.lopes53@email.com,,Natal,RN,2023-09-07

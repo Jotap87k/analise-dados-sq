@@ -1,0 +1,30 @@
+# Banco de dados (pode ser regenerado com scripts/gerar_dados.py)
+# Descomente a linha abaixo se preferir não versionar o banco no GitHub
+# database/banco.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.Python
+pip-log.txt
+
+# VS Code
+.vscode/
+!.vscode/extensions.json
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs e temporários
+*.log
+*.tmp
+.ipynb_checkpoints/
+
+# Dados processados temporários (se gerados durante a análise)
+data/processed/*.tmp
